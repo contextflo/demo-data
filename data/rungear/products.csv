@@ -1,0 +1,13 @@
+id,name,category,sku,price,created_at
+prod_d43b2cf8fa29d7ae9b37,RunGear Tempo Trainer,running_shoes,RGT,128,2025-01-01T00:00:00.000Z
+prod_ee93d55d30addeff6954,RunGear Mile Racer,running_shoes,RMR,156,2025-01-01T00:00:00.000Z
+prod_438a44848bc196e6d975,RunGear Trail Flow,running_shoes,RTF,142,2025-01-01T00:00:00.000Z
+prod_0189531a36c049171820,RunGear Race Singlet,singlets,RRS,48,2025-01-01T00:00:00.000Z
+prod_4fb11ac857411bda88a4,RunGear Air Singlet,singlets,RAS,54,2025-01-01T00:00:00.000Z
+prod_2efa0aed0d6e67ecae58,RunGear 5 Inch Short,shorts,R5S,64,2025-01-01T00:00:00.000Z
+prod_1aac77da65d619e6240f,RunGear Trail Short,shorts,RTS,72,2025-01-01T00:00:00.000Z
+prod_ea26883fb1deabd15141,RunGear Crew Sock,socks,RCS,18,2025-01-01T00:00:00.000Z
+prod_ebe756215bbfcde882c1,RunGear Race Sock,socks,RCK,22,2025-01-01T00:00:00.000Z
+prod_72dfeba4701d415d317a,RunGear Wind Shell,jackets,RWS,118,2025-01-01T00:00:00.000Z
+prod_d87cfc68d1aef053d198,RunGear Handheld Bottle,hydration,RHB,34,2025-01-01T00:00:00.000Z
+prod_30d7a0ddc2ef16ba66b9,RunGear Race Belt,accessories,RRB,26,2025-01-01T00:00:00.000Z

@@ -1,0 +1,1630 @@
+id,first_name,last_name,email,city,state,acquisition_source,created_at
+cust_821bda0bd0aa72b0d0eb,Morgan,Allen,morgan.allen.1665@example.com,Austin,TX,organic_search,2025-11-02T09:19:18.000Z
+cust_edde5d2a731c52e35c5f,Miles,Patel,miles.patel.6423@example.com,Tucson,AZ,tiktok,2025-11-02T12:50:47.000Z
+cust_08c02d00dfdc24dd866c,Evan,Miller,evan.miller.7152@example.com,Tempe,AZ,paid_search,2025-11-02T13:34:50.000Z
+cust_1333e0bee295f984813d,Lena,Walker,lena.walker.4134@example.com,Somerville,MA,paid_search,2025-11-02T22:19:24.000Z
+cust_21959317a9e84530421a,Jamie,Walker,jamie.walker.4568@example.com,Chicago,IL,organic_search,2025-11-03T07:34:56.000Z
+cust_432ec66e6e818d95ccf6,Priya,Johnson,priya.johnson.4728@example.com,Tempe,AZ,referral,2025-11-03T17:21:17.000Z
+cust_cdf9e06f23e0c5d542fd,Noah,Walker,noah.walker.2946@example.com,Dallas,TX,email,2025-11-03T17:40:36.000Z
+cust_8dd5f6a6536813b8e2a6,Drew,Miller,drew.miller.3671@example.com,Tampa,FL,popup_event,2025-11-03T23:25:06.000Z
+cust_ecd2ea37dc9ba4b26584,Priya,Clark,priya.clark.8595@example.com,Jacksonville,FL,paid_search,2025-11-04T06:53:49.000Z
+cust_f8699acf22e8e7b69243,Taylor,Hall,taylor.hall.6486@example.com,Eugene,OR,organic_search,2025-11-04T12:03:13.000Z
+cust_589f8fec2ed470e6aa9b,Drew,Walker,drew.walker.5127@example.com,Rochester,NY,email,2025-11-04T12:48:51.000Z
+cust_8a1354d33d0acff52b54,Casey,Hall,casey.hall.4198@example.com,Sacramento,CA,popup_event,2025-11-05T10:07:12.000Z
+cust_1f0f8e583f1bbde338c6,Sofia,Smith,sofia.smith.2450@example.com,Naperville,IL,organic_search,2025-11-05T13:16:58.000Z
+cust_ac438756e3abf72024b7,Evan,Miller,evan.miller.3288@example.com,Bend,OR,organic_search,2025-11-05T14:28:46.000Z
+cust_e9d3394d91f9b01e95fc,Cameron,Miller,cameron.miller.6036@example.com,Denver,CO,popup_event,2025-11-05T15:04:42.000Z
+cust_91785414ac14ff0da4cb,Cameron,Allen,cameron.allen.3186@example.com,Tucson,AZ,organic_search,2025-11-05T20:45:28.000Z
+cust_d162b656ab43795dab0a,Riley,Kim,riley.kim.6528@example.com,Bellevue,WA,tiktok,2025-11-06T17:38:48.000Z
+cust_ad354e967cd48965cb87,Nora,Wright,nora.wright.6335@example.com,Oak Park,IL,paid_search,2025-11-06T19:43:47.000Z
+cust_2bf7aaf3a103bb0ab66c,Drew,Lee,drew.lee.4841@example.com,Naperville,IL,email,2025-11-06T23:54:10.000Z
+cust_efbbc1d5552bef54395f,Jordan,Nguyen,jordan.nguyen.4128@example.com,Sacramento,CA,instagram,2025-11-07T08:05:51.000Z
+cust_e86f24a668d1f41b8ec6,Nora,Wilson,nora.wilson.8759@example.com,Scottsdale,AZ,paid_search,2025-11-07T12:47:47.000Z
+cust_436d95cbd9e7fa5558a7,Noah,Martinez,noah.martinez.1610@example.com,Scottsdale,AZ,email,2025-11-07T13:20:49.000Z
+cust_f62ea95a6d2d90d94e03,Cameron,Clark,cameron.clark.8744@example.com,Tampa,FL,tiktok,2025-11-07T14:36:52.000Z
+cust_e6a5771d24ba675dcf96,Theo,Clark,theo.clark.5776@example.com,Tacoma,WA,referral,2025-11-07T14:57:03.000Z
+cust_16fcce8bad58452d4d48,Alex,Brown,alex.brown.5478@example.com,Newton,MA,paid_search,2025-11-07T15:48:47.000Z
+cust_ceea63936b766282dbd4,Noah,Miller,noah.miller.7288@example.com,New York,NY,popup_event,2025-11-08T12:02:41.000Z
+cust_9b28ab6acc6d0429690f,Iris,Clark,iris.clark.3387@example.com,Houston,TX,email,2025-11-08T17:35:54.000Z
+cust_b53babc7d1a2435f5c82,Theo,Hall,theo.hall.498@example.com,Tempe,AZ,tiktok,2025-11-09T09:43:26.000Z
+cust_e91d3272d04798f95e90,Miles,Johnson,miles.johnson.6855@example.com,Dallas,TX,tiktok,2025-11-09T13:01:45.000Z
+cust_6c227de683c3e7e75d77,Evan,Lewis,evan.lewis.9116@example.com,Los Angeles,CA,popup_event,2025-11-09T13:36:02.000Z
+cust_7b79498fd91d0e656b43,Nora,Lewis,nora.lewis.7205@example.com,Atlanta,GA,popup_event,2025-11-09T15:31:28.000Z
+cust_614b3290fb15d191aa72,Taylor,Clark,taylor.clark.165@example.com,Eugene,OR,tiktok,2025-11-10T10:31:27.000Z
+cust_1163a09a5d8d71331cb2,Evan,Clark,evan.clark.4279@example.com,Durham,NC,organic_search,2025-11-11T07:51:41.000Z
+cust_95777750976fa9c4ce7e,Taylor,Patel,taylor.patel.710@example.com,New York,NY,tiktok,2025-11-11T10:20:35.000Z
+cust_60d60d9117cc179601c2,Morgan,Johnson,morgan.johnson.2944@example.com,Atlanta,GA,email,2025-11-11T11:28:52.000Z
+cust_c15c61df386722731135,Morgan,Anderson,morgan.anderson.4172@example.com,Rochester,NY,email,2025-11-11T17:48:28.000Z
+cust_44dbb037937b86200334,Nora,Nguyen,nora.nguyen.1191@example.com,New York,NY,paid_search,2025-11-12T14:03:24.000Z
+cust_3f8529347d90a51ab98b,Cameron,Davis,cameron.davis.4485@example.com,Bellevue,WA,email,2025-11-12T15:16:46.000Z
+cust_5a98548beb3f17d9a300,Iris,Wilson,iris.wilson.7930@example.com,Raleigh,NC,email,2025-11-12T18:08:18.000Z
+cust_0ed64bee6dcaf435a450,Morgan,Wright,morgan.wright.5279@example.com,Miami,FL,email,2025-11-12T23:26:05.000Z
+cust_8fc5b70337426947f216,Taylor,Lee,taylor.lee.7457@example.com,Evanston,IL,tiktok,2025-11-13T12:38:39.000Z
+cust_9b0c7598f1c91b2c5c57,Noah,Davis,noah.davis.433@example.com,Tempe,AZ,tiktok,2025-11-13T19:06:39.000Z
+cust_df8b17a066e66de22bd1,Morgan,Garcia,morgan.garcia.2650@example.com,Raleigh,NC,tiktok,2025-11-14T10:20:55.000Z
+cust_32de986d1e59cd94f10a,Evan,Kim,evan.kim.5436@example.com,Los Angeles,CA,email,2025-11-14T10:33:57.000Z
+cust_c2ab09602bbb83db18a1,Alex,Lewis,alex.lewis.3059@example.com,Decatur,GA,instagram,2025-11-14T18:30:11.000Z
+cust_9944b7a8693b7c822a56,Casey,Anderson,casey.anderson.3685@example.com,Atlanta,GA,tiktok,2025-11-14T20:05:03.000Z
+cust_1f1c412c9122bcb921b8,Lena,Hall,lena.hall.207@example.com,Boulder,CO,referral,2025-11-14T20:46:48.000Z
+cust_16dc6b21cf8de25a266c,Riley,Smith,riley.smith.7433@example.com,Orlando,FL,instagram,2025-11-14T20:57:07.000Z
+cust_03f81a00b8ec62a76e94,Noah,Davis,noah.davis.210@example.com,San Diego,CA,paid_search,2025-11-14T22:35:35.000Z
+cust_cdc2ca99ddaf6c5f9e8d,Miles,Young,miles.young.7559@example.com,Jacksonville,FL,popup_event,2025-11-14T23:45:06.000Z
+cust_0e7ef888d5356cdf8673,Drew,Patel,drew.patel.1070@example.com,Austin,TX,organic_search,2025-11-15T06:00:44.000Z
+cust_607f9c04db09c5216823,Casey,Garcia,casey.garcia.964@example.com,Eugene,OR,referral,2025-11-15T18:01:17.000Z
+cust_bf783e53f7f17448bbf9,Jordan,Johnson,jordan.johnson.7963@example.com,New York,NY,paid_search,2025-11-16T07:26:53.000Z
+cust_28170c441b3bd119f788,Jamie,Patel,jamie.patel.1930@example.com,Fort Collins,CO,referral,2025-11-16T07:31:11.000Z
+cust_f06b73d5152ab97af1a0,Evan,Miller,evan.miller.5578@example.com,Bellevue,WA,popup_event,2025-11-16T14:41:33.000Z
+cust_a78f6582e4b7116731b4,Cameron,Hall,cameron.hall.2883@example.com,Phoenix,AZ,paid_search,2025-11-16T17:28:45.000Z
+cust_111f0e049d2a75834c69,Cameron,Hall,cameron.hall.4648@example.com,Tempe,AZ,tiktok,2025-11-16T20:53:16.000Z
+cust_05fc163276ec90282617,Maya,Hall,maya.hall.5612@example.com,Cambridge,MA,organic_search,2025-11-16T21:25:37.000Z
+cust_bb8b5df717badeb95691,Priya,Walker,priya.walker.3988@example.com,Tacoma,WA,popup_event,2025-11-16T22:12:13.000Z
+cust_53816a2f726843a07bed,Evan,Johnson,evan.johnson.4915@example.com,Miami,FL,paid_search,2025-11-17T10:01:16.000Z
+cust_2cfe6c4e051db29b6272,Theo,Smith,theo.smith.1304@example.com,Chicago,IL,email,2025-11-17T10:42:16.000Z
+cust_6b27d2ac0e52d35bbab1,Alex,Anderson,alex.anderson.7235@example.com,Decatur,GA,organic_search,2025-11-17T15:43:04.000Z
+cust_5d49a660298982395dd6,Riley,Wilson,riley.wilson.4848@example.com,Seattle,WA,tiktok,2025-11-17T15:46:46.000Z
+cust_ca261b0c38612a979bbf,Riley,Smith,riley.smith.7090@example.com,Asheville,NC,email,2025-11-17T23:14:35.000Z
+cust_fa51023e36fdb9166344,Sofia,Patel,sofia.patel.1359@example.com,Somerville,MA,referral,2025-11-18T07:52:59.000Z
+cust_e035c8fdab8585290dc2,Iris,Johnson,iris.johnson.2619@example.com,Dallas,TX,instagram,2025-11-18T08:32:24.000Z
+cust_1ebe1e9252b56f9112f9,Alex,Nguyen,alex.nguyen.6120@example.com,Fort Worth,TX,tiktok,2025-11-19T09:42:31.000Z
+cust_966873c2b5c00cd69ee3,Taylor,Smith,taylor.smith.352@example.com,Atlanta,GA,popup_event,2025-11-19T15:30:02.000Z
+cust_1ad7998afff84345bca8,Avery,Walker,avery.walker.6170@example.com,Jacksonville,FL,popup_event,2025-11-20T15:11:11.000Z
+cust_f336ad54cc31feee26ca,Casey,Nguyen,casey.nguyen.1321@example.com,Eugene,OR,paid_search,2025-11-20T23:24:22.000Z
+cust_eb1d6b950b6a4f305bc4,Avery,Patel,avery.patel.5740@example.com,Brooklyn,NY,tiktok,2025-11-21T07:45:49.000Z
+cust_aff0a68e45186a611b11,Taylor,Nguyen,taylor.nguyen.3942@example.com,Brooklyn,NY,paid_search,2025-11-21T07:57:09.000Z
+cust_3f89cef5b94c84943304,Maya,Kim,maya.kim.7999@example.com,Oak Park,IL,popup_event,2025-11-21T11:15:19.000Z
+cust_66188d7ebd50d228c645,Jamie,Wright,jamie.wright.4035@example.com,Decatur,GA,popup_event,2025-11-21T15:00:52.000Z
+cust_b144448284e3d7a7813a,Taylor,Young,taylor.young.6868@example.com,Cambridge,MA,popup_event,2025-11-23T09:47:16.000Z
+cust_e8d2d34572e993031c16,Casey,Davis,casey.davis.3166@example.com,Fort Worth,TX,email,2025-11-23T12:06:51.000Z
+cust_cb5fca02f0f201d026d1,Nora,Kim,nora.kim.2462@example.com,Seattle,WA,popup_event,2025-11-23T13:22:01.000Z
+cust_e02e96943f1433bc731c,Theo,Miller,theo.miller.6331@example.com,Houston,TX,instagram,2025-11-23T22:33:39.000Z
+cust_70187f9f298147acdba2,Jamie,Wilson,jamie.wilson.9701@example.com,Eugene,OR,email,2025-11-24T08:34:57.000Z
+cust_24fbfabb42203eb52212,Miles,Allen,miles.allen.4372@example.com,Los Angeles,CA,paid_search,2025-11-25T06:07:12.000Z
+cust_a66e9b7eaafe9b358254,Iris,Patel,iris.patel.6051@example.com,Tucson,AZ,email,2025-11-25T08:45:37.000Z
+cust_2cfffb018b6da486c1a0,Cameron,Wright,cameron.wright.7364@example.com,Phoenix,AZ,tiktok,2025-11-25T09:21:06.000Z
+cust_1cf9944894d03e06c25f,Casey,Clark,casey.clark.3290@example.com,Atlanta,GA,referral,2025-11-25T11:28:49.000Z
+cust_97f12f77fd6d57066f85,Jamie,Davis,jamie.davis.3110@example.com,Denver,CO,email,2025-11-25T15:02:11.000Z
+cust_52f2840b20ba042a6964,Evan,Wilson,evan.wilson.1618@example.com,Savannah,GA,popup_event,2025-11-25T16:23:24.000Z
+cust_b1d3964929bc66978b7f,Noah,Clark,noah.clark.7218@example.com,Houston,TX,tiktok,2025-11-25T22:21:25.000Z
+cust_eed7aba40dca597e216e,Lena,Walker,lena.walker.6238@example.com,Salem,OR,referral,2025-11-26T08:40:00.000Z
+cust_7476b81c52a1674cb4cb,Sofia,Wright,sofia.wright.6004@example.com,Fort Worth,TX,tiktok,2025-11-26T11:09:50.000Z
+cust_d907782f7f4bd245d722,Miles,Clark,miles.clark.6696@example.com,Spokane,WA,email,2025-11-26T18:18:12.000Z
+cust_d5fd1bec62f1d3fa4437,Alex,Martinez,alex.martinez.8553@example.com,San Diego,CA,email,2025-11-26T23:58:12.000Z
+cust_10851c153ac0ce09be54,Taylor,Martinez,taylor.martinez.6723@example.com,Cambridge,MA,organic_search,2025-11-27T14:30:41.000Z
+cust_40c0e309f58168c9ab45,Sofia,Martinez,sofia.martinez.9886@example.com,Portland,OR,popup_event,2025-11-27T19:09:33.000Z
+cust_cdb0ce59d877631e9274,Riley,Nguyen,riley.nguyen.6439@example.com,New York,NY,paid_search,2025-11-27T22:55:44.000Z
+cust_e1f5b0abb2f3caac9ec9,Riley,Lewis,riley.lewis.2121@example.com,Fort Worth,TX,popup_event,2025-11-28T08:36:49.000Z
+cust_511abf75823afc04e5e6,Priya,Martinez,priya.martinez.8470@example.com,Salem,OR,tiktok,2025-11-28T16:27:59.000Z
+cust_b43613ccdbe9fff23e62,Maya,Clark,maya.clark.5800@example.com,Naperville,IL,tiktok,2025-11-28T23:33:23.000Z
+cust_e97968faa910cbda5958,Iris,Smith,iris.smith.2283@example.com,Fort Worth,TX,tiktok,2025-11-29T12:01:23.000Z
+cust_4351438d111553e829ac,Cameron,Allen,cameron.allen.4648@example.com,Miami,FL,email,2025-11-29T23:16:07.000Z
+cust_81b15429ca1f61c0f2c5,Noah,Johnson,noah.johnson.6726@example.com,Brooklyn,NY,popup_event,2025-11-30T07:34:50.000Z
+cust_f17954ea528cd575965e,Priya,Martinez,priya.martinez.7656@example.com,Phoenix,AZ,email,2025-11-30T10:24:43.000Z
+cust_7d6e3ddb19b67fb167c8,Nora,Kim,nora.kim.2446@example.com,Savannah,GA,referral,2025-11-30T13:04:35.000Z
+cust_c7387dea0c59338a0035,Miles,Lewis,miles.lewis.4109@example.com,Los Angeles,CA,organic_search,2025-11-30T16:46:06.000Z
+cust_f22dd7b4e03a1904a4e3,Cameron,Martinez,cameron.martinez.2690@example.com,Brooklyn,NY,referral,2025-11-30T19:51:16.000Z
+cust_146342b7daf282ee6c93,Alex,Hall,alex.hall.3715@example.com,Tacoma,WA,organic_search,2025-11-30T22:32:43.000Z
+cust_a296bfa72622312112b8,Jordan,Allen,jordan.allen.1686@example.com,Charlotte,NC,referral,2025-11-30T23:41:51.000Z
+cust_67dfa234a5499925ce5f,Maya,Walker,maya.walker.8523@example.com,Raleigh,NC,instagram,2025-12-01T07:45:55.000Z
+cust_c1b6fef593f04c1644ea,Alex,Johnson,alex.johnson.5960@example.com,Durham,NC,organic_search,2025-12-01T09:24:13.000Z
+cust_e869c7647a8b943c72e3,Avery,Lee,avery.lee.8553@example.com,San Francisco,CA,referral,2025-12-01T09:48:39.000Z
+cust_b4d77dca6cf8d726b445,Nora,Young,nora.young.6756@example.com,Fort Worth,TX,popup_event,2025-12-01T16:21:42.000Z
+cust_bfabff23c4a557e56b05,Theo,Patel,theo.patel.9268@example.com,Chicago,IL,instagram,2025-12-01T21:04:53.000Z
+cust_92576f9393c26897a22e,Evan,Wright,evan.wright.5217@example.com,Bend,OR,referral,2025-12-02T15:00:41.000Z
+cust_e9274eaa5939bea43db7,Miles,Lewis,miles.lewis.8243@example.com,Fort Collins,CO,organic_search,2025-12-02T15:10:02.000Z
+cust_df55be82648aa36f9a5f,Jamie,Lewis,jamie.lewis.4872@example.com,Dallas,TX,tiktok,2025-12-02T17:44:46.000Z
+cust_f0da68eb483b70f7f3b2,Iris,Martinez,iris.martinez.473@example.com,Jacksonville,FL,popup_event,2025-12-02T19:05:11.000Z
+cust_7f893780af2223137b79,Nora,Wilson,nora.wilson.2487@example.com,Savannah,GA,tiktok,2025-12-03T06:35:15.000Z
+cust_fa30208c1dc8796692bd,Miles,Martinez,miles.martinez.1351@example.com,Cambridge,MA,instagram,2025-12-03T10:37:14.000Z
+cust_000bf4686aa35097e80f,Jordan,Garcia,jordan.garcia.8085@example.com,Charlotte,NC,instagram,2025-12-04T10:51:20.000Z
+cust_2b54470ace49b877ede2,Evan,Anderson,evan.anderson.1664@example.com,Spokane,WA,organic_search,2025-12-04T10:55:00.000Z
+cust_8fb1d19dd4464026d68d,Cameron,Lewis,cameron.lewis.3902@example.com,Orlando,FL,instagram,2025-12-04T11:25:03.000Z
+cust_c000315730f827c1278d,Nora,Young,nora.young.9400@example.com,Chicago,IL,instagram,2025-12-04T12:49:32.000Z
+cust_cb1fc1a5e988c9828c23,Taylor,Nguyen,taylor.nguyen.3719@example.com,Salem,OR,instagram,2025-12-04T15:12:44.000Z
+cust_1975994da3f25777d5ca,Alex,Allen,alex.allen.4128@example.com,Newton,MA,organic_search,2025-12-04T21:16:01.000Z
+cust_096db5862a733f30b5e3,Theo,Johnson,theo.johnson.1349@example.com,San Diego,CA,paid_search,2025-12-05T06:18:36.000Z
+cust_5a5888eace46e21d4c01,Alex,Walker,alex.walker.2579@example.com,Boston,MA,email,2025-12-05T06:50:06.000Z
+cust_6bfad8f52539c61744e5,Drew,Smith,drew.smith.9177@example.com,Somerville,MA,tiktok,2025-12-05T09:37:06.000Z
+cust_e10ba7a9ca0b753eb189,Casey,Johnson,casey.johnson.1463@example.com,New York,NY,email,2025-12-05T11:34:52.000Z
+cust_b092439e3482162bb1f0,Maya,Miller,maya.miller.5793@example.com,Naperville,IL,paid_search,2025-12-05T14:55:30.000Z
+cust_2ccaccf37ec1b8ab0d8e,Jamie,Clark,jamie.clark.585@example.com,New York,NY,paid_search,2025-12-05T16:52:19.000Z
+cust_6b335b50b620a04750fa,Maya,Lee,maya.lee.8295@example.com,Tampa,FL,organic_search,2025-12-05T17:31:34.000Z
+cust_1ca679561fc759324523,Jordan,Young,jordan.young.727@example.com,Houston,TX,instagram,2025-12-05T20:21:55.000Z
+cust_75ac67f330017e0171cf,Taylor,Nguyen,taylor.nguyen.2958@example.com,Jacksonville,FL,tiktok,2025-12-06T21:23:00.000Z
+cust_328212cdaf4efe2fe873,Taylor,Garcia,taylor.garcia.226@example.com,Salem,OR,popup_event,2025-12-07T13:10:58.000Z
+cust_8e8414bb566e93da9219,Evan,Miller,evan.miller.663@example.com,Houston,TX,tiktok,2025-12-07T20:57:01.000Z
+cust_3086392983eb9effb4e4,Drew,Davis,drew.davis.8520@example.com,Rochester,NY,paid_search,2025-12-07T23:11:40.000Z
+cust_3a2bb7af97d0f2bef5b5,Casey,Clark,casey.clark.3700@example.com,San Francisco,CA,paid_search,2025-12-08T10:56:16.000Z
+cust_b83641ce1b8975c5df7d,Evan,Lee,evan.lee.5020@example.com,Denver,CO,email,2025-12-08T23:05:06.000Z
+cust_2a89b3f9a430105550f3,Riley,Miller,riley.miller.8749@example.com,Eugene,OR,instagram,2025-12-09T15:47:51.000Z
+cust_29aa550b3515bebf5110,Jordan,Anderson,jordan.anderson.3002@example.com,Rochester,NY,tiktok,2025-12-10T13:42:53.000Z
+cust_b12eb8145810f86ffbf0,Morgan,Miller,morgan.miller.8563@example.com,Naperville,IL,paid_search,2025-12-10T15:12:52.000Z
+cust_fd1289f43a768f6a571b,Avery,Smith,avery.smith.2199@example.com,Bellevue,WA,organic_search,2025-12-10T18:04:30.000Z
+cust_5cd00214a3d7776aa2ed,Jamie,Brown,jamie.brown.8857@example.com,Athens,GA,email,2025-12-11T07:33:25.000Z
+cust_5abcd80406ecd75d9c7d,Noah,Anderson,noah.anderson.3612@example.com,Rochester,NY,email,2025-12-11T08:45:19.000Z
+cust_bb09396f094fc84678a2,Evan,Wilson,evan.wilson.7285@example.com,Miami,FL,organic_search,2025-12-11T15:30:11.000Z
+cust_b964a419defd45cd75cb,Maya,Miller,maya.miller.6296@example.com,Eugene,OR,referral,2025-12-11T16:27:02.000Z
+cust_31b8ebfb1e307d66a731,Drew,Clark,drew.clark.9532@example.com,Durham,NC,popup_event,2025-12-11T22:09:57.000Z
+cust_0e0ecc1fbbcb18096d03,Cameron,Allen,cameron.allen.5156@example.com,Fort Collins,CO,organic_search,2025-12-12T16:16:32.000Z
+cust_6888ebb2907d75b334eb,Riley,Wilson,riley.wilson.3852@example.com,Scottsdale,AZ,popup_event,2025-12-13T19:53:30.000Z
+cust_d957779c3214f6de95ed,Nora,Clark,nora.clark.4594@example.com,Boston,MA,popup_event,2025-12-14T15:17:12.000Z
+cust_30fed5e1ab477d9d67d4,Priya,Wilson,priya.wilson.6388@example.com,Sacramento,CA,referral,2025-12-14T16:37:27.000Z
+cust_094899b9dc8467ce3f07,Noah,Anderson,noah.anderson.8142@example.com,Fort Collins,CO,tiktok,2025-12-14T20:35:06.000Z
+cust_95ed0dd9139ab9d80b05,Taylor,Allen,taylor.allen.7048@example.com,Seattle,WA,paid_search,2025-12-15T14:31:34.000Z
+cust_60f71094920124ee674d,Maya,Martinez,maya.martinez.9364@example.com,Rochester,NY,paid_search,2025-12-15T18:58:31.000Z
+cust_51ec42e93fba841c96cd,Jordan,Johnson,jordan.johnson.719@example.com,Phoenix,AZ,popup_event,2025-12-15T19:10:44.000Z
+cust_4bb29cd92ec0655449ec,Miles,Miller,miles.miller.1730@example.com,Houston,TX,paid_search,2025-12-16T06:06:17.000Z
+cust_cce75e8b4a0e1584bf8d,Sofia,Johnson,sofia.johnson.7484@example.com,Savannah,GA,instagram,2025-12-16T08:03:27.000Z
+cust_148ca07f01ffc8e32a81,Noah,Anderson,noah.anderson.7331@example.com,Portland,OR,popup_event,2025-12-16T09:57:21.000Z
+cust_e94912248fd38e1e5847,Cameron,Nguyen,cameron.nguyen.9395@example.com,Orlando,FL,referral,2025-12-16T21:04:05.000Z
+cust_4b374231b25bece7e418,Miles,Clark,miles.clark.7342@example.com,Fort Worth,TX,paid_search,2025-12-17T09:52:35.000Z
+cust_c5be1ef0fbc9aa0ad105,Noah,Young,noah.young.1335@example.com,Fort Worth,TX,instagram,2025-12-17T15:53:56.000Z
+cust_314cd058ebd80d16f1e6,Avery,Wilson,avery.wilson.4595@example.com,Tempe,AZ,instagram,2025-12-17T18:07:32.000Z
+cust_e9cf057121b9d83b352b,Miles,Walker,miles.walker.8028@example.com,Charlotte,NC,instagram,2025-12-18T14:20:07.000Z
+cust_7cb6891c74a5e76c5c9e,Alex,Allen,alex.allen.2450@example.com,Portland,OR,referral,2025-12-18T17:57:17.000Z
+cust_6128d38cd56e86719f23,Nora,Lewis,nora.lewis.3911@example.com,Salem,OR,referral,2025-12-19T14:53:47.000Z
+cust_b57181827b8c8d613a68,Evan,Garcia,evan.garcia.6983@example.com,Oak Park,IL,tiktok,2025-12-19T23:10:08.000Z
+cust_0b2f061d54f8e79dfcee,Theo,Wright,theo.wright.2266@example.com,Bellevue,WA,email,2025-12-19T23:55:06.000Z
+cust_54acbb5eb83e11d3781e,Jordan,Anderson,jordan.anderson.2701@example.com,Newton,MA,tiktok,2025-12-20T07:12:48.000Z
+cust_2b1aaf8b848a272915f1,Avery,Nguyen,avery.nguyen.7032@example.com,New York,NY,popup_event,2025-12-20T08:56:53.000Z
+cust_7e527b76c1cf1c2c4080,Jamie,Smith,jamie.smith.4974@example.com,Newton,MA,email,2025-12-22T09:31:22.000Z
+cust_3cb2859167127d1ecf17,Nora,Miller,nora.miller.7478@example.com,Fort Worth,TX,organic_search,2025-12-22T10:03:52.000Z
+cust_66865f0e803c6eb9c856,Avery,Kim,avery.kim.9775@example.com,Buffalo,NY,referral,2025-12-22T22:11:13.000Z
+cust_a3015f1f870b5fca5351,Avery,Miller,avery.miller.5959@example.com,Eugene,OR,referral,2025-12-22T22:22:52.000Z
+cust_ee2b3fccc582d96ad0f8,Nora,Smith,nora.smith.2509@example.com,Spokane,WA,organic_search,2025-12-23T10:25:02.000Z
+cust_95bdce78df645b786700,Iris,Clark,iris.clark.7555@example.com,Bend,OR,instagram,2025-12-23T12:11:51.000Z
+cust_2b8c8982e212731bc533,Iris,Lewis,iris.lewis.5170@example.com,Salem,OR,popup_event,2025-12-23T17:19:32.000Z
+cust_501a9ce8fd448c673fba,Lena,Walker,lena.walker.5295@example.com,Athens,GA,popup_event,2025-12-24T13:03:32.000Z
+cust_1aae00d28d3a00bcea0a,Iris,Davis,iris.davis.3141@example.com,Fort Collins,CO,popup_event,2025-12-24T19:24:13.000Z
+cust_e4f2e707a55c4878f253,Cameron,Martinez,cameron.martinez.8955@example.com,Scottsdale,AZ,referral,2025-12-25T12:38:41.000Z
+cust_d38d523a306fe485d7f4,Iris,Hall,iris.hall.3880@example.com,Asheville,NC,paid_search,2025-12-26T15:45:29.000Z
+cust_fc9c75285535b4b79fcb,Jamie,Hall,jamie.hall.4622@example.com,Buffalo,NY,paid_search,2025-12-26T22:15:12.000Z
+cust_51d5b47ba242225627a3,Cameron,Johnson,cameron.johnson.8120@example.com,Scottsdale,AZ,popup_event,2025-12-27T07:53:55.000Z
+cust_c8df633746c4cb41a62d,Sofia,Brown,sofia.brown.7492@example.com,Scottsdale,AZ,organic_search,2025-12-28T08:59:45.000Z
+cust_7ff2aa33c3e41140643c,Lena,Hall,lena.hall.1062@example.com,Los Angeles,CA,email,2025-12-28T13:25:15.000Z
+cust_f9eadae9668808f62fee,Lena,Anderson,lena.anderson.7868@example.com,Dallas,TX,paid_search,2025-12-28T20:23:28.000Z
+cust_f7b686f3a79fd4a4ce79,Alex,Davis,alex.davis.6637@example.com,Evanston,IL,instagram,2025-12-29T08:31:28.000Z
+cust_56974b85b37b93375239,Casey,Hall,casey.hall.5145@example.com,Sacramento,CA,instagram,2025-12-29T17:36:31.000Z
+cust_6e142583300c8d777374,Avery,Kim,avery.kim.3250@example.com,Naperville,IL,tiktok,2025-12-29T18:22:19.000Z
+cust_be4bb82483fff1091a8b,Morgan,Lewis,morgan.lewis.4345@example.com,Newton,MA,instagram,2025-12-30T06:05:15.000Z
+cust_afe4fce87e3560ba0f06,Jamie,Smith,jamie.smith.6209@example.com,Durham,NC,tiktok,2025-12-30T10:00:02.000Z
+cust_bdabe3cad86f50f47fbc,Evan,Lee,evan.lee.6396@example.com,Fort Worth,TX,organic_search,2025-12-30T13:36:48.000Z
+cust_abc53a8a715b6a1e1f69,Drew,Miller,drew.miller.7950@example.com,Tucson,AZ,popup_event,2025-12-30T21:40:01.000Z
+cust_debfee9380f646c4ea97,Cameron,Miller,cameron.miller.4878@example.com,Eugene,OR,tiktok,2025-12-31T07:07:26.000Z
+cust_9679a6bb4a4d37b3110c,Iris,Kim,iris.kim.2862@example.com,Los Angeles,CA,instagram,2025-12-31T15:19:31.000Z
+cust_c5067842280d18fd24fa,Cameron,Wright,cameron.wright.3359@example.com,Eugene,OR,instagram,2025-12-31T17:08:16.000Z
+cust_c6d7f3bf5521bfa7156a,Taylor,Martinez,taylor.martinez.9328@example.com,Durham,NC,organic_search,2025-12-31T18:39:27.000Z
+cust_8c1a01eb4055a985c9bf,Sofia,Lewis,sofia.lewis.561@example.com,Atlanta,GA,referral,2025-12-31T20:26:23.000Z
+cust_464f83cf9cfbef8ca3e9,Taylor,Kim,taylor.kim.2987@example.com,Orlando,FL,tiktok,2026-01-08T16:42:35.000Z
+cust_ec36e0ff3440d6240325,Morgan,Anderson,morgan.anderson.581@example.com,Brooklyn,NY,popup_event,2026-01-10T06:01:19.000Z
+cust_592786370de3d1e561a6,Miles,Wilson,miles.wilson.9104@example.com,Bend,OR,instagram,2026-01-10T19:24:43.000Z
+cust_f86bcd473c74a71ea282,Riley,Lee,riley.lee.8678@example.com,Buffalo,NY,popup_event,2026-01-11T14:41:02.000Z
+cust_d898fb13ddb9f1e24f02,Lena,Martinez,lena.martinez.9547@example.com,Orlando,FL,instagram,2026-01-11T15:15:43.000Z
+cust_412fba66cbdf241c4cf3,Miles,Nguyen,miles.nguyen.5011@example.com,Spokane,WA,referral,2026-01-13T13:14:56.000Z
+cust_661321ee31a6a91c244d,Jamie,Miller,jamie.miller.2036@example.com,Asheville,NC,instagram,2026-01-13T14:41:16.000Z
+cust_730e9a06b9dc61524e23,Drew,Smith,drew.smith.7333@example.com,Spokane,WA,tiktok,2026-01-13T17:35:26.000Z
+cust_9343b4e59f454f6aa942,Jordan,Hall,jordan.hall.1730@example.com,Boulder,CO,referral,2026-01-14T12:07:21.000Z
+cust_96abe667a8296531b8f6,Drew,Wright,drew.wright.3253@example.com,Somerville,MA,instagram,2026-01-14T23:00:24.000Z
+cust_316cbcfd24f4f0e79d84,Iris,Hall,iris.hall.1922@example.com,Charlotte,NC,tiktok,2026-01-15T16:48:33.000Z
+cust_8dbbb261caa27bee69f5,Lena,Walker,lena.walker.2749@example.com,Portland,OR,instagram,2026-01-15T18:21:29.000Z
+cust_f84fa3aa5db890b197a7,Maya,Anderson,maya.anderson.5542@example.com,New York,NY,instagram,2026-01-15T19:57:36.000Z
+cust_51c2859df6b42fec7c75,Miles,Young,miles.young.5433@example.com,Scottsdale,AZ,instagram,2026-01-17T14:43:21.000Z
+cust_538e92c2a1475c05775b,Iris,Clark,iris.clark.4597@example.com,Naperville,IL,paid_search,2026-01-17T15:44:49.000Z
+cust_7fae067d271e7695bece,Nora,Garcia,nora.garcia.3253@example.com,Boston,MA,tiktok,2026-01-17T22:22:28.000Z
+cust_cff72b082ba654543c6b,Lena,Lewis,lena.lewis.4942@example.com,Bellevue,WA,instagram,2026-01-21T06:56:27.000Z
+cust_843bbb30d0868c6934d5,Taylor,Wilson,taylor.wilson.1419@example.com,Asheville,NC,paid_search,2026-01-21T08:37:23.000Z
+cust_aba8f5681f190465f5f2,Morgan,Wilson,morgan.wilson.386@example.com,Boulder,CO,popup_event,2026-01-21T21:05:49.000Z
+cust_bb45db0341107d136289,Drew,Hall,drew.hall.2991@example.com,Bellevue,WA,popup_event,2026-01-22T09:06:05.000Z
+cust_1107d46b44bec518126a,Lena,Lee,lena.lee.3961@example.com,Savannah,GA,tiktok,2026-01-22T09:56:06.000Z
+cust_4895dbddd79903ccf492,Casey,Clark,casey.clark.4455@example.com,Charlotte,NC,organic_search,2026-01-22T12:26:00.000Z
+cust_41202427d0a4b2e56ad7,Miles,Lee,miles.lee.9722@example.com,Spokane,WA,popup_event,2026-01-22T18:23:56.000Z
+cust_a169c4adfcb98c75eb75,Taylor,Hall,taylor.hall.7794@example.com,Fort Collins,CO,popup_event,2026-01-23T13:07:13.000Z
+cust_e6eab57226dd0905819b,Maya,Nguyen,maya.nguyen.4391@example.com,Brooklyn,NY,email,2026-01-23T18:34:34.000Z
+cust_99222b35d84683af3500,Iris,Walker,iris.walker.8741@example.com,Salem,OR,email,2026-01-24T22:50:51.000Z
+cust_76094e47ac27198d2ccd,Theo,Hall,theo.hall.8915@example.com,Seattle,WA,organic_search,2026-01-25T15:09:08.000Z
+cust_9d86864136ccf2f11d6e,Taylor,Clark,taylor.clark.6975@example.com,Brooklyn,NY,popup_event,2026-01-25T18:11:49.000Z
+cust_467ab0d539e4f8df5b38,Sofia,Kim,sofia.kim.5625@example.com,Phoenix,AZ,paid_search,2026-01-27T09:24:13.000Z
+cust_43217afa457ce5ec8912,Drew,Martinez,drew.martinez.7266@example.com,San Diego,CA,popup_event,2026-01-27T19:01:19.000Z
+cust_c09335b491037a6b0c16,Iris,Brown,iris.brown.1178@example.com,Bend,OR,instagram,2026-01-28T11:50:34.000Z
+cust_843ffe99961bec6399d9,Jamie,Clark,jamie.clark.8902@example.com,Cambridge,MA,popup_event,2026-01-28T16:24:00.000Z
+cust_4a484f501d56bc9fd2f3,Cameron,Nguyen,cameron.nguyen.5890@example.com,San Diego,CA,popup_event,2026-01-29T16:20:20.000Z
+cust_ac7d7508254e90679874,Riley,Hall,riley.hall.5983@example.com,Chicago,IL,popup_event,2026-01-30T16:54:52.000Z
+cust_1e77ca5512954599d49f,Miles,Allen,miles.allen.1002@example.com,Durham,NC,organic_search,2026-01-31T10:16:47.000Z
+cust_2a2fa013190442b92e19,Evan,Lewis,evan.lewis.1099@example.com,Asheville,NC,email,2026-01-31T11:33:31.000Z
+cust_ac134c083581e3cd5179,Cameron,Brown,cameron.brown.8493@example.com,Colorado Springs,CO,tiktok,2026-01-31T20:03:03.000Z
+cust_02a3421794224a3ecc5a,Avery,Hall,avery.hall.6714@example.com,Denver,CO,paid_search,2026-02-01T08:26:38.000Z
+cust_2f4de23108b6aeb22333,Evan,Johnson,evan.johnson.8937@example.com,Scottsdale,AZ,paid_search,2026-02-01T13:34:36.000Z
+cust_8296979f53294e132149,Jamie,Nguyen,jamie.nguyen.6851@example.com,San Diego,CA,email,2026-02-02T14:27:40.000Z
+cust_8603c25c7f8e2cc54116,Casey,Brown,casey.brown.2578@example.com,Decatur,GA,instagram,2026-02-02T15:56:37.000Z
+cust_08aa6713036a9d07e8d6,Nora,Davis,nora.davis.2564@example.com,Newton,MA,tiktok,2026-02-02T19:41:50.000Z
+cust_625e59e561e88421c202,Lena,Patel,lena.patel.4413@example.com,Decatur,GA,email,2026-02-02T19:57:46.000Z
+cust_3ec77dd6f2c678f825db,Riley,Brown,riley.brown.5582@example.com,Naperville,IL,referral,2026-02-03T12:22:45.000Z
+cust_a94655c92fcbb4d5c0e6,Taylor,Brown,taylor.brown.7026@example.com,Portland,OR,paid_search,2026-02-03T13:25:14.000Z
+cust_fad144248cd02ec15ecb,Theo,Davis,theo.davis.1262@example.com,Newton,MA,organic_search,2026-02-03T16:50:20.000Z
+cust_4848a15725d897620437,Casey,Wilson,casey.wilson.4138@example.com,Oak Park,IL,instagram,2026-02-04T06:08:47.000Z
+cust_c69a802280738bcd9b6b,Sofia,Hall,sofia.hall.268@example.com,Houston,TX,email,2026-02-04T08:19:48.000Z
+cust_73a2dde28c118f306703,Miles,Lee,miles.lee.8321@example.com,Boston,MA,paid_search,2026-02-04T12:12:59.000Z
+cust_848ebf52158799e13ecc,Jamie,Miller,jamie.miller.1790@example.com,Boulder,CO,paid_search,2026-02-04T12:34:35.000Z
+cust_f3757ed3c1ff759c1999,Iris,Nguyen,iris.nguyen.7708@example.com,Newton,MA,email,2026-02-04T13:10:25.000Z
+cust_8fd774e7907d2c847f4f,Riley,Nguyen,riley.nguyen.4533@example.com,Fort Collins,CO,instagram,2026-02-04T20:00:41.000Z
+cust_340bda3e2ec09dbabb68,Taylor,Allen,taylor.allen.7610@example.com,Buffalo,NY,paid_search,2026-02-05T06:39:10.000Z
+cust_b0ec65d21ca0f118932d,Drew,Patel,drew.patel.3510@example.com,Denver,CO,tiktok,2026-02-05T07:11:56.000Z
+cust_eb63894240166165d8fa,Drew,Davis,drew.davis.2677@example.com,Brooklyn,NY,referral,2026-02-05T19:37:27.000Z
+cust_34f52791295e2b1f1bc9,Alex,Patel,alex.patel.9032@example.com,Dallas,TX,organic_search,2026-02-06T07:48:38.000Z
+cust_b5202424026e54c0e36e,Cameron,Wright,cameron.wright.5850@example.com,Buffalo,NY,email,2026-02-06T11:36:10.000Z
+cust_b5157f2c9ef87de9c645,Nora,Wilson,nora.wilson.3674@example.com,Scottsdale,AZ,paid_search,2026-02-06T14:31:23.000Z
+cust_3fe202bb5392f3e22d63,Casey,Wilson,casey.wilson.6354@example.com,Houston,TX,popup_event,2026-02-06T14:33:21.000Z
+cust_c3278c96923e0f593b7a,Riley,Kim,riley.kim.4526@example.com,Fort Worth,TX,tiktok,2026-02-06T16:32:30.000Z
+cust_af5b95d0af14748eb535,Riley,Miller,riley.miller.9351@example.com,Fort Collins,CO,popup_event,2026-02-06T16:36:53.000Z
+cust_67eebda896395a8819e2,Avery,Lewis,avery.lewis.3912@example.com,Salem,OR,popup_event,2026-02-06T17:32:49.000Z
+cust_503862a228d535500165,Cameron,Nguyen,cameron.nguyen.8015@example.com,Durham,NC,instagram,2026-02-06T19:32:27.000Z
+cust_5f4e42e80a7a38703708,Maya,Wilson,maya.wilson.1043@example.com,Denver,CO,referral,2026-02-06T20:13:35.000Z
+cust_b8c721c42efe65d80de1,Nora,Hall,nora.hall.2194@example.com,Newton,MA,referral,2026-02-06T23:19:24.000Z
+cust_f8cdc7d9ce71d7feefee,Theo,Clark,theo.clark.7276@example.com,Tampa,FL,email,2026-02-07T11:18:44.000Z
+cust_d42bee5275c5e39ccde3,Nora,Martinez,nora.martinez.2970@example.com,Jacksonville,FL,paid_search,2026-02-07T16:04:04.000Z
+cust_3c63706c154e87820548,Jordan,Wright,jordan.wright.5269@example.com,Spokane,WA,organic_search,2026-02-07T16:52:40.000Z
+cust_b3af745cd1ff71e15df8,Jordan,Davis,jordan.davis.5725@example.com,Atlanta,GA,email,2026-02-08T08:29:22.000Z
+cust_e47ff41e49cf3cfdce92,Cameron,Johnson,cameron.johnson.1063@example.com,Charlotte,NC,popup_event,2026-02-08T11:28:49.000Z
+cust_f852f11543c8549fd0b2,Alex,Davis,alex.davis.6884@example.com,Asheville,NC,email,2026-02-08T22:08:10.000Z
+cust_df37d1e9d455e7444df9,Evan,Kim,evan.kim.9057@example.com,Chicago,IL,tiktok,2026-02-09T06:46:15.000Z
+cust_d6dd6e235270d9a7ef16,Riley,Brown,riley.brown.5295@example.com,Boulder,CO,referral,2026-02-09T07:48:43.000Z
+cust_be46b654be718a2f916e,Cameron,Lee,cameron.lee.2497@example.com,Cambridge,MA,email,2026-02-09T12:11:46.000Z
+cust_d035c9e34cd3c3bf0acf,Alex,Kim,alex.kim.604@example.com,Oak Park,IL,referral,2026-02-09T18:17:19.000Z
+cust_7636416ca066d8dbda5b,Alex,Allen,alex.allen.4915@example.com,Seattle,WA,popup_event,2026-02-09T20:24:57.000Z
+cust_a57a7eb1a76150d008ef,Sofia,Johnson,sofia.johnson.6415@example.com,Spokane,WA,tiktok,2026-02-10T12:51:28.000Z
+cust_984e77cc1dc2bfd87a27,Taylor,Smith,taylor.smith.5880@example.com,Bend,OR,instagram,2026-02-10T12:59:01.000Z
+cust_6eab7611d16fd88eac5e,Nora,Lewis,nora.lewis.7503@example.com,Oak Park,IL,tiktok,2026-02-10T17:51:18.000Z
+cust_302d1e99cd13756d9ebd,Evan,Davis,evan.davis.2134@example.com,Orlando,FL,referral,2026-02-11T12:40:15.000Z
+cust_d8f5c706944c8f4b2963,Riley,Kim,riley.kim.6357@example.com,Eugene,OR,referral,2026-02-11T19:22:34.000Z
+cust_7e9ea4d64b88b21cef31,Drew,Johnson,drew.johnson.8002@example.com,Miami,FL,referral,2026-02-12T15:15:52.000Z
+cust_dd4a1010131cd53a9a6d,Casey,Walker,casey.walker.4528@example.com,Tempe,AZ,popup_event,2026-02-12T15:42:18.000Z
+cust_8486933decab12928d69,Priya,Brown,priya.brown.1520@example.com,Scottsdale,AZ,organic_search,2026-02-12T19:59:42.000Z
+cust_e3a245631da69d98fa87,Alex,Miller,alex.miller.3218@example.com,Savannah,GA,email,2026-02-13T12:32:14.000Z
+cust_83e0df584902aa9cd2e9,Morgan,Clark,morgan.clark.4666@example.com,Seattle,WA,paid_search,2026-02-13T13:14:45.000Z
+cust_217070f56f4c8746d273,Noah,Kim,noah.kim.5266@example.com,Savannah,GA,referral,2026-02-13T17:06:31.000Z
+cust_65d84105833f8e53cfc7,Taylor,Hall,taylor.hall.1634@example.com,Dallas,TX,instagram,2026-02-13T20:54:21.000Z
+cust_fc71eba4ce9e9d096321,Evan,Miller,evan.miller.1697@example.com,Durham,NC,organic_search,2026-02-14T13:55:33.000Z
+cust_228e18e379cec4d2a5d5,Maya,Young,maya.young.7460@example.com,Phoenix,AZ,instagram,2026-02-14T17:50:39.000Z
+cust_06392801fbbdd6e30975,Priya,Lee,priya.lee.776@example.com,Tampa,FL,email,2026-02-14T20:54:44.000Z
+cust_735b25b21b6e4fcb15f4,Jordan,Kim,jordan.kim.3144@example.com,Fort Worth,TX,referral,2026-02-14T21:26:02.000Z
+cust_4def9957d9c3a3e8eca4,Lena,Anderson,lena.anderson.7095@example.com,Miami,FL,instagram,2026-02-15T07:36:30.000Z
+cust_6fd8d282edb96ab401bc,Priya,Hall,priya.hall.3164@example.com,Tempe,AZ,organic_search,2026-02-15T13:48:30.000Z
+cust_c4145a08e4bb9fa8eefe,Nora,Anderson,nora.anderson.2501@example.com,Salem,OR,instagram,2026-02-15T18:40:17.000Z
+cust_7ad3753e599d655e7e0a,Iris,Clark,iris.clark.9511@example.com,Asheville,NC,paid_search,2026-02-16T15:10:17.000Z
+cust_7f8f97a83e424d4c23d7,Sofia,Johnson,sofia.johnson.949@example.com,Oak Park,IL,paid_search,2026-02-17T15:14:23.000Z
+cust_d20d4bd12278e7e90393,Cameron,Lee,cameron.lee.5469@example.com,Jacksonville,FL,tiktok,2026-02-17T23:44:01.000Z
+cust_3d2ec425a05273e8aed4,Noah,Martinez,noah.martinez.721@example.com,Los Angeles,CA,email,2026-02-18T07:10:10.000Z
+cust_e05d43e992da10d31173,Jordan,Wilson,jordan.wilson.8357@example.com,Phoenix,AZ,email,2026-02-18T07:19:32.000Z
+cust_97610aadea7136204d4d,Miles,Allen,miles.allen.2828@example.com,Tacoma,WA,tiktok,2026-02-18T08:15:44.000Z
+cust_b7f12d1decc1c27900b2,Lena,Walker,lena.walker.1781@example.com,Fort Collins,CO,tiktok,2026-02-18T08:28:48.000Z
+cust_4e9ae64800f86f0c0b4a,Evan,Lee,evan.lee.5598@example.com,Fort Worth,TX,tiktok,2026-02-18T21:41:29.000Z
+cust_88349cb3d9457e7a1750,Drew,Young,drew.young.1620@example.com,Naperville,IL,paid_search,2026-02-19T15:33:01.000Z
+cust_361a7ed1c05fa17350fe,Taylor,Clark,taylor.clark.4461@example.com,Atlanta,GA,organic_search,2026-02-19T20:31:57.000Z
+cust_01d92416bee29fd654e8,Taylor,Smith,taylor.smith.3666@example.com,Asheville,NC,popup_event,2026-02-19T22:30:37.000Z
+cust_e76d765eb6f0857f9307,Avery,Miller,avery.miller.2766@example.com,Colorado Springs,CO,instagram,2026-02-20T11:52:51.000Z
+cust_068f81659d66eb52759d,Avery,Kim,avery.kim.1514@example.com,Somerville,MA,instagram,2026-02-20T15:44:00.000Z
+cust_acb2c391c659ab81e586,Lena,Miller,lena.miller.7792@example.com,Savannah,GA,organic_search,2026-02-20T16:13:19.000Z
+cust_a4d579e4a60f56f407a3,Alex,Garcia,alex.garcia.2484@example.com,Atlanta,GA,tiktok,2026-02-21T09:03:19.000Z
+cust_2da9b8131ca14e91df21,Morgan,Anderson,morgan.anderson.604@example.com,Durham,NC,referral,2026-02-21T11:25:51.000Z
+cust_d8ec9d712159e697695c,Noah,Wright,noah.wright.1865@example.com,Raleigh,NC,popup_event,2026-02-21T14:01:33.000Z
+cust_be17bb769d443679302d,Theo,Garcia,theo.garcia.4968@example.com,San Francisco,CA,referral,2026-02-21T14:59:21.000Z
+cust_4259c249b7707860177c,Alex,Martinez,alex.martinez.1207@example.com,Bellevue,WA,organic_search,2026-02-21T15:20:24.000Z
+cust_fbe646c5e0481154026d,Casey,Garcia,casey.garcia.8841@example.com,Denver,CO,tiktok,2026-02-21T18:14:13.000Z
+cust_cfcc2c512d614c473146,Riley,Anderson,riley.anderson.4701@example.com,Dallas,TX,referral,2026-02-21T19:06:52.000Z
+cust_64c77d317585ebcf086b,Sofia,Miller,sofia.miller.4445@example.com,Decatur,GA,popup_event,2026-02-21T21:02:27.000Z
+cust_53fda01c314ffa88800e,Avery,Hall,avery.hall.6485@example.com,Buffalo,NY,organic_search,2026-02-21T22:36:41.000Z
+cust_8b03c6791d398681ccfd,Iris,Johnson,iris.johnson.7718@example.com,Fort Collins,CO,tiktok,2026-02-22T19:56:17.000Z
+cust_6e5d120680b7655542c0,Nora,Wilson,nora.wilson.6537@example.com,Sacramento,CA,organic_search,2026-02-22T22:17:42.000Z
+cust_c9d18fb9a47b872b5d26,Cameron,Wright,cameron.wright.157@example.com,Tacoma,WA,organic_search,2026-02-23T08:24:39.000Z
+cust_0e1e5396d01dfedcc758,Sofia,Smith,sofia.smith.7056@example.com,Portland,OR,popup_event,2026-02-23T10:45:53.000Z
+cust_1233358750fed70e7015,Nora,Wright,nora.wright.8786@example.com,Tacoma,WA,instagram,2026-02-23T12:02:35.000Z
+cust_62fe3d65dd6c3ff984ad,Cameron,Hall,cameron.hall.4390@example.com,Tacoma,WA,popup_event,2026-02-24T06:08:33.000Z
+cust_a16af41d6774fcfb4a41,Maya,Brown,maya.brown.3966@example.com,Orlando,FL,tiktok,2026-02-24T09:12:04.000Z
+cust_b29113d188512badd20a,Riley,Davis,riley.davis.6297@example.com,Buffalo,NY,popup_event,2026-02-24T13:26:15.000Z
+cust_0f2b246cdb7bd6fc7d5e,Riley,Hall,riley.hall.9260@example.com,Colorado Springs,CO,referral,2026-02-24T15:49:40.000Z
+cust_677b6571d75d24da5f5a,Evan,Anderson,evan.anderson.7605@example.com,Fort Collins,CO,organic_search,2026-02-24T16:54:58.000Z
+cust_9d14631dafd11f8433ba,Lena,Johnson,lena.johnson.196@example.com,Raleigh,NC,organic_search,2026-02-24T22:32:21.000Z
+cust_049f523232ece4049e9e,Miles,Kim,miles.kim.1924@example.com,Tempe,AZ,email,2026-02-25T08:11:25.000Z
+cust_f8894fc47c0e75da82a4,Jordan,Anderson,jordan.anderson.2960@example.com,Los Angeles,CA,tiktok,2026-02-25T08:33:16.000Z
+cust_945431441ebea38cd24e,Theo,Smith,theo.smith.1018@example.com,Boston,MA,popup_event,2026-02-25T13:34:49.000Z
+cust_55995df146cd8331551b,Theo,Allen,theo.allen.4092@example.com,Tucson,AZ,organic_search,2026-02-25T15:00:12.000Z
+cust_ce1ee86b9497d2904a3b,Taylor,Walker,taylor.walker.2734@example.com,Sacramento,CA,referral,2026-02-25T17:06:38.000Z
+cust_117699c1a979051ea994,Theo,Lewis,theo.lewis.7546@example.com,Los Angeles,CA,paid_search,2026-02-25T23:39:28.000Z
+cust_6e40a75fd32e5082fb9f,Taylor,Miller,taylor.miller.235@example.com,Scottsdale,AZ,instagram,2026-02-26T17:20:00.000Z
+cust_0da588e7b597018aa8c3,Iris,Miller,iris.miller.7160@example.com,Evanston,IL,organic_search,2026-02-26T22:26:14.000Z
+cust_14fe2d4cf21dbaaf9160,Maya,Martinez,maya.martinez.3582@example.com,Seattle,WA,referral,2026-02-27T07:04:23.000Z
+cust_eda15b6d5e77326acba6,Jordan,Nguyen,jordan.nguyen.1879@example.com,Athens,GA,paid_search,2026-02-27T09:40:21.000Z
+cust_9c30ae9f794591018215,Lena,Walker,lena.walker.3330@example.com,Asheville,NC,tiktok,2026-02-27T12:25:19.000Z
+cust_3870ff8e8e01a54da00d,Miles,Martinez,miles.martinez.4882@example.com,Tucson,AZ,tiktok,2026-02-28T22:06:30.000Z
+cust_dcaf9394b086873a7568,Priya,Lee,priya.lee.382@example.com,Portland,OR,tiktok,2026-02-28T22:37:31.000Z
+cust_9c06b6eb316da9d9d4a2,Maya,Young,maya.young.8055@example.com,Colorado Springs,CO,tiktok,2026-02-28T23:50:22.000Z
+cust_e715db4878b0d61d549c,Theo,Hall,theo.hall.7996@example.com,Tampa,FL,email,2026-03-01T12:08:24.000Z
+cust_643ff017ec396cf15336,Lena,Patel,lena.patel.2768@example.com,Athens,GA,paid_search,2026-03-01T15:53:00.000Z
+cust_fa8c78de4938f0b07df4,Nora,Allen,nora.allen.8359@example.com,Raleigh,NC,popup_event,2026-03-01T18:47:34.000Z
+cust_7fc8717b020187800c4f,Nora,Nguyen,nora.nguyen.6327@example.com,Salem,OR,referral,2026-03-01T21:24:09.000Z
+cust_e68cf0d28ceb7a04ca06,Miles,Brown,miles.brown.4503@example.com,Savannah,GA,email,2026-03-01T23:05:02.000Z
+cust_6493fd2f7ba9606a9c6d,Avery,Walker,avery.walker.7516@example.com,Eugene,OR,paid_search,2026-03-01T23:09:14.000Z
+cust_cb9e937a3f563a2a4707,Riley,Patel,riley.patel.293@example.com,Jacksonville,FL,referral,2026-03-02T07:25:25.000Z
+cust_db3ce1d5941f38c5b273,Noah,Davis,noah.davis.188@example.com,Bellevue,WA,popup_event,2026-03-02T14:06:30.000Z
+cust_6d9e61db03ab21d625f8,Jamie,Anderson,jamie.anderson.4351@example.com,Brooklyn,NY,tiktok,2026-03-02T14:27:18.000Z
+cust_3d6bbefeaffadde991e4,Alex,Clark,alex.clark.7926@example.com,Denver,CO,instagram,2026-03-02T16:48:59.000Z
+cust_3ff6c4bbf63c79ca19f6,Riley,Walker,riley.walker.1331@example.com,Seattle,WA,popup_event,2026-03-02T17:51:37.000Z
+cust_959721655eca125d7ed5,Morgan,Allen,morgan.allen.8425@example.com,Salem,OR,popup_event,2026-03-02T18:58:15.000Z
+cust_b7841da1a3d2662a5ee8,Morgan,Wright,morgan.wright.6524@example.com,Salem,OR,organic_search,2026-03-02T19:42:26.000Z
+cust_5f66771485b2fd4cd7b8,Avery,Wilson,avery.wilson.118@example.com,Brooklyn,NY,organic_search,2026-03-02T20:55:28.000Z
+cust_c5d8a3cd2be8c520dcff,Taylor,Young,taylor.young.7900@example.com,Naperville,IL,tiktok,2026-03-03T10:08:21.000Z
+cust_d34e9c27696bb0ad05f1,Jamie,Kim,jamie.kim.1703@example.com,Savannah,GA,organic_search,2026-03-03T12:06:14.000Z
+cust_79dddac521532c5fb78d,Noah,Johnson,noah.johnson.9576@example.com,Bend,OR,popup_event,2026-03-03T14:17:35.000Z
+cust_da0c7d87cb59be41e7b6,Noah,Brown,noah.brown.8120@example.com,Miami,FL,email,2026-03-03T16:14:49.000Z
+cust_3179b670eb643cb42f3b,Evan,Kim,evan.kim.6934@example.com,Orlando,FL,instagram,2026-03-03T18:57:47.000Z
+cust_1498cb75bea18562fa92,Casey,Hall,casey.hall.5396@example.com,New York,NY,organic_search,2026-03-03T23:17:55.000Z
+cust_13ebf54e382ffc1f9aa4,Avery,Hall,avery.hall.8230@example.com,Austin,TX,email,2026-03-04T06:17:24.000Z
+cust_3bbcdbd0ea0724cc4fd9,Cameron,Anderson,cameron.anderson.3055@example.com,Scottsdale,AZ,referral,2026-03-04T06:43:31.000Z
+cust_8af7e68e1645ddb4d1c8,Alex,Kim,alex.kim.3262@example.com,Brooklyn,NY,popup_event,2026-03-04T16:37:50.000Z
+cust_1650858083de2eff17d1,Alex,Clark,alex.clark.4146@example.com,Brooklyn,NY,referral,2026-03-04T18:54:17.000Z
+cust_e0d35c0e259a1fdfddae,Taylor,Martinez,taylor.martinez.1411@example.com,Portland,OR,popup_event,2026-03-04T19:21:00.000Z
+cust_da7bb30d3f1df4b4456f,Evan,Allen,evan.allen.6907@example.com,Portland,OR,paid_search,2026-03-04T21:25:08.000Z
+cust_dad763cf348bf2ff97e3,Jordan,Smith,jordan.smith.9853@example.com,Salem,OR,paid_search,2026-03-04T22:41:06.000Z
+cust_47e6ddee7617184d6ab4,Priya,Smith,priya.smith.1367@example.com,Eugene,OR,paid_search,2026-03-05T07:21:28.000Z
+cust_5203abeac28b063f81bc,Avery,Allen,avery.allen.946@example.com,Houston,TX,email,2026-03-05T07:50:48.000Z
+cust_5e01623a54cec6aed496,Nora,Anderson,nora.anderson.6963@example.com,Phoenix,AZ,organic_search,2026-03-05T08:44:47.000Z
+cust_02131b8162e1f638e2ac,Miles,Clark,miles.clark.977@example.com,Decatur,GA,email,2026-03-05T10:17:20.000Z
+cust_b19d0b34e94f9318acbe,Jamie,Brown,jamie.brown.663@example.com,Seattle,WA,referral,2026-03-05T12:14:05.000Z
+cust_6a8e08fd2fea9adea43f,Maya,Miller,maya.miller.1867@example.com,Houston,TX,tiktok,2026-03-06T06:15:17.000Z
+cust_0d361f99291bdca70b61,Jamie,Brown,jamie.brown.9278@example.com,Houston,TX,paid_search,2026-03-06T18:59:08.000Z
+cust_61dd37bd95a5811a0f52,Theo,Young,theo.young.543@example.com,Decatur,GA,referral,2026-03-06T21:56:53.000Z
+cust_5657d4c5aeb7b92ec10b,Evan,Allen,evan.allen.1141@example.com,Chicago,IL,email,2026-03-07T06:31:22.000Z
+cust_f7f0ea7d8fe3bf203fb2,Noah,Smith,noah.smith.2193@example.com,Cambridge,MA,paid_search,2026-03-07T09:59:31.000Z
+cust_ea591095ccacc8625c33,Iris,Patel,iris.patel.5976@example.com,Somerville,MA,organic_search,2026-03-07T11:29:21.000Z
+cust_21b0ef04d046a7962e38,Nora,Brown,nora.brown.9086@example.com,Houston,TX,referral,2026-03-07T16:14:06.000Z
+cust_e0c126a222bd2979267f,Jordan,Hall,jordan.hall.5461@example.com,Tampa,FL,paid_search,2026-03-07T18:44:35.000Z
+cust_6ba78c22bcafa9a5a4db,Nora,Lee,nora.lee.6394@example.com,Tampa,FL,popup_event,2026-03-07T20:32:39.000Z
+cust_d3a9a431196292acc69a,Nora,Miller,nora.miller.8340@example.com,San Francisco,CA,referral,2026-03-08T12:47:51.000Z
+cust_fa11ba9d1174115c007d,Casey,Johnson,casey.johnson.2183@example.com,Orlando,FL,tiktok,2026-03-08T12:59:05.000Z
+cust_883e0afcbfdfa57c2ed5,Nora,Anderson,nora.anderson.8490@example.com,Salem,OR,email,2026-03-08T15:22:07.000Z
+cust_8fc9f50c4e56b3c9fd37,Taylor,Wilson,taylor.wilson.5749@example.com,Bellevue,WA,popup_event,2026-03-08T16:39:14.000Z
+cust_5735926917056f3130d7,Jordan,Davis,jordan.davis.780@example.com,Savannah,GA,organic_search,2026-03-08T22:52:39.000Z
+cust_fa61386d485276a0a280,Casey,Wright,casey.wright.6231@example.com,Spokane,WA,tiktok,2026-03-09T09:21:41.000Z
+cust_a9421f092a6c8a999c12,Jordan,Lee,jordan.lee.4617@example.com,Asheville,NC,instagram,2026-03-09T09:59:54.000Z
+cust_98ae21d754d2504be618,Maya,Martinez,maya.martinez.6276@example.com,Tucson,AZ,tiktok,2026-03-09T13:29:59.000Z
+cust_05f3790785af63cfdd45,Drew,Patel,drew.patel.7474@example.com,Scottsdale,AZ,email,2026-03-09T13:37:48.000Z
+cust_6994509720c312421cc8,Alex,Miller,alex.miller.5940@example.com,Boston,MA,referral,2026-03-09T15:32:14.000Z
+cust_a5c16ac770a0149f321a,Lena,Kim,lena.kim.6729@example.com,Newton,MA,paid_search,2026-03-09T17:40:55.000Z
+cust_27be33b07486fcd4d44b,Riley,Young,riley.young.9298@example.com,Boston,MA,popup_event,2026-03-09T22:40:30.000Z
+cust_48a40568101c2ce3777d,Morgan,Lee,morgan.lee.9799@example.com,Tampa,FL,email,2026-03-10T07:30:26.000Z
+cust_e28d262b6c41006b34a2,Riley,Hall,riley.hall.7968@example.com,Savannah,GA,popup_event,2026-03-10T07:57:42.000Z
+cust_2917b561dab18720c57d,Jamie,Garcia,jamie.garcia.2477@example.com,Bellevue,WA,email,2026-03-10T08:48:36.000Z
+cust_12a526bbe4e09eaf89e6,Theo,Nguyen,theo.nguyen.3360@example.com,Denver,CO,paid_search,2026-03-10T10:56:01.000Z
+cust_7f32bf644f98a025c079,Nora,Lewis,nora.lewis.4211@example.com,Austin,TX,tiktok,2026-03-10T15:34:49.000Z
+cust_a234edeba1dcacf2c51a,Jamie,Martinez,jamie.martinez.4325@example.com,Savannah,GA,email,2026-03-10T18:40:39.000Z
+cust_7f42996455f0dee736e0,Theo,Walker,theo.walker.9676@example.com,Miami,FL,tiktok,2026-03-10T19:39:58.000Z
+cust_b23c34e8684aae09d1b5,Maya,Kim,maya.kim.3330@example.com,Tempe,AZ,email,2026-03-10T21:37:58.000Z
+cust_5e78b22bade130ab9542,Riley,Wright,riley.wright.2976@example.com,Evanston,IL,email,2026-03-10T22:00:56.000Z
+cust_ada607b5f9303abc5aa7,Taylor,Allen,taylor.allen.8754@example.com,Spokane,WA,popup_event,2026-03-11T09:57:43.000Z
+cust_ee0d4633b3b9c71a2ba3,Jamie,Kim,jamie.kim.3063@example.com,Chicago,IL,email,2026-03-11T10:08:57.000Z
+cust_5a6deee6ee215e98f69d,Miles,Brown,miles.brown.7978@example.com,Newton,MA,referral,2026-03-11T13:28:37.000Z
+cust_40ddc8f76f41f9e0761c,Taylor,Wilson,taylor.wilson.2954@example.com,Cambridge,MA,referral,2026-03-11T15:59:47.000Z
+cust_aa979732cc8efaf3918d,Sofia,Garcia,sofia.garcia.9660@example.com,Savannah,GA,instagram,2026-03-11T18:32:05.000Z
+cust_fae453b57216c3b0808e,Iris,Nguyen,iris.nguyen.1648@example.com,Cambridge,MA,popup_event,2026-03-12T07:00:04.000Z
+cust_72d6d205274768a89159,Riley,Walker,riley.walker.9061@example.com,Buffalo,NY,tiktok,2026-03-12T10:15:05.000Z
+cust_76a55613f59923e6d612,Alex,Clark,alex.clark.9868@example.com,Phoenix,AZ,email,2026-03-12T12:12:36.000Z
+cust_0b83458c8937c85c809d,Morgan,Brown,morgan.brown.1726@example.com,Decatur,GA,tiktok,2026-03-12T13:38:07.000Z
+cust_3608f838be53549f2358,Maya,Johnson,maya.johnson.3022@example.com,Houston,TX,instagram,2026-03-12T18:34:03.000Z
+cust_2caf006c88258b4e6871,Evan,Young,evan.young.6459@example.com,Seattle,WA,referral,2026-03-13T12:32:46.000Z
+cust_04be9003980243189e66,Nora,Martinez,nora.martinez.9908@example.com,Naperville,IL,instagram,2026-03-13T18:39:42.000Z
+cust_dc6d8a4e77e09da3340d,Drew,Wright,drew.wright.6874@example.com,Atlanta,GA,email,2026-03-13T23:05:06.000Z
+cust_bc6c1c22e634feab6593,Theo,Johnson,theo.johnson.9030@example.com,Colorado Springs,CO,popup_event,2026-03-13T23:25:04.000Z
+cust_caf5cf1a671f26e918fd,Noah,Walker,noah.walker.912@example.com,Sacramento,CA,popup_event,2026-03-14T09:04:11.000Z
+cust_ee7e5cc6c61206b7ce1b,Morgan,Davis,morgan.davis.4497@example.com,Newton,MA,instagram,2026-03-14T11:15:29.000Z
+cust_0fceec50158174b13bc2,Lena,Hall,lena.hall.6227@example.com,Tacoma,WA,paid_search,2026-03-14T11:37:32.000Z
+cust_1da7eb92b6a2d449d6a3,Morgan,Young,morgan.young.662@example.com,Bellevue,WA,email,2026-03-14T13:14:29.000Z
+cust_65d7ba59c5c7a443140a,Miles,Martinez,miles.martinez.2908@example.com,Orlando,FL,tiktok,2026-03-14T19:01:00.000Z
+cust_f82cef94082cec944669,Morgan,Davis,morgan.davis.9824@example.com,Fort Worth,TX,organic_search,2026-03-14T19:19:44.000Z
+cust_4748f5aa02926d1bd957,Drew,Davis,drew.davis.4266@example.com,Denver,CO,tiktok,2026-03-14T20:48:55.000Z
+cust_da0b9520135f451f92ff,Iris,Garcia,iris.garcia.2497@example.com,Atlanta,GA,popup_event,2026-03-15T06:58:59.000Z
+cust_40a6c43c9f8406795d9a,Iris,Nguyen,iris.nguyen.6060@example.com,Charlotte,NC,organic_search,2026-03-15T07:56:15.000Z
+cust_88403ae10bbad038d232,Taylor,Smith,taylor.smith.1527@example.com,Durham,NC,tiktok,2026-03-15T07:57:37.000Z
+cust_2a4efe6820e4d0c25362,Jordan,Patel,jordan.patel.3370@example.com,Evanston,IL,email,2026-03-15T11:20:31.000Z
+cust_50ce895e7b75a0e49402,Iris,Allen,iris.allen.1387@example.com,Rochester,NY,referral,2026-03-15T11:22:56.000Z
+cust_459bed70c7a56fffea43,Miles,Davis,miles.davis.482@example.com,Raleigh,NC,popup_event,2026-03-15T16:03:27.000Z
+cust_2c8df8e325d3bbb8977b,Avery,Anderson,avery.anderson.5487@example.com,New York,NY,paid_search,2026-03-15T17:40:43.000Z
+cust_db0d8fa1b3b8b872a420,Miles,Garcia,miles.garcia.2555@example.com,Chicago,IL,referral,2026-03-15T19:51:03.000Z
+cust_c11758eb929f1c2fee6b,Theo,Wilson,theo.wilson.2348@example.com,Athens,GA,email,2026-03-16T14:08:11.000Z
+cust_127030e3a2bfb7c2bf0d,Taylor,Lee,taylor.lee.157@example.com,Charlotte,NC,instagram,2026-03-16T14:43:40.000Z
+cust_447ef7cc78511b6012dd,Morgan,Davis,morgan.davis.3675@example.com,Oak Park,IL,paid_search,2026-03-16T17:47:40.000Z
+cust_9281a6fa7156bd6d9037,Maya,Garcia,maya.garcia.1411@example.com,Spokane,WA,organic_search,2026-03-16T23:19:52.000Z
+cust_eef556b5af487366e593,Theo,Lee,theo.lee.4303@example.com,Tacoma,WA,referral,2026-03-17T07:00:32.000Z
+cust_4ca05d5d9aed821890a6,Alex,Allen,alex.allen.1468@example.com,Colorado Springs,CO,email,2026-03-17T14:26:41.000Z
+cust_0394e982b5c48dd28a70,Cameron,Davis,cameron.davis.3932@example.com,Salem,OR,email,2026-03-17T15:12:26.000Z
+cust_16bd36d1c06a7039c1a9,Priya,Allen,priya.allen.2204@example.com,Cambridge,MA,referral,2026-03-17T15:36:12.000Z
+cust_4f018bd2492b7c10fd7c,Priya,Walker,priya.walker.7958@example.com,Bellevue,WA,paid_search,2026-03-17T15:42:32.000Z
+cust_2a56707186dc0641de2d,Sofia,Johnson,sofia.johnson.3561@example.com,Charlotte,NC,organic_search,2026-03-17T17:18:17.000Z
+cust_3c55eb51dd1974d3436c,Sofia,Smith,sofia.smith.4301@example.com,Salem,OR,popup_event,2026-03-17T20:25:15.000Z
+cust_9525ea72b7d82df702b6,Morgan,Nguyen,morgan.nguyen.8938@example.com,Newton,MA,instagram,2026-03-17T20:59:12.000Z
+cust_c99b450a43e647ce8a8e,Cameron,Davis,cameron.davis.8811@example.com,Brooklyn,NY,paid_search,2026-03-17T22:56:23.000Z
+cust_ba1c18ca394f7dafce11,Iris,Miller,iris.miller.4215@example.com,Bellevue,WA,paid_search,2026-03-18T07:12:18.000Z
+cust_b2fa3d71846a53f78ef0,Morgan,Lee,morgan.lee.6192@example.com,Bend,OR,instagram,2026-03-18T07:58:51.000Z
+cust_1d447bd97d496cbcbb94,Jordan,Nguyen,jordan.nguyen.621@example.com,Tampa,FL,email,2026-03-18T08:27:08.000Z
+cust_f799e012b63138f36124,Cameron,Miller,cameron.miller.3347@example.com,Rochester,NY,tiktok,2026-03-18T11:55:43.000Z
+cust_3f4434a5a1764d48eec8,Drew,Kim,drew.kim.3259@example.com,Eugene,OR,paid_search,2026-03-18T13:24:40.000Z
+cust_0fe07010904a1391e221,Sofia,Davis,sofia.davis.7880@example.com,Seattle,WA,tiktok,2026-03-18T15:05:45.000Z
+cust_f42b72156fc953eafc35,Drew,Patel,drew.patel.5784@example.com,Buffalo,NY,tiktok,2026-03-18T15:25:03.000Z
+cust_ee549158dbb56a8bbe68,Miles,Miller,miles.miller.5861@example.com,San Francisco,CA,instagram,2026-03-18T22:07:27.000Z
+cust_81798031a02ac16815e9,Noah,Miller,noah.miller.6644@example.com,Atlanta,GA,popup_event,2026-03-19T06:37:23.000Z
+cust_d4d6c42da940e0d93798,Noah,Clark,noah.clark.7090@example.com,New York,NY,email,2026-03-19T10:24:25.000Z
+cust_9b60187538d4b197c2a9,Nora,Hall,nora.hall.2884@example.com,Phoenix,AZ,tiktok,2026-03-19T10:42:30.000Z
+cust_decf533ee960b29ed93a,Noah,Davis,noah.davis.7361@example.com,Boston,MA,referral,2026-03-19T10:48:23.000Z
+cust_6c7ced81dd5987adf3af,Alex,Walker,alex.walker.1654@example.com,Charlotte,NC,email,2026-03-19T16:24:48.000Z
+cust_f774af6f0e09535b27d7,Theo,Lee,theo.lee.8982@example.com,Tacoma,WA,popup_event,2026-03-19T23:14:07.000Z
+cust_dbaa905ac8ae61d294cd,Jamie,Wright,jamie.wright.6161@example.com,San Francisco,CA,popup_event,2026-03-20T08:44:34.000Z
+cust_03f4701f540453ba748f,Morgan,Allen,morgan.allen.1372@example.com,Athens,GA,referral,2026-03-20T09:35:55.000Z
+cust_83e5be50608ab4087b21,Taylor,Smith,taylor.smith.1549@example.com,Seattle,WA,referral,2026-03-20T10:54:56.000Z
+cust_ff2676feb3e61f526f30,Alex,Smith,alex.smith.2708@example.com,Boston,MA,email,2026-03-20T12:49:54.000Z
+cust_59b93b2b356df3867380,Taylor,Wright,taylor.wright.8449@example.com,Colorado Springs,CO,email,2026-03-20T13:07:09.000Z
+cust_fccb6a7ada52004a4994,Nora,Anderson,nora.anderson.9125@example.com,Durham,NC,tiktok,2026-03-20T17:21:54.000Z
+cust_fe7a06871d2ca88a3446,Casey,Hall,casey.hall.2617@example.com,Evanston,IL,referral,2026-03-20T18:57:29.000Z
+cust_d9915243d727d575caeb,Nora,Martinez,nora.martinez.2787@example.com,Oak Park,IL,tiktok,2026-03-20T21:09:12.000Z
+cust_7ed3c67f38301e918935,Noah,Wilson,noah.wilson.5701@example.com,Rochester,NY,popup_event,2026-03-20T21:43:27.000Z
+cust_e91a91362fd5a9f80bcb,Iris,Lewis,iris.lewis.6589@example.com,Boston,MA,tiktok,2026-03-21T06:28:28.000Z
+cust_e7e5ebe5d9778b91d162,Morgan,Young,morgan.young.6094@example.com,Colorado Springs,CO,organic_search,2026-03-21T06:30:31.000Z
+cust_81beb0ce446211a3b279,Jordan,Hall,jordan.hall.9951@example.com,Asheville,NC,instagram,2026-03-21T07:52:16.000Z
+cust_8428b1442ffe60cd6a00,Sofia,Davis,sofia.davis.7310@example.com,Dallas,TX,instagram,2026-03-21T08:21:58.000Z
+cust_63868f4858180629f792,Miles,Lee,miles.lee.6144@example.com,Austin,TX,popup_event,2026-03-21T11:07:54.000Z
+cust_996f2e72993b1a9fa80a,Lena,Miller,lena.miller.8230@example.com,Houston,TX,referral,2026-03-21T11:25:24.000Z
+cust_332f4473a084ef00e061,Sofia,Garcia,sofia.garcia.8975@example.com,Somerville,MA,organic_search,2026-03-21T12:39:40.000Z
+cust_228cc5fa8ecf2470be45,Iris,Young,iris.young.6420@example.com,Boston,MA,instagram,2026-03-21T15:55:16.000Z
+cust_9c2bb20e5ce2c91502a9,Evan,Anderson,evan.anderson.9692@example.com,Oak Park,IL,instagram,2026-03-21T20:51:13.000Z
+cust_34972e8c79e970902050,Morgan,Wilson,morgan.wilson.7535@example.com,Raleigh,NC,paid_search,2026-03-21T22:27:25.000Z
+cust_a1390d6e7e5e5660114c,Sofia,Walker,sofia.walker.3510@example.com,Bellevue,WA,referral,2026-03-21T22:50:17.000Z
+cust_875f2df7749059ef1f1f,Morgan,Wright,morgan.wright.2632@example.com,Oak Park,IL,paid_search,2026-03-22T07:38:42.000Z
+cust_d70e68cfa7d68a1a767a,Lena,Brown,lena.brown.2100@example.com,Charlotte,NC,instagram,2026-03-22T07:49:48.000Z
+cust_4f5b3600f2e0567ea23e,Cameron,Clark,cameron.clark.9668@example.com,Seattle,WA,tiktok,2026-03-22T08:06:25.000Z
+cust_af2675cef33c04623c13,Alex,Young,alex.young.6894@example.com,Bellevue,WA,email,2026-03-22T12:34:16.000Z
+cust_5ed5c4f49f653366dbf9,Theo,Miller,theo.miller.9032@example.com,Decatur,GA,instagram,2026-03-22T13:30:45.000Z
+cust_95b5965b52d7e1105aaa,Morgan,Allen,morgan.allen.1263@example.com,Tempe,AZ,referral,2026-03-22T16:38:17.000Z
+cust_c5880005db89669365e7,Jamie,Wright,jamie.wright.5588@example.com,Salem,OR,instagram,2026-03-22T17:08:38.000Z
+cust_76befa87c034cfe3205d,Miles,Wright,miles.wright.8111@example.com,Colorado Springs,CO,tiktok,2026-03-22T19:41:31.000Z
+cust_ff2997d504000e052d05,Drew,Davis,drew.davis.8435@example.com,Charlotte,NC,referral,2026-03-22T21:34:13.000Z
+cust_8fb219722e2d58fe8892,Taylor,Garcia,taylor.garcia.7463@example.com,Denver,CO,organic_search,2026-03-23T10:30:11.000Z
+cust_81d2f17c16c4fbcce255,Taylor,Nguyen,taylor.nguyen.5423@example.com,Cambridge,MA,paid_search,2026-03-23T10:51:48.000Z
+cust_25efe0a520f2d6abb6d7,Riley,Lee,riley.lee.2748@example.com,Oak Park,IL,paid_search,2026-03-23T11:05:49.000Z
+cust_0735223c1e4a4cb33e9f,Cameron,Anderson,cameron.anderson.5763@example.com,Somerville,MA,instagram,2026-03-23T11:45:07.000Z
+cust_3071f6f0ef7ad245a6cb,Alex,Johnson,alex.johnson.9924@example.com,Miami,FL,organic_search,2026-03-23T13:58:06.000Z
+cust_806fb93bdbc0a26050bd,Riley,Kim,riley.kim.2076@example.com,Atlanta,GA,instagram,2026-03-23T14:41:37.000Z
+cust_6786ff64c0b3ce9a00a3,Priya,Kim,priya.kim.8982@example.com,Buffalo,NY,popup_event,2026-03-23T15:54:06.000Z
+cust_15ea54bba0077c897baa,Avery,Patel,avery.patel.3573@example.com,Asheville,NC,email,2026-03-23T20:57:45.000Z
+cust_909946b5f20105bc3982,Sofia,Anderson,sofia.anderson.8174@example.com,Boston,MA,referral,2026-03-23T22:03:39.000Z
+cust_2f7a0e7c55d4561c24e3,Sofia,Wilson,sofia.wilson.1743@example.com,Boulder,CO,instagram,2026-03-24T07:39:43.000Z
+cust_f97a7be9897b9cb55638,Nora,Garcia,nora.garcia.3814@example.com,Boulder,CO,referral,2026-03-24T07:56:40.000Z
+cust_d12bdeb82f914ea438aa,Casey,Garcia,casey.garcia.747@example.com,Tucson,AZ,tiktok,2026-03-24T09:49:57.000Z
+cust_1e22c6c8e66ae5276bed,Evan,Davis,evan.davis.9553@example.com,Brooklyn,NY,tiktok,2026-03-24T14:39:58.000Z
+cust_969040b3265b6dad4c3f,Sofia,Clark,sofia.clark.9162@example.com,Los Angeles,CA,referral,2026-03-24T17:51:36.000Z
+cust_964d18ca4b8d65651ace,Jamie,Garcia,jamie.garcia.1359@example.com,Scottsdale,AZ,instagram,2026-03-24T20:57:28.000Z
+cust_b46fe354753ef5fcce43,Miles,Miller,miles.miller.3563@example.com,Naperville,IL,referral,2026-03-24T21:39:03.000Z
+cust_f94fba5b677019425dd1,Sofia,Young,sofia.young.3056@example.com,Evanston,IL,popup_event,2026-03-25T06:31:20.000Z
+cust_7d3c8770ad457822d5d3,Maya,Walker,maya.walker.9178@example.com,Tacoma,WA,organic_search,2026-03-25T06:38:19.000Z
+cust_7dfa6d2d42eeeabe5b58,Theo,Martinez,theo.martinez.5723@example.com,San Francisco,CA,tiktok,2026-03-25T07:04:14.000Z
+cust_12626339d0e6ee32f5f4,Noah,Brown,noah.brown.7513@example.com,Cambridge,MA,instagram,2026-03-25T09:21:07.000Z
+cust_604cb742c2ad4709d416,Nora,Young,nora.young.5466@example.com,Scottsdale,AZ,instagram,2026-03-25T13:52:26.000Z
+cust_212982d000d922fbe698,Alex,Nguyen,alex.nguyen.5309@example.com,Evanston,IL,email,2026-03-25T17:08:25.000Z
+cust_26c6e5cc17b216815162,Nora,Garcia,nora.garcia.8153@example.com,Somerville,MA,organic_search,2026-03-25T17:35:07.000Z
+cust_642a6c24b63cbd279bc8,Maya,Smith,maya.smith.1354@example.com,Fort Worth,TX,tiktok,2026-03-25T17:45:17.000Z
+cust_bb9afe8fe06698bc31d3,Casey,Davis,casey.davis.3462@example.com,Sacramento,CA,tiktok,2026-03-26T07:41:15.000Z
+cust_67971365986f9e10a7e9,Cameron,Nguyen,cameron.nguyen.1522@example.com,Austin,TX,referral,2026-03-26T10:02:34.000Z
+cust_6c794cc8f7ea472ddf87,Miles,Martinez,miles.martinez.1222@example.com,Somerville,MA,organic_search,2026-03-26T10:59:07.000Z
+cust_27d2497d0d3d1375fb0c,Priya,Garcia,priya.garcia.649@example.com,Bellevue,WA,organic_search,2026-03-26T11:36:29.000Z
+cust_7c9fd1a9289807b7febd,Noah,Wright,noah.wright.3307@example.com,Chicago,IL,email,2026-03-26T15:01:18.000Z
+cust_21ee6f5cb3e59f24dec9,Maya,Smith,maya.smith.2341@example.com,Savannah,GA,referral,2026-03-26T17:11:47.000Z
+cust_b6f41cbf9adf795dfc9d,Casey,Lee,casey.lee.6782@example.com,Los Angeles,CA,referral,2026-03-26T20:42:58.000Z
+cust_e0f0c6f6ac8136aaec28,Sofia,Young,sofia.young.591@example.com,Tampa,FL,tiktok,2026-03-26T22:23:15.000Z
+cust_46cc9f62026ed4875423,Cameron,Wright,cameron.wright.6202@example.com,Salem,OR,organic_search,2026-03-27T06:07:36.000Z
+cust_ec641c85978c2b46c333,Theo,Davis,theo.davis.8661@example.com,Rochester,NY,tiktok,2026-03-27T08:56:17.000Z
+cust_9c76c536df68d45609a0,Nora,Brown,nora.brown.380@example.com,Buffalo,NY,email,2026-03-27T11:17:15.000Z
+cust_88d40457d613d6d85f32,Jamie,Johnson,jamie.johnson.6053@example.com,Charlotte,NC,email,2026-03-27T17:00:10.000Z
+cust_6df5989b02ba944b3ec9,Taylor,Garcia,taylor.garcia.8280@example.com,Boston,MA,referral,2026-03-27T17:17:05.000Z
+cust_d2e44ea691d69bf4743b,Sofia,Lee,sofia.lee.2325@example.com,Tucson,AZ,popup_event,2026-03-27T18:17:58.000Z
+cust_3f0dba291f5d299f9ade,Alex,Wright,alex.wright.2701@example.com,Charlotte,NC,popup_event,2026-03-27T18:51:18.000Z
+cust_351d3e51a66b22b7a528,Jordan,Walker,jordan.walker.3590@example.com,Denver,CO,popup_event,2026-03-28T07:10:36.000Z
+cust_b5121e0d2a88040576ea,Avery,Miller,avery.miller.3781@example.com,San Diego,CA,paid_search,2026-03-28T09:18:18.000Z
+cust_6b0a0cddb0d31cb4f296,Noah,Garcia,noah.garcia.9491@example.com,Rochester,NY,instagram,2026-03-28T10:38:54.000Z
+cust_d9cb748761077b6fa6a3,Jamie,Garcia,jamie.garcia.2926@example.com,Newton,MA,instagram,2026-03-28T12:08:06.000Z
+cust_9ae7f0aba0ad8e4f1ecf,Theo,Wright,theo.wright.2493@example.com,Decatur,GA,popup_event,2026-03-28T15:09:36.000Z
+cust_46de683983683947ce3f,Casey,Lee,casey.lee.8985@example.com,Chicago,IL,paid_search,2026-03-28T15:27:24.000Z
+cust_74263f855f88d4f15a6a,Alex,Garcia,alex.garcia.4967@example.com,Decatur,GA,instagram,2026-03-29T06:47:02.000Z
+cust_77039abc33b9b31063db,Theo,Allen,theo.allen.8114@example.com,Tucson,AZ,popup_event,2026-03-29T07:17:34.000Z
+cust_131a9d705181fd1aaa6b,Morgan,Walker,morgan.walker.6377@example.com,Rochester,NY,popup_event,2026-03-29T07:30:08.000Z
+cust_446ded46479e1d004346,Avery,Clark,avery.clark.1795@example.com,Savannah,GA,instagram,2026-03-29T11:38:11.000Z
+cust_c1988e8f1cd8c73b3e22,Jordan,Lee,jordan.lee.336@example.com,Boston,MA,instagram,2026-03-29T16:19:55.000Z
+cust_7a54ffb1f327d0d63c8f,Jamie,Clark,jamie.clark.7564@example.com,Savannah,GA,referral,2026-03-29T17:41:32.000Z
+cust_886829aca3fe4648bbb1,Miles,Lee,miles.lee.4918@example.com,Los Angeles,CA,email,2026-03-29T18:25:47.000Z
+cust_de95fd8fb0ef30b5da02,Evan,Brown,evan.brown.3110@example.com,Durham,NC,popup_event,2026-03-29T18:46:21.000Z
+cust_1d2bb42b14b611606552,Maya,Lewis,maya.lewis.9468@example.com,Denver,CO,referral,2026-03-29T19:58:04.000Z
+cust_7b49b6a7391ec8c00e17,Nora,Brown,nora.brown.4793@example.com,Scottsdale,AZ,email,2026-03-29T20:09:43.000Z
+cust_86baff936e1749622da4,Casey,Martinez,casey.martinez.6457@example.com,Rochester,NY,instagram,2026-03-29T20:12:03.000Z
+cust_b53934be340eefe6623a,Riley,Martinez,riley.martinez.6287@example.com,Los Angeles,CA,popup_event,2026-03-30T08:59:26.000Z
+cust_f87f5b37361f4c001233,Alex,Allen,alex.allen.1393@example.com,Charlotte,NC,email,2026-03-30T09:10:25.000Z
+cust_ba8ae7df1d3c031108d5,Jordan,Smith,jordan.smith.9471@example.com,Atlanta,GA,instagram,2026-03-30T10:18:10.000Z
+cust_b266501fff18714c1220,Priya,Anderson,priya.anderson.5193@example.com,Bend,OR,paid_search,2026-03-30T13:20:56.000Z
+cust_b0d19ad047fd3d6a4ad8,Theo,Wright,theo.wright.2715@example.com,Colorado Springs,CO,referral,2026-03-30T14:30:40.000Z
+cust_ed09af8b291ba8020fc9,Sofia,Wilson,sofia.wilson.9530@example.com,Austin,TX,popup_event,2026-03-30T19:48:59.000Z
+cust_67686f4c89641969ecec,Maya,Miller,maya.miller.5923@example.com,Decatur,GA,tiktok,2026-03-30T20:39:58.000Z
+cust_639d46cdc96be3c3f247,Jamie,Nguyen,jamie.nguyen.6317@example.com,Fort Collins,CO,instagram,2026-03-30T21:25:00.000Z
+cust_9824afd3066858029c32,Riley,Clark,riley.clark.9274@example.com,Charlotte,NC,email,2026-03-30T21:28:22.000Z
+cust_8401ae7e55bfdd148914,Drew,Walker,drew.walker.5407@example.com,Tucson,AZ,instagram,2026-03-30T22:32:59.000Z
+cust_5dd561d5a21192d3896b,Jordan,Young,jordan.young.7338@example.com,Denver,CO,email,2026-03-30T23:00:56.000Z
+cust_31ed38f62381b7fa648c,Evan,Allen,evan.allen.7610@example.com,New York,NY,popup_event,2026-03-31T09:04:41.000Z
+cust_47d70355cc71a40a30d6,Lena,Nguyen,lena.nguyen.4236@example.com,Salem,OR,referral,2026-03-31T11:15:52.000Z
+cust_1df05f6da96953a2fdb0,Sofia,Wright,sofia.wright.3335@example.com,Austin,TX,email,2026-03-31T16:57:44.000Z
+cust_95bad2c193ceab454169,Lena,Lewis,lena.lewis.7218@example.com,Atlanta,GA,instagram,2026-03-31T23:49:32.000Z
+cust_3bac5a3e81c8ea158269,Nora,Martinez,nora.martinez.9941@example.com,Brooklyn,NY,popup_event,2026-04-01T08:36:12.000Z
+cust_f094afa60b3162233f8a,Maya,Miller,maya.miller.5648@example.com,Cambridge,MA,tiktok,2026-04-01T09:33:50.000Z
+cust_82a904007f0c0ad3659e,Miles,Hall,miles.hall.9021@example.com,Tucson,AZ,email,2026-04-01T10:10:55.000Z
+cust_33869f859ce3fb53ee78,Drew,Nguyen,drew.nguyen.7236@example.com,Boston,MA,tiktok,2026-04-01T10:27:23.000Z
+cust_3855d2ad8484ae42df5f,Lena,Martinez,lena.martinez.892@example.com,Bend,OR,referral,2026-04-01T10:35:46.000Z
+cust_f58fa9b88f12ca902ce9,Miles,Allen,miles.allen.2679@example.com,Boulder,CO,referral,2026-04-01T11:43:55.000Z
+cust_02df1a066d2bb00e3aa1,Taylor,Smith,taylor.smith.5642@example.com,Eugene,OR,organic_search,2026-04-01T13:10:02.000Z
+cust_f0009f174ea759e5ee0c,Noah,Nguyen,noah.nguyen.5152@example.com,Brooklyn,NY,organic_search,2026-04-01T14:04:20.000Z
+cust_082613cd43cb7e237a28,Alex,Wright,alex.wright.7094@example.com,San Diego,CA,referral,2026-04-01T15:38:51.000Z
+cust_ae756710397f7ddff0a1,Priya,Wright,priya.wright.8008@example.com,Boulder,CO,referral,2026-04-01T17:32:11.000Z
+cust_d6c6551e7b34f80b3720,Nora,Lee,nora.lee.2421@example.com,Decatur,GA,organic_search,2026-04-01T21:03:45.000Z
+cust_f043d809b4597d142714,Miles,Kim,miles.kim.6968@example.com,Savannah,GA,instagram,2026-04-02T08:17:06.000Z
+cust_85178ca85aaa08bf4e41,Morgan,Lewis,morgan.lewis.654@example.com,Decatur,GA,instagram,2026-04-02T09:01:54.000Z
+cust_5be767954f1e2bc82187,Sofia,Walker,sofia.walker.2912@example.com,Salem,OR,instagram,2026-04-02T12:58:51.000Z
+cust_c0ca8425f6e3bdb32794,Maya,Young,maya.young.4339@example.com,Durham,NC,paid_search,2026-04-02T14:25:28.000Z
+cust_9b92ffe4b949311eb3b3,Lena,Martinez,lena.martinez.6558@example.com,Decatur,GA,tiktok,2026-04-02T14:29:37.000Z
+cust_a9d6ab38576c4947f486,Miles,Anderson,miles.anderson.2574@example.com,Buffalo,NY,paid_search,2026-04-02T21:30:10.000Z
+cust_2223a18de2ba6ece6af3,Morgan,Smith,morgan.smith.4334@example.com,Miami,FL,email,2026-04-02T21:46:17.000Z
+cust_e3967200c714b5d0381c,Lena,Allen,lena.allen.6282@example.com,Tucson,AZ,email,2026-04-02T22:30:20.000Z
+cust_a8f889aaf701be391603,Theo,Davis,theo.davis.3443@example.com,Chicago,IL,referral,2026-04-03T06:36:27.000Z
+cust_4f292e5d1390446e55bb,Riley,Brown,riley.brown.9843@example.com,Tampa,FL,referral,2026-04-03T06:58:47.000Z
+cust_be24e8b526e4c1bb8cd9,Avery,Lee,avery.lee.3420@example.com,Atlanta,GA,instagram,2026-04-03T08:29:54.000Z
+cust_600a5a577e4f51dddba3,Theo,Lewis,theo.lewis.2183@example.com,Boston,MA,popup_event,2026-04-03T09:57:58.000Z
+cust_19ade941e3df66303ead,Lena,Brown,lena.brown.1804@example.com,Phoenix,AZ,referral,2026-04-03T11:40:52.000Z
+cust_a8013f862749b097f949,Jordan,Wilson,jordan.wilson.6926@example.com,Portland,OR,popup_event,2026-04-03T12:11:30.000Z
+cust_317faf08907eae1755e8,Lena,Wilson,lena.wilson.7605@example.com,Salem,OR,email,2026-04-03T14:24:49.000Z
+cust_c9dbb4d9411164bee0b1,Nora,Garcia,nora.garcia.9351@example.com,Fort Collins,CO,referral,2026-04-03T14:38:44.000Z
+cust_aa4f00791aa23ef3dc02,Iris,Martinez,iris.martinez.800@example.com,Boulder,CO,email,2026-04-03T15:25:24.000Z
+cust_f34243012af858727615,Alex,Wright,alex.wright.7569@example.com,Dallas,TX,popup_event,2026-04-03T16:03:25.000Z
+cust_dcbfa9316213a457f353,Morgan,Young,morgan.young.8203@example.com,Tacoma,WA,instagram,2026-04-03T16:55:58.000Z
+cust_b00c0b28b58d688b924d,Cameron,Nguyen,cameron.nguyen.1447@example.com,Newton,MA,tiktok,2026-04-03T18:06:38.000Z
+cust_5adc061c84ff1f146a8a,Evan,Wilson,evan.wilson.4128@example.com,Los Angeles,CA,paid_search,2026-04-03T20:11:26.000Z
+cust_77bceebba4ac2fd43866,Iris,Patel,iris.patel.8364@example.com,Los Angeles,CA,instagram,2026-04-03T21:41:59.000Z
+cust_0f64501e560d8203713c,Avery,Allen,avery.allen.7756@example.com,Naperville,IL,email,2026-04-03T22:57:13.000Z
+cust_7914b9467b3ddb1783fc,Iris,Wilson,iris.wilson.7277@example.com,Raleigh,NC,referral,2026-04-04T06:01:35.000Z
+cust_bd4c442deb8fefe8afc2,Cameron,Young,cameron.young.6086@example.com,Buffalo,NY,tiktok,2026-04-04T11:34:51.000Z
+cust_e907bd68181a139244e9,Maya,Miller,maya.miller.1795@example.com,Boulder,CO,tiktok,2026-04-04T13:41:03.000Z
+cust_9446a25910606338742b,Drew,Wilson,drew.wilson.3477@example.com,Oak Park,IL,tiktok,2026-04-04T14:51:05.000Z
+cust_bfe5538e62fa36d84456,Theo,Wright,theo.wright.3860@example.com,Asheville,NC,organic_search,2026-04-05T06:58:10.000Z
+cust_c86df0d536073dcc0c49,Sofia,Miller,sofia.miller.7834@example.com,Atlanta,GA,paid_search,2026-04-05T09:07:39.000Z
+cust_2c06b184e484d7d4bdb4,Drew,Young,drew.young.981@example.com,Spokane,WA,email,2026-04-05T16:34:58.000Z
+cust_7068aff345862ada961b,Maya,Young,maya.young.419@example.com,Tempe,AZ,organic_search,2026-04-05T20:22:10.000Z
+cust_532c9248db1677938be9,Riley,Davis,riley.davis.173@example.com,Bend,OR,popup_event,2026-04-05T20:23:14.000Z
+cust_320c7aaf26fa078e3d27,Sofia,Nguyen,sofia.nguyen.6981@example.com,Boston,MA,organic_search,2026-04-05T21:35:12.000Z
+cust_9316fd67f0ca58a8c24a,Sofia,Wright,sofia.wright.7800@example.com,Chicago,IL,popup_event,2026-04-05T22:15:36.000Z
+cust_05bbe3f6473d8906e70f,Iris,Allen,iris.allen.7591@example.com,Spokane,WA,tiktok,2026-04-05T23:56:42.000Z
+cust_f0b3f9bfa06e58b06abf,Morgan,Wilson,morgan.wilson.4754@example.com,Austin,TX,referral,2026-04-06T06:34:06.000Z
+cust_a2df6996fddfaed8abff,Priya,Martinez,priya.martinez.7959@example.com,Orlando,FL,email,2026-04-06T07:08:08.000Z
+cust_6dffaf4dfd5c7cb27ff1,Theo,Lee,theo.lee.5768@example.com,Buffalo,NY,tiktok,2026-04-06T11:19:25.000Z
+cust_d518fb294562c5b4918a,Jordan,Smith,jordan.smith.699@example.com,New York,NY,referral,2026-04-06T11:40:49.000Z
+cust_83fbdcc3926573848ed1,Evan,Walker,evan.walker.5955@example.com,Asheville,NC,tiktok,2026-04-06T14:49:11.000Z
+cust_4b4ed8006728ba36de20,Taylor,Lee,taylor.lee.2888@example.com,Oak Park,IL,instagram,2026-04-06T16:18:06.000Z
+cust_762a769a860b8734e32f,Avery,Walker,avery.walker.1376@example.com,Oak Park,IL,email,2026-04-06T17:05:46.000Z
+cust_73004816c0e3710e5b89,Jamie,Anderson,jamie.anderson.7718@example.com,Oak Park,IL,tiktok,2026-04-06T17:18:52.000Z
+cust_6d8d456a409770bdd586,Noah,Patel,noah.patel.7252@example.com,Boulder,CO,paid_search,2026-04-06T17:57:30.000Z
+cust_89e78b6345bb74d03a5e,Avery,Miller,avery.miller.1241@example.com,Bellevue,WA,referral,2026-04-06T20:42:34.000Z
+cust_7db519b42f352665023d,Miles,Miller,miles.miller.8963@example.com,Boston,MA,tiktok,2026-04-06T21:02:41.000Z
+cust_0c917c98c3c439186ccf,Casey,Kim,casey.kim.9288@example.com,Eugene,OR,email,2026-04-07T07:28:31.000Z
+cust_92a513db2eaaad848be5,Cameron,Kim,cameron.kim.4837@example.com,Oak Park,IL,referral,2026-04-07T09:50:01.000Z
+cust_0a9d0dece8b88d25cfec,Nora,Miller,nora.miller.1281@example.com,Tacoma,WA,organic_search,2026-04-07T16:46:38.000Z
+cust_305e34a76bc5c1b964be,Miles,Wilson,miles.wilson.1687@example.com,Scottsdale,AZ,tiktok,2026-04-07T17:01:16.000Z
+cust_d1dea901cbf6f7335ccb,Jordan,Garcia,jordan.garcia.8767@example.com,Miami,FL,tiktok,2026-04-07T18:12:50.000Z
+cust_2a3f4a0c5cd3102ad2b6,Noah,Clark,noah.clark.6583@example.com,Colorado Springs,CO,referral,2026-04-07T21:45:54.000Z
+cust_30f13796e4470dfd26c2,Jordan,Garcia,jordan.garcia.9665@example.com,Bend,OR,referral,2026-04-08T08:08:18.000Z
+cust_b58ad75e0510ac038909,Miles,Clark,miles.clark.8012@example.com,Dallas,TX,tiktok,2026-04-08T08:44:22.000Z
+cust_7ff1ac630cc3099ae46d,Avery,Allen,avery.allen.3288@example.com,Eugene,OR,tiktok,2026-04-08T09:32:41.000Z
+cust_db2f1c32aa06073334f7,Avery,Walker,avery.walker.3686@example.com,Fort Worth,TX,organic_search,2026-04-08T11:03:00.000Z
+cust_de3492a1396cb8fbf38c,Sofia,Wilson,sofia.wilson.6379@example.com,Austin,TX,instagram,2026-04-08T16:38:19.000Z
+cust_a1d2449cd09e6fe1e27c,Alex,Davis,alex.davis.8842@example.com,Eugene,OR,tiktok,2026-04-08T17:40:59.000Z
+cust_62188484039d0aa2add5,Morgan,Patel,morgan.patel.928@example.com,Fort Collins,CO,paid_search,2026-04-08T17:50:01.000Z
+cust_2c42ab2a07e5c8d928c1,Sofia,Miller,sofia.miller.7231@example.com,Durham,NC,popup_event,2026-04-08T22:57:11.000Z
+cust_234b6cee05a5b8b48cf3,Maya,Lewis,maya.lewis.9069@example.com,Houston,TX,referral,2026-04-08T23:47:00.000Z
+cust_5d869b839bbef5cf13c0,Nora,Martinez,nora.martinez.4724@example.com,Dallas,TX,paid_search,2026-04-09T10:27:26.000Z
+cust_55be1c95d34ab0db020a,Theo,Lee,theo.lee.2987@example.com,Tempe,AZ,organic_search,2026-04-09T13:17:23.000Z
+cust_93695fe7ed6c7f63f34d,Nora,Miller,nora.miller.1602@example.com,Los Angeles,CA,paid_search,2026-04-09T20:33:15.000Z
+cust_324906abad94839ebe40,Priya,Kim,priya.kim.5939@example.com,Fort Worth,TX,popup_event,2026-04-10T06:41:00.000Z
+cust_7a6ed912fb4fc7f30753,Avery,Miller,avery.miller.6458@example.com,Raleigh,NC,referral,2026-04-10T08:00:05.000Z
+cust_952b0c6a8755f7d140a6,Miles,Miller,miles.miller.4770@example.com,Charlotte,NC,referral,2026-04-10T10:10:01.000Z
+cust_77dbd70faafc3636acb8,Taylor,Johnson,taylor.johnson.6086@example.com,Charlotte,NC,referral,2026-04-10T11:14:34.000Z
+cust_ef5234d51a90b2e0bf65,Lena,Lewis,lena.lewis.3096@example.com,Colorado Springs,CO,paid_search,2026-04-10T11:21:18.000Z
+cust_ca8dbfde092d5842c2c7,Morgan,Patel,morgan.patel.8920@example.com,Tacoma,WA,organic_search,2026-04-10T15:16:34.000Z
+cust_d088611ee64ccd0a6f41,Sofia,Hall,sofia.hall.4821@example.com,Fort Worth,TX,instagram,2026-04-10T16:06:23.000Z
+cust_6e1532afd2be8bef525c,Lena,Wilson,lena.wilson.4173@example.com,Buffalo,NY,tiktok,2026-04-10T16:36:38.000Z
+cust_f1b3e1a4cfcb89a08be8,Theo,Lee,theo.lee.647@example.com,Brooklyn,NY,instagram,2026-04-10T18:46:25.000Z
+cust_725b82e629cffbd7d020,Lena,Garcia,lena.garcia.7858@example.com,Fort Worth,TX,organic_search,2026-04-10T23:15:15.000Z
+cust_526656102421684d2e1c,Theo,Martinez,theo.martinez.8041@example.com,Asheville,NC,email,2026-04-11T06:46:27.000Z
+cust_5288e8a82a84b2fee4dd,Taylor,Clark,taylor.clark.5318@example.com,Seattle,WA,instagram,2026-04-11T06:49:01.000Z
+cust_4264d2f94eb0321f026e,Casey,Walker,casey.walker.2776@example.com,Oak Park,IL,email,2026-04-11T09:25:42.000Z
+cust_c5b6d1a35f461fc3f22b,Avery,Wright,avery.wright.6359@example.com,Charlotte,NC,popup_event,2026-04-11T09:59:04.000Z
+cust_df42b48e069534b9343b,Evan,Lewis,evan.lewis.4503@example.com,Evanston,IL,instagram,2026-04-11T13:23:20.000Z
+cust_e3e33057dc4c6d44b2c2,Taylor,Allen,taylor.allen.4901@example.com,Sacramento,CA,instagram,2026-04-11T14:54:22.000Z
+cust_313d9750695e14315972,Lena,Anderson,lena.anderson.4054@example.com,Phoenix,AZ,paid_search,2026-04-11T15:03:29.000Z
+cust_188a11539bbae63deff3,Taylor,Clark,taylor.clark.5417@example.com,Los Angeles,CA,referral,2026-04-11T17:33:57.000Z
+cust_1e3d5e95ace38acd05fb,Cameron,Allen,cameron.allen.538@example.com,Decatur,GA,popup_event,2026-04-11T22:16:31.000Z
+cust_dca780335f26ca7a2912,Alex,Anderson,alex.anderson.8756@example.com,Rochester,NY,paid_search,2026-04-12T07:38:07.000Z
+cust_7703f01d22bc49fcfb16,Avery,Young,avery.young.9028@example.com,Bellevue,WA,email,2026-04-12T07:52:53.000Z
+cust_940764fbd8fc35927e7c,Sofia,Anderson,sofia.anderson.9528@example.com,Raleigh,NC,organic_search,2026-04-12T11:23:32.000Z
+cust_210f42dab2218cf01285,Maya,Clark,maya.clark.6980@example.com,Houston,TX,referral,2026-04-12T17:09:09.000Z
+cust_935a7fff87a4cc2ab79a,Jordan,Hall,jordan.hall.2139@example.com,Asheville,NC,tiktok,2026-04-12T17:26:59.000Z
+cust_4be8bfa8c091044d3b9d,Lena,Smith,lena.smith.6292@example.com,Jacksonville,FL,instagram,2026-04-12T18:53:04.000Z
+cust_a43aeca6c4bf00c28d26,Casey,Miller,casey.miller.9060@example.com,Cambridge,MA,paid_search,2026-04-12T19:40:52.000Z
+cust_39c101453b2b0aadd74e,Noah,Young,noah.young.3730@example.com,Jacksonville,FL,instagram,2026-04-12T20:07:23.000Z
+cust_1c00e8d5cbb916999a08,Priya,Wilson,priya.wilson.894@example.com,Rochester,NY,paid_search,2026-04-13T06:01:35.000Z
+cust_f2c124842bed04faa205,Cameron,Martinez,cameron.martinez.7329@example.com,Denver,CO,email,2026-04-13T06:51:45.000Z
+cust_00ea1b0ec3d8d7f326df,Theo,Wright,theo.wright.1259@example.com,Denver,CO,email,2026-04-13T09:01:40.000Z
+cust_ac409461a3a4a394d0b4,Riley,Anderson,riley.anderson.8664@example.com,Dallas,TX,email,2026-04-13T10:27:30.000Z
+cust_4b6e4f8d11c4861e7703,Noah,Garcia,noah.garcia.9206@example.com,New York,NY,tiktok,2026-04-13T11:01:00.000Z
+cust_d599fc1b529e30014b8e,Taylor,Johnson,taylor.johnson.9590@example.com,Scottsdale,AZ,email,2026-04-13T13:55:40.000Z
+cust_92a36a8de39f0876e146,Evan,Patel,evan.patel.3649@example.com,Colorado Springs,CO,paid_search,2026-04-13T19:21:26.000Z
+cust_2cb309f7360731c37d71,Nora,Miller,nora.miller.362@example.com,Tacoma,WA,email,2026-04-13T21:23:02.000Z
+cust_802dee1e9655530e9d44,Jamie,Hall,jamie.hall.1597@example.com,San Diego,CA,paid_search,2026-04-13T23:12:37.000Z
+cust_79ebd47d148cd44fe68e,Taylor,Young,taylor.young.1568@example.com,Evanston,IL,paid_search,2026-04-14T06:07:34.000Z
+cust_bc3d95a83d5aef127b24,Theo,Miller,theo.miller.5546@example.com,Spokane,WA,instagram,2026-04-14T08:33:39.000Z
+cust_972cdb943453c93dfb26,Iris,Walker,iris.walker.7815@example.com,Brooklyn,NY,paid_search,2026-04-14T09:43:07.000Z
+cust_7bc71486b652633fbf25,Nora,Lewis,nora.lewis.4423@example.com,Atlanta,GA,instagram,2026-04-14T12:12:46.000Z
+cust_205b245739f0e69b684c,Riley,Lee,riley.lee.6065@example.com,San Francisco,CA,email,2026-04-14T12:46:25.000Z
+cust_e170fd09ec9b85453cdb,Jamie,Walker,jamie.walker.262@example.com,Portland,OR,email,2026-04-14T13:58:35.000Z
+cust_58e1417313fceee97bde,Jamie,Lewis,jamie.lewis.394@example.com,Orlando,FL,referral,2026-04-14T17:46:46.000Z
+cust_01af35dd52c05b480b7f,Alex,Wright,alex.wright.5754@example.com,Jacksonville,FL,popup_event,2026-04-14T20:40:01.000Z
+cust_6669dbf029bc62f7209b,Iris,Smith,iris.smith.6572@example.com,Fort Collins,CO,instagram,2026-04-15T06:30:41.000Z
+cust_13b1ab8092136841c278,Lena,Lee,lena.lee.9461@example.com,Los Angeles,CA,instagram,2026-04-15T10:51:53.000Z
+cust_a838a889547d45d27e1b,Jamie,Hall,jamie.hall.557@example.com,Eugene,OR,tiktok,2026-04-15T14:52:06.000Z
+cust_d2074c260033b401a050,Avery,Clark,avery.clark.2559@example.com,Somerville,MA,instagram,2026-04-15T21:11:29.000Z
+cust_12bec46211253dbbc359,Jordan,Wright,jordan.wright.5675@example.com,Charlotte,NC,instagram,2026-04-16T06:46:27.000Z
+cust_454df751e1e6525606ba,Nora,Johnson,nora.johnson.5378@example.com,Eugene,OR,referral,2026-04-16T07:41:55.000Z
+cust_ce05675131a95a4c682c,Priya,Patel,priya.patel.7046@example.com,Durham,NC,email,2026-04-16T13:46:14.000Z
+cust_57783665d020fd1f4a6c,Sofia,Miller,sofia.miller.7109@example.com,Rochester,NY,referral,2026-04-16T14:53:52.000Z
+cust_cb02cb5f5d9a832bc94d,Priya,Young,priya.young.8791@example.com,Newton,MA,tiktok,2026-04-16T16:40:14.000Z
+cust_7c131056336cc7578d02,Lena,Martinez,lena.martinez.8445@example.com,Cambridge,MA,popup_event,2026-04-16T20:16:14.000Z
+cust_ca017c89455feef5b96e,Taylor,Brown,taylor.brown.9647@example.com,Phoenix,AZ,instagram,2026-04-16T22:38:27.000Z
+cust_202dc08689a4aa4f3114,Priya,Wilson,priya.wilson.7322@example.com,Brooklyn,NY,email,2026-04-16T23:27:35.000Z
+cust_5e6a8a6ba7d08ae31d13,Morgan,Wilson,morgan.wilson.4429@example.com,Colorado Springs,CO,instagram,2026-04-17T07:14:42.000Z
+cust_4c186bb59d9d99a7554b,Morgan,Kim,morgan.kim.6874@example.com,Denver,CO,organic_search,2026-04-17T10:19:07.000Z
+cust_ce27dd2c8c7bf358adda,Noah,Martinez,noah.martinez.9196@example.com,Athens,GA,popup_event,2026-04-17T11:46:35.000Z
+cust_d9ffd698fa3b21b10809,Lena,Johnson,lena.johnson.8363@example.com,Newton,MA,email,2026-04-17T12:45:19.000Z
+cust_0b9ceb5212e2cc431f1f,Drew,Garcia,drew.garcia.5909@example.com,Rochester,NY,organic_search,2026-04-17T15:19:15.000Z
+cust_d31732a6afdcc7e301fc,Drew,Lewis,drew.lewis.8290@example.com,Brooklyn,NY,popup_event,2026-04-17T17:05:41.000Z
+cust_9b78638b6eb9059cba72,Morgan,Wright,morgan.wright.9239@example.com,Bellevue,WA,paid_search,2026-04-17T20:58:14.000Z
+cust_0ff199ce78af79ec6201,Noah,Johnson,noah.johnson.3754@example.com,Boulder,CO,email,2026-04-17T23:04:42.000Z
+cust_6ee5d1c37effb11b3fee,Taylor,Miller,taylor.miller.7982@example.com,Tampa,FL,tiktok,2026-04-17T23:14:18.000Z
+cust_cb0e4096b1e5ddf96a12,Noah,Lee,noah.lee.7947@example.com,San Diego,CA,tiktok,2026-04-17T23:45:35.000Z
+cust_0c17b7db8294af765da8,Priya,Smith,priya.smith.3980@example.com,Miami,FL,tiktok,2026-04-18T08:18:09.000Z
+cust_470322b05c5a2c33beba,Morgan,Martinez,morgan.martinez.4409@example.com,Tucson,AZ,organic_search,2026-04-18T09:03:20.000Z
+cust_8914d7e21cd95b4c29e6,Sofia,Martinez,sofia.martinez.4918@example.com,Tacoma,WA,referral,2026-04-18T12:36:54.000Z
+cust_fb76cd1b34fc2791785c,Jamie,Lee,jamie.lee.580@example.com,San Francisco,CA,organic_search,2026-04-18T13:10:31.000Z
+cust_81a8fff222fa3c7b00ab,Drew,Wilson,drew.wilson.8171@example.com,Spokane,WA,popup_event,2026-04-18T13:51:38.000Z
+cust_906d5ce4b4d80d14d137,Sofia,Davis,sofia.davis.1099@example.com,Cambridge,MA,referral,2026-04-18T13:54:50.000Z
+cust_855d4c579b5a4c4f97fd,Avery,Patel,avery.patel.7817@example.com,Scottsdale,AZ,paid_search,2026-04-18T18:08:16.000Z
+cust_7a17d29424b99b33a73c,Sofia,Kim,sofia.kim.4353@example.com,Evanston,IL,organic_search,2026-04-18T19:33:29.000Z
+cust_c6ae751c3a3e71c3f86a,Morgan,Wilson,morgan.wilson.903@example.com,Tempe,AZ,tiktok,2026-04-18T20:45:28.000Z
+cust_638082418b811a004e60,Casey,Clark,casey.clark.4137@example.com,Naperville,IL,referral,2026-04-19T06:47:06.000Z
+cust_66ec0d0dfe1894497740,Morgan,Nguyen,morgan.nguyen.3760@example.com,Houston,TX,tiktok,2026-04-19T09:04:11.000Z
+cust_bcb37d4b156df8b2c4d9,Taylor,Smith,taylor.smith.3994@example.com,Boston,MA,tiktok,2026-04-19T13:07:04.000Z
+cust_7346ce651323b9692cf7,Maya,Johnson,maya.johnson.4529@example.com,Somerville,MA,instagram,2026-04-19T16:13:28.000Z
+cust_d2e7d89b9ff674cdbfc4,Avery,Young,avery.young.7401@example.com,Savannah,GA,popup_event,2026-04-19T17:01:00.000Z
+cust_38e50d5c95790c992825,Noah,Allen,noah.allen.6800@example.com,Raleigh,NC,email,2026-04-19T17:52:01.000Z
+cust_ddd9bd70b9465e68d869,Sofia,Wilson,sofia.wilson.2483@example.com,San Francisco,CA,email,2026-04-19T19:39:04.000Z
+cust_41cc656ffc0993394135,Morgan,Johnson,morgan.johnson.4345@example.com,Oak Park,IL,paid_search,2026-04-19T21:49:53.000Z
+cust_c1b49e2ac41828e6a74e,Casey,Nguyen,casey.nguyen.7886@example.com,San Francisco,CA,popup_event,2026-04-19T23:03:21.000Z
+cust_ea2310d9b0beaecead4a,Iris,Clark,iris.clark.7806@example.com,Tampa,FL,instagram,2026-04-19T23:31:01.000Z
+cust_fdc60564fd0dc66b21d0,Priya,Wright,priya.wright.2624@example.com,Los Angeles,CA,instagram,2026-04-20T06:50:41.000Z
+cust_69f35ab6867c645ff592,Lena,Wright,lena.wright.129@example.com,Tacoma,WA,organic_search,2026-04-20T07:27:05.000Z
+cust_f460cf6004119eacc836,Avery,Walker,avery.walker.1790@example.com,Decatur,GA,referral,2026-04-20T07:32:52.000Z
+cust_9f6d3bd2a8bff6a163df,Cameron,Brown,cameron.brown.6595@example.com,Naperville,IL,tiktok,2026-04-20T07:56:16.000Z
+cust_2f0c3d4794bb39b34bf1,Priya,Allen,priya.allen.3297@example.com,Raleigh,NC,tiktok,2026-04-20T11:09:13.000Z
+cust_c691e6f1bcb28850ee84,Morgan,Hall,morgan.hall.5809@example.com,Fort Worth,TX,organic_search,2026-04-20T13:02:32.000Z
+cust_1c73f38f4086a7c833c1,Jamie,Young,jamie.young.9358@example.com,Oak Park,IL,popup_event,2026-04-20T13:28:02.000Z
+cust_e7ed902904e6af15efd9,Riley,Miller,riley.miller.4275@example.com,Naperville,IL,email,2026-04-20T13:41:16.000Z
+cust_e25e645eed3554faaa42,Avery,Wright,avery.wright.2282@example.com,Evanston,IL,organic_search,2026-04-20T13:51:26.000Z
+cust_ebabdc3945aecba58bf9,Jordan,Nguyen,jordan.nguyen.1322@example.com,Salem,OR,popup_event,2026-04-20T15:49:52.000Z
+cust_b936e2c849137e3d7d63,Avery,Walker,avery.walker.4869@example.com,Bellevue,WA,email,2026-04-20T16:58:49.000Z
+cust_91522a5807b125566527,Casey,Davis,casey.davis.5090@example.com,Buffalo,NY,email,2026-04-20T20:25:56.000Z
+cust_cebb740e629c41e17ece,Nora,Miller,nora.miller.9198@example.com,Asheville,NC,organic_search,2026-04-20T23:28:09.000Z
+cust_acdfaa11a9b5b1044f11,Lena,Walker,lena.walker.7104@example.com,Fort Worth,TX,paid_search,2026-04-21T09:18:39.000Z
+cust_8189d407362478b43cac,Jamie,Clark,jamie.clark.7160@example.com,Chicago,IL,instagram,2026-04-21T09:21:10.000Z
+cust_4970d35911c1c6202382,Jordan,Johnson,jordan.johnson.6189@example.com,Cambridge,MA,instagram,2026-04-21T10:04:03.000Z
+cust_6fb45b9045e30e1881ea,Iris,Allen,iris.allen.7680@example.com,Jacksonville,FL,referral,2026-04-21T10:56:03.000Z
+cust_890c44303be9617524a7,Iris,Clark,iris.clark.9058@example.com,Los Angeles,CA,tiktok,2026-04-21T11:46:36.000Z
+cust_1facabab2fb05e6b3e49,Priya,Anderson,priya.anderson.1269@example.com,Los Angeles,CA,popup_event,2026-04-21T12:47:20.000Z
+cust_9140806429abc6ece140,Cameron,Anderson,cameron.anderson.6716@example.com,Spokane,WA,paid_search,2026-04-21T12:59:41.000Z
+cust_1b621854aaa19bbf5b93,Priya,Brown,priya.brown.6823@example.com,San Diego,CA,paid_search,2026-04-21T15:02:20.000Z
+cust_36ec97b07db8281c5a3c,Morgan,Miller,morgan.miller.8041@example.com,Tampa,FL,popup_event,2026-04-21T18:03:52.000Z
+cust_6c017c63ea800b2c0f50,Maya,Brown,maya.brown.6197@example.com,Bend,OR,organic_search,2026-04-21T18:43:12.000Z
+cust_9d11b14af53b000606d2,Sofia,Davis,sofia.davis.1448@example.com,Rochester,NY,tiktok,2026-04-22T09:05:39.000Z
+cust_8847e5eff6041986c571,Drew,Patel,drew.patel.855@example.com,Atlanta,GA,paid_search,2026-04-22T09:32:36.000Z
+cust_2202e581f1f9cca49c5b,Nora,Nguyen,nora.nguyen.5282@example.com,Buffalo,NY,organic_search,2026-04-22T10:03:41.000Z
+cust_48cee3d3749ae1668dd7,Miles,Martinez,miles.martinez.6001@example.com,Sacramento,CA,email,2026-04-22T10:11:07.000Z
+cust_f343522eb5d38164b409,Cameron,Lee,cameron.lee.4548@example.com,Cambridge,MA,popup_event,2026-04-22T12:29:55.000Z
+cust_ae7fcd21dbd49f482650,Alex,Patel,alex.patel.8885@example.com,Somerville,MA,instagram,2026-04-22T16:05:58.000Z
+cust_fc307cd5a4c67735d6fe,Jamie,Miller,jamie.miller.4827@example.com,San Diego,CA,paid_search,2026-04-22T17:07:28.000Z
+cust_8f40eb3762adfa3b4cf2,Jordan,Johnson,jordan.johnson.1006@example.com,Evanston,IL,organic_search,2026-04-22T18:41:01.000Z
+cust_0ed8beec17ad4e67b7bf,Maya,Walker,maya.walker.3519@example.com,Naperville,IL,organic_search,2026-04-22T21:49:44.000Z
+cust_d11453c450530f2a6338,Jamie,Brown,jamie.brown.8599@example.com,Eugene,OR,tiktok,2026-04-22T22:07:46.000Z
+cust_d1bff0cf103c76d9e68b,Taylor,Nguyen,taylor.nguyen.504@example.com,Eugene,OR,tiktok,2026-04-22T22:10:01.000Z
+cust_fdb5cfb37a3ef2144667,Avery,Garcia,avery.garcia.9531@example.com,San Francisco,CA,paid_search,2026-04-23T07:58:38.000Z
+cust_943da1d2ea84c35eb8d5,Priya,Brown,priya.brown.1136@example.com,Colorado Springs,CO,referral,2026-04-23T10:29:20.000Z
+cust_50efb1677703569406cb,Jordan,Miller,jordan.miller.9082@example.com,Seattle,WA,email,2026-04-23T11:57:24.000Z
+cust_25ca95c083be3328c2dc,Jamie,Smith,jamie.smith.1868@example.com,Spokane,WA,tiktok,2026-04-23T14:36:41.000Z
+cust_38668dff91fb7c4d2289,Lena,Walker,lena.walker.6161@example.com,Miami,FL,popup_event,2026-04-23T17:37:56.000Z
+cust_5c1f032adc3d76fefc5d,Jamie,Patel,jamie.patel.1121@example.com,Athens,GA,organic_search,2026-04-23T19:51:56.000Z
+cust_26f7e5478b162db153de,Alex,Allen,alex.allen.9436@example.com,Charlotte,NC,email,2026-04-23T20:06:57.000Z
+cust_bcc4f6d4d0fd07452183,Evan,Lewis,evan.lewis.7010@example.com,Buffalo,NY,email,2026-04-23T20:41:34.000Z
+cust_3bc14861afc0234837a6,Drew,Smith,drew.smith.4514@example.com,Portland,OR,paid_search,2026-04-23T21:01:49.000Z
+cust_a6e1ead93dfe649a7e3b,Maya,Allen,maya.allen.4703@example.com,San Diego,CA,email,2026-04-23T21:55:24.000Z
+cust_688d01d530454f580d98,Nora,Nguyen,nora.nguyen.7593@example.com,Asheville,NC,instagram,2026-04-24T06:44:31.000Z
+cust_e2370fc2cbf232bf7e35,Alex,Miller,alex.miller.3238@example.com,Houston,TX,organic_search,2026-04-24T06:51:27.000Z
+cust_a26ad3282ac7f564e1f9,Taylor,Allen,taylor.allen.5968@example.com,Durham,NC,instagram,2026-04-24T07:27:15.000Z
+cust_74cb295ae84642d74381,Jordan,Garcia,jordan.garcia.3495@example.com,Austin,TX,popup_event,2026-04-24T07:52:52.000Z
+cust_e2fed628ca868573c00a,Evan,Young,evan.young.8198@example.com,Chicago,IL,email,2026-04-24T08:00:14.000Z
+cust_26c9805d72651d9debe5,Casey,Patel,casey.patel.4574@example.com,Boston,MA,popup_event,2026-04-24T09:05:13.000Z
+cust_ebac5fe43d18e5488f95,Evan,Patel,evan.patel.5066@example.com,Tucson,AZ,referral,2026-04-24T11:26:06.000Z
+cust_f10700eeec897e03e341,Riley,Wright,riley.wright.1690@example.com,Tacoma,WA,instagram,2026-04-24T13:34:47.000Z
+cust_6709025c9b1cd7b82ec1,Evan,Young,evan.young.1100@example.com,Fort Collins,CO,referral,2026-04-24T14:42:47.000Z
+cust_04871d6e22b8334725ec,Avery,Walker,avery.walker.4991@example.com,Chicago,IL,organic_search,2026-04-24T16:06:09.000Z
+cust_2d67f9fa87646a415b2a,Sofia,Clark,sofia.clark.7224@example.com,Dallas,TX,email,2026-04-24T16:28:28.000Z
+cust_fc4329095ae1cbd747b0,Maya,Clark,maya.clark.7051@example.com,Newton,MA,popup_event,2026-04-24T21:13:47.000Z
+cust_4a90b33997f0b18abe93,Theo,Garcia,theo.garcia.589@example.com,Scottsdale,AZ,tiktok,2026-04-24T22:14:56.000Z
+cust_44bceb33f52529b64f38,Drew,Smith,drew.smith.6107@example.com,Los Angeles,CA,tiktok,2026-04-24T23:17:24.000Z
+cust_7a1b9d1b3b0044110149,Iris,Johnson,iris.johnson.8196@example.com,Salem,OR,tiktok,2026-04-24T23:28:20.000Z
+cust_f3d4b06cfac8249cb27c,Sofia,Anderson,sofia.anderson.5252@example.com,Sacramento,CA,referral,2026-04-25T08:02:42.000Z
+cust_52e931cb69e0d758345f,Evan,Miller,evan.miller.4380@example.com,Bend,OR,organic_search,2026-04-25T08:03:12.000Z
+cust_f12d573a7db89c6b0db0,Riley,Allen,riley.allen.6575@example.com,Naperville,IL,instagram,2026-04-25T08:25:48.000Z
+cust_ef158f1ad9c23296023f,Evan,Walker,evan.walker.679@example.com,Rochester,NY,organic_search,2026-04-25T08:32:58.000Z
+cust_be2f7dd5e125f680019d,Theo,Martinez,theo.martinez.7217@example.com,Bend,OR,paid_search,2026-04-25T10:29:18.000Z
+cust_b57e062ec53b53eca84e,Iris,Kim,iris.kim.8479@example.com,Evanston,IL,tiktok,2026-04-25T13:39:06.000Z
+cust_37b0082dd3beec0b0979,Morgan,Brown,morgan.brown.1211@example.com,Evanston,IL,organic_search,2026-04-25T14:14:11.000Z
+cust_f2c130f940089cfd39b7,Jordan,Wilson,jordan.wilson.7732@example.com,Dallas,TX,referral,2026-04-25T15:20:35.000Z
+cust_9f0976672bddfd04ee47,Jamie,Nguyen,jamie.nguyen.3324@example.com,Boulder,CO,organic_search,2026-04-25T16:14:53.000Z
+cust_a4bcbd515d2a5ce950e4,Cameron,Nguyen,cameron.nguyen.8732@example.com,Tacoma,WA,organic_search,2026-04-25T16:44:57.000Z
+cust_01a372eb97259c4c21de,Alex,Walker,alex.walker.8316@example.com,Bend,OR,tiktok,2026-04-25T17:48:49.000Z
+cust_80ca927260485d35f712,Taylor,Brown,taylor.brown.8119@example.com,Durham,NC,popup_event,2026-04-25T18:18:58.000Z
+cust_de3200e02e79b078e4cc,Alex,Young,alex.young.9346@example.com,Buffalo,NY,referral,2026-04-25T19:11:45.000Z
+cust_3ad86aad95d7e4d4f597,Maya,Kim,maya.kim.8457@example.com,San Francisco,CA,email,2026-04-25T21:17:04.000Z
+cust_1945730f32e721c2949d,Casey,Smith,casey.smith.5449@example.com,Sacramento,CA,email,2026-04-25T22:00:40.000Z
+cust_7470960bcba0542be7af,Alex,Johnson,alex.johnson.8272@example.com,Raleigh,NC,popup_event,2026-04-25T22:22:07.000Z
+cust_e025418074caa5c35961,Priya,Smith,priya.smith.7621@example.com,Tucson,AZ,referral,2026-04-26T07:01:26.000Z
+cust_8572b8e7c35750776095,Miles,Hall,miles.hall.343@example.com,Rochester,NY,popup_event,2026-04-26T09:16:22.000Z
+cust_7e5931c790c2279fe2b6,Drew,Garcia,drew.garcia.4327@example.com,Brooklyn,NY,organic_search,2026-04-26T12:24:20.000Z
+cust_f7b9d4abd4ed923deb92,Taylor,Hall,taylor.hall.3975@example.com,Jacksonville,FL,instagram,2026-04-26T13:24:46.000Z
+cust_4236db0aa4a27ca70376,Priya,Anderson,priya.anderson.9641@example.com,Phoenix,AZ,organic_search,2026-04-26T13:42:05.000Z
+cust_1796d5d8713c5be11f9f,Jamie,Nguyen,jamie.nguyen.9738@example.com,Seattle,WA,popup_event,2026-04-26T14:55:13.000Z
+cust_b80b9a7d24ec04b647fc,Lena,Anderson,lena.anderson.5156@example.com,Jacksonville,FL,popup_event,2026-04-26T18:00:55.000Z
+cust_d6af36285aebfc4502ee,Maya,Davis,maya.davis.5970@example.com,Brooklyn,NY,tiktok,2026-04-26T20:03:24.000Z
+cust_aede3899f1b269dd5ca8,Sofia,Hall,sofia.hall.7817@example.com,Boston,MA,paid_search,2026-04-26T21:24:31.000Z
+cust_0474dbc1c1e2e6e55779,Maya,Lewis,maya.lewis.8061@example.com,Houston,TX,paid_search,2026-04-27T10:30:23.000Z
+cust_4ea076f70a341d0edb28,Sofia,Johnson,sofia.johnson.4198@example.com,Boulder,CO,popup_event,2026-04-27T14:26:37.000Z
+cust_dfb85d530b9d4f97aca6,Priya,Walker,priya.walker.8197@example.com,Bend,OR,organic_search,2026-04-27T14:33:23.000Z
+cust_8a4c750022fbf5c0b40b,Alex,Allen,alex.allen.1073@example.com,Brooklyn,NY,referral,2026-04-27T14:43:34.000Z
+cust_1e2118802daa0150652c,Cameron,Brown,cameron.brown.8938@example.com,Miami,FL,paid_search,2026-04-27T15:11:55.000Z
+cust_810e54321e467f2a0e4a,Noah,Hall,noah.hall.7544@example.com,Fort Collins,CO,organic_search,2026-04-27T17:20:11.000Z
+cust_7c534f387aef235bc29a,Priya,Nguyen,priya.nguyen.1024@example.com,Houston,TX,popup_event,2026-04-27T20:22:29.000Z
+cust_d47f5df8bbae49c0c253,Drew,Lewis,drew.lewis.8921@example.com,Raleigh,NC,paid_search,2026-04-27T21:03:39.000Z
+cust_d28d498b975090359f39,Avery,Kim,avery.kim.2697@example.com,Durham,NC,popup_event,2026-04-27T22:16:48.000Z
+cust_7cedb95a78e355ba00a5,Iris,Brown,iris.brown.6426@example.com,Seattle,WA,email,2026-04-27T22:31:03.000Z
+cust_6db7a39a47349fdf3f7d,Theo,Young,theo.young.1134@example.com,Jacksonville,FL,email,2026-04-28T06:38:48.000Z
+cust_512b4c81c82e45369ac6,Cameron,Lewis,cameron.lewis.6697@example.com,Jacksonville,FL,popup_event,2026-04-28T06:48:21.000Z
+cust_71a33adce6cf54c73899,Maya,Davis,maya.davis.3312@example.com,Scottsdale,AZ,tiktok,2026-04-28T07:50:10.000Z
+cust_713ee67a4c107fd36608,Drew,Smith,drew.smith.1167@example.com,New York,NY,referral,2026-04-28T16:26:03.000Z
+cust_c072a1c73dfef4eb7a94,Taylor,Clark,taylor.clark.1699@example.com,Naperville,IL,instagram,2026-04-29T08:09:42.000Z
+cust_8e7fe248868c31974a03,Alex,Johnson,alex.johnson.4842@example.com,Salem,OR,organic_search,2026-04-29T09:08:51.000Z
+cust_663af7a30f8226fca2aa,Jordan,Smith,jordan.smith.9985@example.com,Austin,TX,referral,2026-04-29T10:16:16.000Z
+cust_325a8bac5f070763bb69,Taylor,Brown,taylor.brown.7562@example.com,Charlotte,NC,tiktok,2026-04-29T11:02:08.000Z
+cust_46f5deebb6d4f9922eaa,Jordan,Allen,jordan.allen.8606@example.com,Tempe,AZ,popup_event,2026-04-29T11:54:16.000Z
+cust_8000ff7bb6f589df309d,Alex,Smith,alex.smith.4659@example.com,Orlando,FL,referral,2026-04-29T12:59:01.000Z
+cust_da41489b1a96bf8bee8b,Casey,Allen,casey.allen.2828@example.com,Newton,MA,email,2026-04-29T13:46:44.000Z
+cust_fbf68df4bc3cd49a2fb6,Avery,Johnson,avery.johnson.1239@example.com,Savannah,GA,organic_search,2026-04-29T15:52:08.000Z
+cust_d51744613174b62db5b2,Priya,Walker,priya.walker.2657@example.com,Denver,CO,email,2026-04-29T16:46:00.000Z
+cust_19622178cc7d911e355f,Miles,Lewis,miles.lewis.516@example.com,Fort Collins,CO,instagram,2026-04-29T18:29:36.000Z
+cust_358c8dc6b4439a71c74c,Jordan,Brown,jordan.brown.2879@example.com,Boston,MA,referral,2026-04-29T22:02:19.000Z
+cust_7aa679bc479e92f62621,Priya,Hall,priya.hall.1400@example.com,Bellevue,WA,referral,2026-04-30T06:15:24.000Z
+cust_ae5320e12f95a3eb2700,Sofia,Miller,sofia.miller.9323@example.com,Raleigh,NC,organic_search,2026-04-30T06:47:29.000Z
+cust_565f3bf40b3475aa8440,Riley,Clark,riley.clark.7613@example.com,New York,NY,instagram,2026-04-30T06:58:12.000Z
+cust_963a02cb4245901325e3,Casey,Lee,casey.lee.1185@example.com,San Diego,CA,referral,2026-04-30T07:26:38.000Z
+cust_a71691c59806bd1866cd,Alex,Davis,alex.davis.9829@example.com,Fort Worth,TX,organic_search,2026-04-30T09:12:59.000Z
+cust_1029859be0618e7dd040,Nora,Young,nora.young.862@example.com,New York,NY,email,2026-04-30T10:03:40.000Z
+cust_542876178c56d5dae2a8,Cameron,Allen,cameron.allen.9602@example.com,Chicago,IL,popup_event,2026-04-30T10:23:42.000Z
+cust_8aefe6f60c7832c04db8,Miles,Davis,miles.davis.4659@example.com,Eugene,OR,popup_event,2026-04-30T13:24:21.000Z
+cust_cf877fda5bc4a9cca4bb,Lena,Davis,lena.davis.1922@example.com,Dallas,TX,paid_search,2026-04-30T16:40:19.000Z
+cust_2d5903911e98fa91f2d6,Theo,Kim,theo.kim.8366@example.com,Los Angeles,CA,popup_event,2026-04-30T19:28:07.000Z
+cust_edbf5428bed9a81c5e40,Priya,Brown,priya.brown.7145@example.com,Orlando,FL,popup_event,2026-04-30T19:42:55.000Z
+cust_fea96ff11e9d12c3345a,Maya,Walker,maya.walker.4397@example.com,Athens,GA,popup_event,2026-04-30T22:42:39.000Z
+cust_123103660d8cc8a281a1,Jamie,Anderson,jamie.anderson.7200@example.com,Athens,GA,organic_search,2026-05-01T06:43:20.000Z
+cust_5f2fc0389eb9d0281a61,Morgan,Kim,morgan.kim.2398@example.com,Cambridge,MA,instagram,2026-05-01T06:57:17.000Z
+cust_c4c2b4e1649dc683d9c3,Theo,Kim,theo.kim.6360@example.com,Spokane,WA,email,2026-05-01T07:56:36.000Z
+cust_d2d85962f6d2c81baa8d,Avery,Patel,avery.patel.8829@example.com,Tucson,AZ,popup_event,2026-05-01T10:27:37.000Z
+cust_294e4ced93f3435ed6da,Lena,Wright,lena.wright.3164@example.com,Spokane,WA,tiktok,2026-05-01T13:25:02.000Z
+cust_1f49c06aae48c660548b,Drew,Anderson,drew.anderson.6839@example.com,Chicago,IL,popup_event,2026-05-01T13:37:58.000Z
+cust_6a20e62d1a4aba2a3438,Miles,Walker,miles.walker.5383@example.com,Tempe,AZ,instagram,2026-05-01T16:51:47.000Z
+cust_1fc68a8bb6f817baf4b4,Nora,Johnson,nora.johnson.6430@example.com,Evanston,IL,instagram,2026-05-01T18:14:44.000Z
+cust_3a63c7066554b538fc3c,Priya,Young,priya.young.2818@example.com,Boulder,CO,paid_search,2026-05-01T18:38:27.000Z
+cust_621ce8e53228acfd77b7,Riley,Nguyen,riley.nguyen.8185@example.com,Raleigh,NC,organic_search,2026-05-01T19:15:45.000Z
+cust_50fbeaf7b70c91f61bbf,Maya,Clark,maya.clark.4622@example.com,Rochester,NY,email,2026-05-01T19:39:00.000Z
+cust_36854b1a806b32dd4882,Lena,Wright,lena.wright.3272@example.com,Tampa,FL,instagram,2026-05-01T20:02:05.000Z
+cust_7114c7279773aaffc5ff,Avery,Garcia,avery.garcia.9804@example.com,Austin,TX,organic_search,2026-05-01T20:47:17.000Z
+cust_2b9206fe34f5804c7c8c,Riley,Kim,riley.kim.9593@example.com,Fort Worth,TX,tiktok,2026-05-01T21:09:07.000Z
+cust_9166ac8672f599facee3,Cameron,Brown,cameron.brown.2666@example.com,Tampa,FL,tiktok,2026-05-01T21:19:53.000Z
+cust_52526c5ec1b45e715b25,Evan,Miller,evan.miller.6069@example.com,Decatur,GA,organic_search,2026-05-01T21:34:56.000Z
+cust_59e1e7cf14219063f313,Theo,Smith,theo.smith.6147@example.com,Bend,OR,email,2026-05-01T22:15:08.000Z
+cust_ae71e60e07e132e817be,Casey,Hall,casey.hall.6215@example.com,Eugene,OR,email,2026-05-01T23:43:30.000Z
+cust_6b9e95df53652aa3ff8d,Noah,Wilson,noah.wilson.2844@example.com,Boulder,CO,tiktok,2026-05-02T09:04:06.000Z
+cust_07033942d5ccc540200d,Riley,Brown,riley.brown.8690@example.com,Eugene,OR,email,2026-05-02T14:40:33.000Z
+cust_701537d530e4071e8958,Avery,Walker,avery.walker.8457@example.com,Boulder,CO,instagram,2026-05-02T19:22:14.000Z
+cust_1d7ec01124ec2e5be445,Alex,Johnson,alex.johnson.7094@example.com,Denver,CO,referral,2026-05-02T20:49:26.000Z
+cust_aab8575acad8af9e275d,Sofia,Miller,sofia.miller.4517@example.com,San Diego,CA,email,2026-05-02T20:55:13.000Z
+cust_97ecf8f3adf13c997407,Drew,Hall,drew.hall.2245@example.com,Eugene,OR,email,2026-05-02T21:24:39.000Z
+cust_a66aba358e4326234179,Jamie,Martinez,jamie.martinez.4615@example.com,Spokane,WA,referral,2026-05-02T23:06:13.000Z
+cust_e30e1f86e9189f658e1c,Lena,Smith,lena.smith.8956@example.com,Buffalo,NY,organic_search,2026-05-03T12:44:04.000Z
+cust_8c851c01ea32866fe635,Noah,Wright,noah.wright.3735@example.com,Colorado Springs,CO,email,2026-05-03T13:03:08.000Z
+cust_6184998c66e7fc5f5545,Priya,Smith,priya.smith.153@example.com,Fort Collins,CO,organic_search,2026-05-03T13:15:17.000Z
+cust_22b96669cb358502ecc7,Nora,Lee,nora.lee.5032@example.com,Chicago,IL,popup_event,2026-05-03T13:45:44.000Z
+cust_55d585f17af75dcfc6a0,Priya,Clark,priya.clark.4644@example.com,Jacksonville,FL,popup_event,2026-05-03T14:02:46.000Z
+cust_ffb3f9890dbe19a1dc22,Jordan,Martinez,jordan.martinez.2138@example.com,Asheville,NC,referral,2026-05-03T15:19:30.000Z
+cust_0646f36ebee820fb65cd,Theo,Brown,theo.brown.2177@example.com,Athens,GA,organic_search,2026-05-03T21:57:31.000Z
+cust_e717506e5cf0bff14330,Riley,Kim,riley.kim.3616@example.com,Salem,OR,referral,2026-05-04T07:55:51.000Z
+cust_764d2c13de0d5e852403,Evan,Kim,evan.kim.1166@example.com,Somerville,MA,referral,2026-05-04T08:44:45.000Z
+cust_4c0a4603d303e9eb7d7c,Jamie,Lewis,jamie.lewis.3887@example.com,Spokane,WA,instagram,2026-05-04T10:38:26.000Z
+cust_c076201ea091c0885c8f,Alex,Lewis,alex.lewis.6615@example.com,Houston,TX,instagram,2026-05-04T16:05:21.000Z
+cust_7f2f14c2778447ca5775,Avery,Walker,avery.walker.8345@example.com,Naperville,IL,tiktok,2026-05-04T17:12:50.000Z
+cust_4d2b3cfc9e56cf71c7b2,Sofia,Nguyen,sofia.nguyen.2545@example.com,Evanston,IL,instagram,2026-05-04T17:32:08.000Z
+cust_a1ea74509dda3099b851,Maya,Smith,maya.smith.5104@example.com,Boston,MA,organic_search,2026-05-04T21:42:24.000Z
+cust_756e2648ebf91f5d2265,Taylor,Patel,taylor.patel.1348@example.com,Fort Collins,CO,tiktok,2026-05-05T06:54:27.000Z
+cust_891c90f2efd1117ad5ba,Taylor,Garcia,taylor.garcia.5959@example.com,Cambridge,MA,instagram,2026-05-05T06:55:47.000Z
+cust_769fb300006f72d34fc5,Taylor,Brown,taylor.brown.3474@example.com,Bellevue,WA,popup_event,2026-05-05T07:16:40.000Z
+cust_04ae3bedec2e2b0b4090,Sofia,Allen,sofia.allen.4360@example.com,Los Angeles,CA,referral,2026-05-05T09:47:19.000Z
+cust_78575a57479735a728ea,Theo,Allen,theo.allen.2008@example.com,Tempe,AZ,email,2026-05-05T09:53:18.000Z
+cust_fb56b5356d04686704b3,Priya,Walker,priya.walker.8696@example.com,Tempe,AZ,email,2026-05-05T10:15:35.000Z
+cust_8f4c9420ab8004411624,Avery,Clark,avery.clark.6792@example.com,San Diego,CA,referral,2026-05-05T16:31:41.000Z
+cust_93f6c2aca22b9a38a582,Theo,Brown,theo.brown.7885@example.com,Cambridge,MA,popup_event,2026-05-05T19:03:52.000Z
+cust_af93d7b58957d3b8ba13,Sofia,Young,sofia.young.7243@example.com,Bend,OR,organic_search,2026-05-05T20:47:01.000Z
+cust_708f9bf39e79c6ff7714,Iris,Wilson,iris.wilson.2644@example.com,Denver,CO,tiktok,2026-05-05T21:32:54.000Z
+cust_4ce995410d5e03e5ecfb,Evan,Brown,evan.brown.1423@example.com,Chicago,IL,tiktok,2026-05-05T21:38:56.000Z
+cust_ac25d92a33a37edfd459,Riley,Anderson,riley.anderson.1503@example.com,Savannah,GA,referral,2026-05-06T06:29:14.000Z
+cust_c9ff1fcc9f415d6bb6cb,Avery,Clark,avery.clark.4772@example.com,Scottsdale,AZ,tiktok,2026-05-06T08:38:16.000Z
+cust_6bf9ab14ae621cea63e1,Noah,Brown,noah.brown.259@example.com,Naperville,IL,instagram,2026-05-06T09:03:08.000Z
+cust_233f66d0a3de6abaab6e,Taylor,Miller,taylor.miller.3516@example.com,Rochester,NY,instagram,2026-05-06T09:22:37.000Z
+cust_31c37fbd0ba606501101,Alex,Wright,alex.wright.2758@example.com,Newton,MA,paid_search,2026-05-06T13:19:15.000Z
+cust_b2daeaa9ba870e689bf0,Jordan,Brown,jordan.brown.7056@example.com,Los Angeles,CA,referral,2026-05-06T16:22:34.000Z
+cust_9a37ff07b932f38de30a,Jamie,Hall,jamie.hall.6447@example.com,Miami,FL,email,2026-05-06T16:58:24.000Z
+cust_6362b56fcebeefaeb334,Theo,Kim,theo.kim.2937@example.com,Oak Park,IL,organic_search,2026-05-06T17:56:09.000Z
+cust_95eecb2e84b50667d9c2,Riley,Anderson,riley.anderson.2445@example.com,San Francisco,CA,referral,2026-05-06T18:08:50.000Z
+cust_89c8357fc6d5bb7d31b7,Priya,Lee,priya.lee.6061@example.com,Sacramento,CA,paid_search,2026-05-06T19:06:47.000Z
+cust_c1084faa9f499a5b3aaf,Theo,Nguyen,theo.nguyen.7143@example.com,Evanston,IL,instagram,2026-05-06T21:20:11.000Z
+cust_1914329f97b04ef5f4e3,Cameron,Nguyen,cameron.nguyen.5083@example.com,Durham,NC,email,2026-05-06T22:47:03.000Z
+cust_b18f91f3caad39c9b91b,Drew,Nguyen,drew.nguyen.7701@example.com,Bellevue,WA,organic_search,2026-05-07T06:12:09.000Z
+cust_050fad42a76bf4e89f76,Alex,Johnson,alex.johnson.2834@example.com,San Diego,CA,referral,2026-05-07T07:30:15.000Z
+cust_3fa516c2d3a3f514cbd5,Taylor,Brown,taylor.brown.8978@example.com,Colorado Springs,CO,tiktok,2026-05-07T08:28:47.000Z
+cust_1b39cf9fb28b55afb46b,Miles,Davis,miles.davis.9777@example.com,Atlanta,GA,email,2026-05-07T08:36:25.000Z
+cust_53237b15a36ea6b239fe,Alex,Wright,alex.wright.4779@example.com,Orlando,FL,paid_search,2026-05-07T09:32:32.000Z
+cust_672eafd8e3cfdbdc983a,Taylor,Wilson,taylor.wilson.2598@example.com,Bend,OR,tiktok,2026-05-07T10:48:08.000Z
+cust_a4bc9c46fa2b1fd7a520,Drew,Clark,drew.clark.6768@example.com,Evanston,IL,email,2026-05-07T15:17:10.000Z
+cust_4afd70b2be97280e1cda,Taylor,Johnson,taylor.johnson.683@example.com,Atlanta,GA,email,2026-05-07T16:07:23.000Z
+cust_b4d36cf180adc64d0cd2,Theo,Allen,theo.allen.2796@example.com,Tempe,AZ,email,2026-05-07T17:17:32.000Z
+cust_00696d3b48268f85fd2d,Jordan,Johnson,jordan.johnson.1577@example.com,New York,NY,paid_search,2026-05-07T20:06:22.000Z
+cust_f6be735f6cb2a42b03f2,Casey,Wright,casey.wright.6608@example.com,Sacramento,CA,instagram,2026-05-08T06:49:06.000Z
+cust_cff5526cd99dda9cfc2f,Theo,Lee,theo.lee.737@example.com,Orlando,FL,tiktok,2026-05-08T13:34:07.000Z
+cust_b709d29d7368333d67c1,Miles,Lee,miles.lee.5362@example.com,Newton,MA,tiktok,2026-05-08T17:42:18.000Z
+cust_e2f141f1a653eb3899c5,Priya,Patel,priya.patel.9457@example.com,Sacramento,CA,email,2026-05-08T21:36:00.000Z
+cust_2f95f3e82519f9c5b396,Taylor,Miller,taylor.miller.5934@example.com,Evanston,IL,instagram,2026-05-08T21:36:18.000Z
+cust_15534ff3eec010b1791c,Miles,Martinez,miles.martinez.5975@example.com,Dallas,TX,instagram,2026-05-08T22:27:23.000Z
+cust_47a9d21b8fac4d4dcef4,Morgan,Davis,morgan.davis.6212@example.com,Eugene,OR,tiktok,2026-05-08T22:35:19.000Z
+cust_99595386c5519b2bbf91,Sofia,Clark,sofia.clark.4054@example.com,Oak Park,IL,email,2026-05-08T23:44:44.000Z
+cust_c37e423b53b546ea9ef8,Alex,Miller,alex.miller.2348@example.com,Buffalo,NY,email,2026-05-09T06:12:32.000Z
+cust_eae4194e16657f430aa4,Avery,Davis,avery.davis.9860@example.com,Tampa,FL,instagram,2026-05-09T07:47:18.000Z
+cust_4cefd69f5b04c1ee96c6,Miles,Martinez,miles.martinez.4238@example.com,Boulder,CO,tiktok,2026-05-09T12:14:32.000Z
+cust_e4a16d70fa9ee1870e36,Priya,Walker,priya.walker.6844@example.com,Raleigh,NC,referral,2026-05-09T18:17:01.000Z
+cust_03432d316efde7c449cd,Sofia,Brown,sofia.brown.8955@example.com,Tacoma,WA,popup_event,2026-05-09T22:37:54.000Z
+cust_2e80d586b29b398e7cc0,Taylor,Brown,taylor.brown.3510@example.com,Cambridge,MA,referral,2026-05-10T06:49:21.000Z
+cust_4704ca2e3b3455ed9faa,Iris,Wilson,iris.wilson.6109@example.com,Bellevue,WA,email,2026-05-10T06:59:11.000Z
+cust_71b3538f097a1ddd73fe,Avery,Lewis,avery.lewis.3712@example.com,Brooklyn,NY,popup_event,2026-05-10T07:04:46.000Z
+cust_48cca702a48e721691cc,Noah,Wilson,noah.wilson.4152@example.com,Raleigh,NC,referral,2026-05-10T10:26:39.000Z
+cust_5c299ba484fe79b24156,Jordan,Nguyen,jordan.nguyen.9899@example.com,Salem,OR,tiktok,2026-05-10T13:01:12.000Z
+cust_2edc60c4ffe36eb2e303,Lena,Wright,lena.wright.9048@example.com,Jacksonville,FL,paid_search,2026-05-10T13:15:53.000Z
+cust_97a57264dc179510a7a6,Miles,Young,miles.young.9935@example.com,Chicago,IL,paid_search,2026-05-10T14:28:01.000Z
+cust_4838325635a4e2b5f7f2,Alex,Nguyen,alex.nguyen.3822@example.com,Jacksonville,FL,referral,2026-05-10T16:48:38.000Z
+cust_c4c248c98f4bb8afb9e4,Jordan,Lewis,jordan.lewis.6785@example.com,Decatur,GA,organic_search,2026-05-10T17:17:06.000Z
+cust_b1b1cb6551d2594ef11b,Priya,Garcia,priya.garcia.3188@example.com,Austin,TX,popup_event,2026-05-10T17:17:47.000Z
+cust_d4b3e9b253bfce118bc5,Avery,Clark,avery.clark.4901@example.com,Tacoma,WA,tiktok,2026-05-10T17:21:40.000Z
+cust_1bd7c43edcacb3dbb31f,Alex,Wright,alex.wright.963@example.com,Bend,OR,popup_event,2026-05-10T19:08:33.000Z
+cust_fc3bffba8a3a6b56f1fc,Jordan,Brown,jordan.brown.773@example.com,Rochester,NY,instagram,2026-05-10T19:55:51.000Z
+cust_31695663512dddb15ad2,Casey,Brown,casey.brown.8735@example.com,Decatur,GA,email,2026-05-11T06:44:16.000Z
+cust_1141b2f561b6fa5c05f4,Taylor,Allen,taylor.allen.4224@example.com,Eugene,OR,popup_event,2026-05-11T08:34:02.000Z
+cust_43873c4e206e88c0cbc4,Taylor,Walker,taylor.walker.2354@example.com,Cambridge,MA,tiktok,2026-05-11T14:22:10.000Z
+cust_bc729f9422e1afb5ad8d,Taylor,Wright,taylor.wright.4582@example.com,Jacksonville,FL,organic_search,2026-05-11T17:32:16.000Z
+cust_4702864399c9a73091a9,Jamie,Allen,jamie.allen.9275@example.com,Chicago,IL,tiktok,2026-05-11T17:54:17.000Z
+cust_996a7302c432787fcd06,Casey,Davis,casey.davis.104@example.com,Salem,OR,popup_event,2026-05-11T17:59:36.000Z
+cust_10d4e6749f256e96e727,Nora,Garcia,nora.garcia.7293@example.com,Buffalo,NY,instagram,2026-05-11T21:45:28.000Z
+cust_9bbb275b09d377e02eea,Cameron,Miller,cameron.miller.9815@example.com,Somerville,MA,email,2026-05-11T22:06:49.000Z
+cust_276f9679ba06289592e5,Iris,Hall,iris.hall.1290@example.com,Naperville,IL,referral,2026-05-12T06:09:57.000Z
+cust_8352580a762c424f9e15,Noah,Hall,noah.hall.2284@example.com,New York,NY,popup_event,2026-05-12T07:46:33.000Z
+cust_dbc8866a9a35b58dc975,Taylor,Anderson,taylor.anderson.4392@example.com,Fort Collins,CO,instagram,2026-05-12T08:27:44.000Z
+cust_2434cba35e2dba98f54b,Sofia,Nguyen,sofia.nguyen.3280@example.com,Scottsdale,AZ,referral,2026-05-12T09:56:16.000Z
+cust_870255436536ad9e310b,Evan,Nguyen,evan.nguyen.615@example.com,Decatur,GA,referral,2026-05-12T13:00:44.000Z
+cust_b94da15465a64d968cde,Riley,Smith,riley.smith.1078@example.com,Durham,NC,email,2026-05-12T15:16:13.000Z
+cust_02bc6b1ef167edacb901,Avery,Hall,avery.hall.4783@example.com,Newton,MA,referral,2026-05-12T16:27:43.000Z
+cust_e856ac90c8d622ac975a,Lena,Miller,lena.miller.2759@example.com,Tempe,AZ,paid_search,2026-05-12T16:37:35.000Z
+cust_b4499534000a704a1fb3,Lena,Johnson,lena.johnson.8840@example.com,Colorado Springs,CO,paid_search,2026-05-12T16:54:15.000Z
+cust_02b2d8f5896719877045,Cameron,Martinez,cameron.martinez.1438@example.com,Jacksonville,FL,popup_event,2026-05-12T17:16:58.000Z
+cust_df2601c28cba876bf2ec,Casey,Kim,casey.kim.3257@example.com,Portland,OR,tiktok,2026-05-12T20:23:43.000Z
+cust_ff694216333ccd28ae57,Maya,Garcia,maya.garcia.8390@example.com,Tampa,FL,organic_search,2026-05-12T20:52:57.000Z
+cust_3809e5c1c3787f3d711c,Drew,Lee,drew.lee.6188@example.com,Chicago,IL,instagram,2026-05-12T21:27:54.000Z
+cust_352cb84ff7e76e6e73d7,Drew,Smith,drew.smith.5387@example.com,New York,NY,paid_search,2026-05-12T21:30:06.000Z
+cust_6ed6f6c1248513294da0,Maya,Johnson,maya.johnson.8400@example.com,Somerville,MA,paid_search,2026-05-13T06:58:32.000Z
+cust_322241389f2bf87bc8fc,Cameron,Lee,cameron.lee.8626@example.com,Brooklyn,NY,popup_event,2026-05-13T09:54:29.000Z
+cust_61b9d15a084441b6e2e9,Noah,Lewis,noah.lewis.4374@example.com,Newton,MA,email,2026-05-13T11:21:10.000Z
+cust_5b822022ce43581f765a,Jamie,Smith,jamie.smith.322@example.com,Bellevue,WA,organic_search,2026-05-13T13:40:28.000Z
+cust_9f8f9111722e9535b6ae,Iris,Miller,iris.miller.8037@example.com,Tempe,AZ,referral,2026-05-13T14:48:51.000Z
+cust_ab08228910a2638ecc2d,Evan,Garcia,evan.garcia.1132@example.com,Spokane,WA,organic_search,2026-05-13T16:29:39.000Z
+cust_9e9abbf27e5de2d1668c,Nora,Lee,nora.lee.1302@example.com,Evanston,IL,paid_search,2026-05-13T16:46:21.000Z
+cust_fd9594e3b3f027a477db,Cameron,Martinez,cameron.martinez.5327@example.com,Athens,GA,organic_search,2026-05-13T17:30:52.000Z
+cust_92d656fefea7f39339dd,Noah,Miller,noah.miller.1543@example.com,Durham,NC,email,2026-05-13T20:44:52.000Z
+cust_78edd68e4f0732bf3b79,Morgan,Kim,morgan.kim.7047@example.com,Spokane,WA,referral,2026-05-13T21:23:54.000Z
+cust_a09d9398a7eb95b674f3,Evan,Patel,evan.patel.7904@example.com,Somerville,MA,popup_event,2026-05-13T21:52:15.000Z
+cust_cb024a7bfb4567df4839,Avery,Brown,avery.brown.2863@example.com,Phoenix,AZ,organic_search,2026-05-13T22:07:40.000Z
+cust_defd3dd32abaf58ff77d,Casey,Lee,casey.lee.9243@example.com,Buffalo,NY,popup_event,2026-05-14T06:47:07.000Z
+cust_db1c31d0b48465b24523,Maya,Nguyen,maya.nguyen.6106@example.com,Evanston,IL,paid_search,2026-05-14T07:14:18.000Z
+cust_99ee400336091cf7cadf,Maya,Johnson,maya.johnson.9100@example.com,Savannah,GA,popup_event,2026-05-14T08:00:52.000Z
+cust_b647314040ecd41ef4b8,Theo,Martinez,theo.martinez.4037@example.com,Decatur,GA,instagram,2026-05-14T09:48:35.000Z
+cust_a0e0c9b2f995d8c07079,Jamie,Smith,jamie.smith.848@example.com,New York,NY,organic_search,2026-05-14T09:54:32.000Z
+cust_4c1c6df93195a671ae7e,Miles,Garcia,miles.garcia.9325@example.com,Buffalo,NY,organic_search,2026-05-14T10:39:34.000Z
+cust_20a924915cafaf85b89f,Drew,Lewis,drew.lewis.5494@example.com,Scottsdale,AZ,referral,2026-05-14T12:04:43.000Z
+cust_151bc4c9a7fd3b6015eb,Casey,Allen,casey.allen.6749@example.com,Bellevue,WA,tiktok,2026-05-14T12:34:09.000Z
+cust_80186cbb5ca747cfd730,Morgan,Garcia,morgan.garcia.5272@example.com,Austin,TX,email,2026-05-14T13:16:52.000Z
+cust_80f386f2109fe9ec4f38,Casey,Allen,casey.allen.3335@example.com,Savannah,GA,organic_search,2026-05-14T14:28:25.000Z
+cust_bf3c9b79bf67f47e3671,Alex,Wilson,alex.wilson.5220@example.com,Rochester,NY,tiktok,2026-05-14T14:49:57.000Z
+cust_456fc1ef5bcf6d53ca7c,Jordan,Lee,jordan.lee.267@example.com,Tempe,AZ,tiktok,2026-05-14T15:53:28.000Z
+cust_67c147abac2ec4297341,Noah,Martinez,noah.martinez.9024@example.com,Sacramento,CA,paid_search,2026-05-14T16:30:27.000Z
+cust_4376e7802459d8d277dc,Casey,Miller,casey.miller.3802@example.com,Durham,NC,instagram,2026-05-14T16:46:51.000Z
+cust_e68d9580dfa7eb89a82a,Theo,Clark,theo.clark.7531@example.com,New York,NY,tiktok,2026-05-14T19:38:06.000Z
+cust_e51284fb922f0cf50e56,Sofia,Miller,sofia.miller.888@example.com,Fort Worth,TX,tiktok,2026-05-15T06:44:40.000Z
+cust_022c87e85c4e01827e2c,Morgan,Hall,morgan.hall.2481@example.com,Los Angeles,CA,organic_search,2026-05-15T06:58:35.000Z
+cust_a52e4b6f48fd297342d8,Evan,Hall,evan.hall.2620@example.com,Colorado Springs,CO,tiktok,2026-05-15T09:25:26.000Z
+cust_03452328efe281aae0b1,Jamie,Lewis,jamie.lewis.7230@example.com,Somerville,MA,referral,2026-05-15T11:51:29.000Z
+cust_5faf83a236851d11ab6a,Riley,Lee,riley.lee.6428@example.com,Atlanta,GA,popup_event,2026-05-15T16:51:05.000Z
+cust_4d644e201b0db3e326f3,Theo,Kim,theo.kim.7462@example.com,Durham,NC,tiktok,2026-05-15T17:56:15.000Z
+cust_c71c4ef3aaa1dd711e38,Miles,Walker,miles.walker.6704@example.com,Savannah,GA,popup_event,2026-05-15T20:42:23.000Z
+cust_79249c6fbf9f8e7e4a5f,Evan,Wilson,evan.wilson.876@example.com,Asheville,NC,organic_search,2026-05-15T23:53:00.000Z
+cust_517e87cad063bad3d80f,Lena,Kim,lena.kim.989@example.com,Naperville,IL,email,2026-05-16T06:05:02.000Z
+cust_591fee24a68ac4c232de,Casey,Johnson,casey.johnson.5360@example.com,Athens,GA,paid_search,2026-05-16T10:07:37.000Z
+cust_570fa9499094eb6d8b89,Maya,Hall,maya.hall.8126@example.com,Phoenix,AZ,organic_search,2026-05-16T12:51:24.000Z
+cust_fb8d154263bee133aa3e,Priya,Patel,priya.patel.8014@example.com,San Francisco,CA,paid_search,2026-05-16T15:45:10.000Z
+cust_78a07053a5927410c012,Jordan,Kim,jordan.kim.558@example.com,Sacramento,CA,organic_search,2026-05-16T19:17:46.000Z
+cust_ea90733c7c3d5796e655,Jordan,Wright,jordan.wright.8990@example.com,Boston,MA,tiktok,2026-05-16T19:49:51.000Z
+cust_5ca5b0212ebb826504db,Priya,Allen,priya.allen.2055@example.com,Phoenix,AZ,referral,2026-05-16T21:50:05.000Z
+cust_68cdb9c01daf225201ba,Drew,Lee,drew.lee.5960@example.com,Brooklyn,NY,paid_search,2026-05-16T23:49:59.000Z
+cust_e2239893479c0efbf198,Iris,Davis,iris.davis.2877@example.com,Austin,TX,instagram,2026-05-17T06:06:07.000Z
+cust_71eeefa5841d2532ce23,Avery,Wilson,avery.wilson.1642@example.com,Evanston,IL,paid_search,2026-05-17T06:06:12.000Z
+cust_3621c43f01607112ba79,Morgan,Lewis,morgan.lewis.9929@example.com,Naperville,IL,referral,2026-05-17T07:51:40.000Z
+cust_7c6799bcde1e2efbe40b,Taylor,Young,taylor.young.6565@example.com,Houston,TX,paid_search,2026-05-17T09:14:38.000Z
+cust_01a2a46d14238d9d8148,Miles,Martinez,miles.martinez.2172@example.com,Bellevue,WA,organic_search,2026-05-17T11:16:38.000Z
+cust_65a9c3e6bef3a3b54d10,Priya,Johnson,priya.johnson.3204@example.com,Fort Worth,TX,email,2026-05-17T12:34:11.000Z
+cust_bc197dd05738d93a37eb,Maya,Miller,maya.miller.661@example.com,San Diego,CA,paid_search,2026-05-17T13:03:51.000Z
+cust_a272d3f2108759b33de6,Avery,Allen,avery.allen.4116@example.com,Somerville,MA,paid_search,2026-05-17T13:32:43.000Z
+cust_5d2055dde61c9843fd70,Iris,Smith,iris.smith.4036@example.com,Fort Worth,TX,paid_search,2026-05-17T15:49:19.000Z
+cust_7bab3b346baeef73851c,Alex,Lewis,alex.lewis.3365@example.com,Eugene,OR,email,2026-05-17T16:51:22.000Z
+cust_f51359baf37030895bc1,Lena,Young,lena.young.5632@example.com,Atlanta,GA,referral,2026-05-17T17:25:52.000Z
+cust_8b5f079a560186808d74,Jordan,Anderson,jordan.anderson.3704@example.com,Asheville,NC,paid_search,2026-05-17T19:21:31.000Z
+cust_045331fa4deccc2a9db8,Maya,Lee,maya.lee.6012@example.com,Salem,OR,popup_event,2026-05-17T20:52:46.000Z
+cust_5229fa5b6fb3060ad2d2,Taylor,Garcia,taylor.garcia.8522@example.com,Asheville,NC,instagram,2026-05-17T22:17:30.000Z
+cust_14f03276f0e64c9f775f,Iris,Walker,iris.walker.5047@example.com,Los Angeles,CA,tiktok,2026-05-18T13:25:56.000Z
+cust_b31524d2f18484a56d98,Priya,Davis,priya.davis.9616@example.com,Bend,OR,instagram,2026-05-18T14:23:33.000Z
+cust_6d30376285e3313e614b,Evan,Smith,evan.smith.1614@example.com,Portland,OR,organic_search,2026-05-18T14:40:54.000Z
+cust_c155fbc3adf1df5eb08e,Miles,Nguyen,miles.nguyen.2153@example.com,Tacoma,WA,popup_event,2026-05-18T15:29:34.000Z
+cust_da190a379b001dde3140,Priya,Martinez,priya.martinez.859@example.com,San Francisco,CA,referral,2026-05-19T06:42:39.000Z
+cust_6464da60705c11fc68df,Sofia,Hall,sofia.hall.3425@example.com,Tempe,AZ,instagram,2026-05-19T07:28:25.000Z
+cust_dd896ccf70b800560ff2,Cameron,Young,cameron.young.643@example.com,Chicago,IL,popup_event,2026-05-19T09:45:49.000Z
+cust_9314b0b56845271c5a4a,Alex,Johnson,alex.johnson.5191@example.com,Dallas,TX,instagram,2026-05-19T09:54:21.000Z
+cust_95fc9b33f8815f7c8815,Sofia,Brown,sofia.brown.4146@example.com,Brooklyn,NY,popup_event,2026-05-19T10:37:15.000Z
+cust_3e7ed187a825c8b6db67,Sofia,Wilson,sofia.wilson.9023@example.com,Tampa,FL,instagram,2026-05-19T11:30:30.000Z
+cust_b69e675eaab5296d830f,Drew,Walker,drew.walker.7500@example.com,Fort Worth,TX,referral,2026-05-19T12:44:35.000Z
+cust_2d5a7f5376d8154f8d0d,Alex,Wright,alex.wright.8771@example.com,Tucson,AZ,instagram,2026-05-19T13:16:32.000Z
+cust_51e82f78f1c4fe6eff7a,Evan,Young,evan.young.6166@example.com,Brooklyn,NY,instagram,2026-05-19T13:37:41.000Z
+cust_bbc05f90fc9c0d279c90,Avery,Garcia,avery.garcia.2810@example.com,Los Angeles,CA,instagram,2026-05-19T15:12:46.000Z
+cust_33d48306f077f0b1817b,Cameron,Clark,cameron.clark.2120@example.com,Eugene,OR,organic_search,2026-05-19T15:39:22.000Z
+cust_819c883de717025633ee,Drew,Miller,drew.miller.8486@example.com,Chicago,IL,email,2026-05-19T15:50:11.000Z
+cust_dfcb0fef2b592bff6988,Evan,Lewis,evan.lewis.9827@example.com,Tacoma,WA,tiktok,2026-05-19T18:27:44.000Z
+cust_34591084e53ee07337a2,Noah,Hall,noah.hall.492@example.com,Rochester,NY,popup_event,2026-05-19T23:02:19.000Z
+cust_d33d99f2dbcf594f39b2,Casey,Nguyen,casey.nguyen.7113@example.com,Savannah,GA,organic_search,2026-05-19T23:35:12.000Z
+cust_137f962c0d12d0cce369,Miles,Anderson,miles.anderson.4461@example.com,Tacoma,WA,email,2026-05-19T23:40:18.000Z
+cust_d65920b51ec26f39ddfc,Nora,Allen,nora.allen.4056@example.com,Salem,OR,email,2026-05-20T06:26:27.000Z
+cust_f972fea8d24bdabc8aa2,Miles,Nguyen,miles.nguyen.7320@example.com,Somerville,MA,paid_search,2026-05-20T09:44:50.000Z
+cust_d0de396bb2eae84406b0,Priya,Miller,priya.miller.7427@example.com,Tucson,AZ,organic_search,2026-05-20T10:32:53.000Z
+cust_280b0431adcd19f37327,Theo,Johnson,theo.johnson.2797@example.com,Buffalo,NY,tiktok,2026-05-20T14:36:49.000Z
+cust_a5f8601541d2769e9272,Alex,Lewis,alex.lewis.7713@example.com,Somerville,MA,popup_event,2026-05-20T19:19:53.000Z
+cust_3241a961ca9e501793f3,Jamie,Miller,jamie.miller.4539@example.com,Denver,CO,organic_search,2026-05-20T20:54:11.000Z
+cust_78e05a18152c7a71c241,Jamie,Walker,jamie.walker.3957@example.com,Naperville,IL,organic_search,2026-05-20T21:38:19.000Z
+cust_e913323917602106774e,Priya,Patel,priya.patel.8959@example.com,San Francisco,CA,referral,2026-05-20T23:45:03.000Z
+cust_101ffdfb4ff338b4c94c,Lena,Johnson,lena.johnson.4437@example.com,Raleigh,NC,paid_search,2026-05-21T06:08:59.000Z
+cust_6fdf586c3930f137172e,Alex,Johnson,alex.johnson.9496@example.com,Chicago,IL,email,2026-05-21T11:20:55.000Z
+cust_ced0a2dc08f6948591ec,Drew,Walker,drew.walker.7316@example.com,New York,NY,tiktok,2026-05-21T13:49:32.000Z
+cust_e108bdb1c9f43111d6ba,Iris,Wright,iris.wright.6573@example.com,New York,NY,referral,2026-05-21T15:08:16.000Z
+cust_a163aee70b1d8878f70a,Riley,Allen,riley.allen.2467@example.com,Tempe,AZ,email,2026-05-21T15:17:10.000Z
+cust_a29d523d60521cba8a32,Alex,Walker,alex.walker.1947@example.com,Tempe,AZ,tiktok,2026-05-21T17:48:04.000Z
+cust_1a90e25fbb6e8a4aaa2a,Jordan,Kim,jordan.kim.7362@example.com,Tacoma,WA,email,2026-05-21T18:07:37.000Z
+cust_e1540624a494465051d4,Iris,Garcia,iris.garcia.7391@example.com,Newton,MA,organic_search,2026-05-21T19:38:34.000Z
+cust_c00d545ed9de967f1d19,Evan,Anderson,evan.anderson.5196@example.com,Chicago,IL,organic_search,2026-05-21T20:14:46.000Z
+cust_0770216597055db4f5e1,Sofia,Miller,sofia.miller.8859@example.com,Seattle,WA,tiktok,2026-05-22T08:42:45.000Z
+cust_057e0048c4715dd0f9b4,Taylor,Nguyen,taylor.nguyen.2949@example.com,Naperville,IL,instagram,2026-05-22T09:43:08.000Z
+cust_65a409674f857024e522,Casey,Johnson,casey.johnson.3832@example.com,Houston,TX,organic_search,2026-05-22T09:58:37.000Z
+cust_4a057430642f013bc087,Evan,Wright,evan.wright.1245@example.com,Chicago,IL,tiktok,2026-05-22T12:35:11.000Z
+cust_cae04617e88c53ca7bd4,Drew,Smith,drew.smith.8194@example.com,New York,NY,organic_search,2026-05-22T13:50:31.000Z
+cust_56d501a6ef57a288f15d,Theo,Smith,theo.smith.1166@example.com,Seattle,WA,popup_event,2026-05-22T14:13:19.000Z
+cust_1e125784b35333cf18f2,Noah,Lee,noah.lee.4955@example.com,Chicago,IL,email,2026-05-22T16:28:09.000Z
+cust_318e3efb744fc8f81300,Avery,Lewis,avery.lewis.9742@example.com,Tempe,AZ,email,2026-05-22T16:45:24.000Z
+cust_856a9701b83d4e4c1981,Casey,Walker,casey.walker.2717@example.com,Austin,TX,paid_search,2026-05-22T16:51:32.000Z
+cust_fece5fb2464fb30e8fb8,Casey,Wright,casey.wright.9646@example.com,Spokane,WA,instagram,2026-05-22T17:04:59.000Z
+cust_181727fee76b4bf56bf2,Evan,Wright,evan.wright.7982@example.com,Buffalo,NY,email,2026-05-22T17:07:46.000Z
+cust_5532fc4c83271ce6842e,Casey,Nguyen,casey.nguyen.141@example.com,Buffalo,NY,popup_event,2026-05-22T18:21:48.000Z
+cust_9bddc0c77d434611787e,Casey,Walker,casey.walker.9477@example.com,Bend,OR,email,2026-05-22T19:01:42.000Z
+cust_c3dd3d4cf3d7ac8dde5d,Iris,Johnson,iris.johnson.3379@example.com,Savannah,GA,paid_search,2026-05-22T19:45:42.000Z
+cust_1aa38aa5eec8177bac62,Priya,Brown,priya.brown.9841@example.com,Decatur,GA,referral,2026-05-22T22:51:24.000Z
+cust_45e8a9174c39150c1248,Drew,Anderson,drew.anderson.9776@example.com,Naperville,IL,referral,2026-05-22T23:22:57.000Z
+cust_1778fb97c6e86a6d5bc2,Avery,Lewis,avery.lewis.5896@example.com,Evanston,IL,tiktok,2026-05-23T06:18:44.000Z
+cust_f71adf494f0123879c94,Sofia,Garcia,sofia.garcia.820@example.com,Austin,TX,popup_event,2026-05-23T07:12:54.000Z
+cust_61180fd57451062057d2,Evan,Hall,evan.hall.6410@example.com,Buffalo,NY,instagram,2026-05-23T08:30:58.000Z
+cust_d1769b050ff914225305,Priya,Lewis,priya.lewis.2800@example.com,Phoenix,AZ,instagram,2026-05-23T09:16:47.000Z
+cust_6c8e96e9aae3fafd23a1,Theo,Wilson,theo.wilson.4955@example.com,Seattle,WA,instagram,2026-05-23T11:06:51.000Z
+cust_ce567a02e01998997efd,Theo,Patel,theo.patel.4584@example.com,Sacramento,CA,paid_search,2026-05-23T13:00:44.000Z
+cust_9929815587efe6c8c995,Lena,Patel,lena.patel.3813@example.com,Fort Worth,TX,paid_search,2026-05-23T14:15:36.000Z
+cust_b90e365996571ba68a11,Avery,Wilson,avery.wilson.7721@example.com,Sacramento,CA,popup_event,2026-05-23T14:31:15.000Z
+cust_0ab682a194371e5c1731,Priya,Garcia,priya.garcia.2036@example.com,Brooklyn,NY,tiktok,2026-05-23T17:30:59.000Z
+cust_90caeee015eda3d0f7f3,Evan,Allen,evan.allen.7943@example.com,Buffalo,NY,email,2026-05-23T17:33:14.000Z
+cust_f956d8a26fbe74bef86b,Sofia,Lee,sofia.lee.1038@example.com,Tacoma,WA,email,2026-05-23T21:24:24.000Z
+cust_e814e67f9db55086fb8b,Morgan,Martinez,morgan.martinez.7504@example.com,Denver,CO,tiktok,2026-05-23T21:58:28.000Z
+cust_3bdc2455c0e2b6866ee5,Evan,Wilson,evan.wilson.5661@example.com,Somerville,MA,tiktok,2026-05-23T22:20:44.000Z
+cust_7e7d65da7cf3d2fa074c,Jordan,Brown,jordan.brown.7780@example.com,Orlando,FL,organic_search,2026-05-24T06:53:59.000Z
+cust_38d68b61bbdfdaae96c4,Priya,Clark,priya.clark.8352@example.com,San Francisco,CA,instagram,2026-05-24T07:47:37.000Z
+cust_fb55da4e365951a72329,Priya,Smith,priya.smith.6826@example.com,Asheville,NC,tiktok,2026-05-24T12:01:31.000Z
+cust_3a134a15bd6a4f91ba06,Iris,Anderson,iris.anderson.5194@example.com,Cambridge,MA,email,2026-05-24T15:14:40.000Z
+cust_6a4c5dc8091a02547563,Jamie,Garcia,jamie.garcia.681@example.com,Tampa,FL,organic_search,2026-05-24T17:53:29.000Z
+cust_ac7c7ac2ff6cd3472cf9,Theo,Allen,theo.allen.7767@example.com,Miami,FL,referral,2026-05-24T18:40:19.000Z
+cust_d9f0b9c62949e13bf505,Jordan,Kim,jordan.kim.4042@example.com,Chicago,IL,organic_search,2026-05-25T08:22:31.000Z
+cust_8a325211d738cbecc0cb,Avery,Martinez,avery.martinez.1945@example.com,Denver,CO,referral,2026-05-25T09:22:46.000Z
+cust_ea4b961cf2a1209a178b,Morgan,Miller,morgan.miller.3994@example.com,Phoenix,AZ,email,2026-05-25T09:48:48.000Z
+cust_360171b5d4a3eb9c6256,Alex,Anderson,alex.anderson.4239@example.com,Houston,TX,referral,2026-05-25T11:59:22.000Z
+cust_9528c7ff24e2a9ec14b6,Morgan,Davis,morgan.davis.9000@example.com,Somerville,MA,organic_search,2026-05-25T12:03:58.000Z
+cust_63a4b752e1b1e77d0723,Cameron,Nguyen,cameron.nguyen.5025@example.com,Somerville,MA,tiktok,2026-05-25T12:23:31.000Z
+cust_5fa2386c8d913df021a4,Lena,Martinez,lena.martinez.1153@example.com,Buffalo,NY,email,2026-05-25T13:06:18.000Z
+cust_a4cb07105b7db7fe2508,Miles,Patel,miles.patel.3619@example.com,Charlotte,NC,tiktok,2026-05-25T14:29:33.000Z
+cust_0a403ef67110482eb9d0,Casey,Clark,casey.clark.8897@example.com,Spokane,WA,tiktok,2026-05-25T14:36:26.000Z
+cust_6f76426e8308b4855901,Riley,Brown,riley.brown.4190@example.com,New York,NY,instagram,2026-05-25T15:44:50.000Z
+cust_6f1718c7811489e65b08,Casey,Johnson,casey.johnson.7269@example.com,New York,NY,tiktok,2026-05-25T19:08:20.000Z
+cust_482f420f63e60feab865,Maya,Lee,maya.lee.7961@example.com,Newton,MA,referral,2026-05-25T19:13:09.000Z
+cust_78e731816ab6d66524cb,Priya,Wright,priya.wright.538@example.com,Newton,MA,referral,2026-05-25T19:20:21.000Z
+cust_3e0c3c7a908e558a9be2,Riley,Hall,riley.hall.4812@example.com,Asheville,NC,popup_event,2026-05-25T22:39:57.000Z
+cust_1ad970dcc51899cf2c20,Priya,Clark,priya.clark.607@example.com,Seattle,WA,popup_event,2026-05-26T07:56:04.000Z
+cust_9626ed55112a04974e81,Riley,Walker,riley.walker.5751@example.com,Somerville,MA,popup_event,2026-05-26T08:00:13.000Z
+cust_ab9a388916f19ed9c38f,Cameron,Wilson,cameron.wilson.4392@example.com,Dallas,TX,popup_event,2026-05-26T09:32:24.000Z
+cust_9b02eca19db139d81be4,Noah,Allen,noah.allen.9573@example.com,Tucson,AZ,email,2026-05-26T10:33:46.000Z
+cust_e1210eb263cc0c909ec6,Theo,Smith,theo.smith.7029@example.com,Oak Park,IL,tiktok,2026-05-26T12:24:15.000Z
+cust_8ac74ae96efa27baa2ac,Priya,Wilson,priya.wilson.2652@example.com,Chicago,IL,tiktok,2026-05-26T12:48:36.000Z
+cust_cd933d3b1cfd7362fae7,Evan,Martinez,evan.martinez.6942@example.com,Austin,TX,paid_search,2026-05-26T13:17:51.000Z
+cust_df55a2002564cf4f99f2,Avery,Lewis,avery.lewis.8881@example.com,San Diego,CA,referral,2026-05-26T22:03:57.000Z
+cust_23200a4c2fdf29782b55,Theo,Wright,theo.wright.3994@example.com,Seattle,WA,instagram,2026-05-26T22:04:14.000Z
+cust_b2e836d0e23acb1ed762,Riley,Martinez,riley.martinez.6801@example.com,Salem,OR,instagram,2026-05-26T23:41:10.000Z
+cust_4769389b52855567c84b,Morgan,Smith,morgan.smith.6007@example.com,Savannah,GA,tiktok,2026-05-27T06:17:33.000Z
+cust_0ad64f82aa5e5281d767,Cameron,Wilson,cameron.wilson.7654@example.com,Durham,NC,instagram,2026-05-27T08:16:34.000Z
+cust_95dbc660834a9f819284,Theo,Allen,theo.allen.1057@example.com,Boulder,CO,tiktok,2026-05-27T08:34:52.000Z
+cust_d3704feec7b0fea5adbf,Sofia,Wilson,sofia.wilson.3551@example.com,Spokane,WA,instagram,2026-05-27T11:35:48.000Z
+cust_ccba6d65a96cd95c3f14,Jordan,Hall,jordan.hall.3735@example.com,Dallas,TX,organic_search,2026-05-27T13:01:29.000Z
+cust_7f73c8ed3f139706a07f,Jamie,Johnson,jamie.johnson.1039@example.com,Somerville,MA,tiktok,2026-05-27T13:56:18.000Z
+cust_29bcf6c6c74bb7195cde,Sofia,Garcia,sofia.garcia.5019@example.com,Oak Park,IL,organic_search,2026-05-27T14:18:08.000Z
+cust_f25f94ce1969eb99e753,Alex,Kim,alex.kim.9245@example.com,Miami,FL,tiktok,2026-05-27T15:01:42.000Z
+cust_d7e22295e0ddf6418410,Theo,Hall,theo.hall.4341@example.com,Portland,OR,popup_event,2026-05-27T19:06:43.000Z
+cust_1392e4e24122cc023b60,Noah,Smith,noah.smith.2679@example.com,Rochester,NY,popup_event,2026-05-27T19:13:12.000Z
+cust_31551474ca7316c9d81a,Cameron,Smith,cameron.smith.1565@example.com,Boulder,CO,organic_search,2026-05-27T19:43:21.000Z
+cust_09442baad03652cbf3ef,Alex,Wright,alex.wright.4010@example.com,Chicago,IL,referral,2026-05-27T21:27:25.000Z
+cust_88afc6e4b63266701222,Sofia,Walker,sofia.walker.2896@example.com,Rochester,NY,instagram,2026-05-27T22:29:01.000Z
+cust_e5bea1a54f896ddffd6d,Evan,Anderson,evan.anderson.5811@example.com,Naperville,IL,paid_search,2026-05-27T23:10:56.000Z
+cust_22ac3a8cbe70b4a36913,Theo,Wright,theo.wright.5492@example.com,Tacoma,WA,organic_search,2026-05-28T06:32:21.000Z
+cust_60f858b6abd4edf2c51c,Jordan,Lee,jordan.lee.863@example.com,Asheville,NC,referral,2026-05-28T06:47:42.000Z
+cust_1b08b561c4acd1e0cfb0,Evan,Garcia,evan.garcia.547@example.com,Charlotte,NC,tiktok,2026-05-28T06:48:08.000Z
+cust_cff5eb73f323ca776211,Cameron,Walker,cameron.walker.4762@example.com,Oak Park,IL,instagram,2026-05-28T10:03:13.000Z
+cust_7044b6bb65c75e55c6b7,Jordan,Martinez,jordan.martinez.9226@example.com,Seattle,WA,organic_search,2026-05-28T10:12:44.000Z
+cust_e012c358262a6fbcf630,Jamie,Patel,jamie.patel.1956@example.com,Evanston,IL,email,2026-05-28T11:28:25.000Z
+cust_1521392ba26192ff90fa,Jordan,Johnson,jordan.johnson.9513@example.com,Salem,OR,email,2026-05-28T12:00:37.000Z
+cust_221cd4c86a3af42fc4e3,Evan,Wright,evan.wright.8474@example.com,Tampa,FL,instagram,2026-05-28T12:46:58.000Z
+cust_c81a6382ff9229b72fc9,Riley,Smith,riley.smith.2079@example.com,Rochester,NY,instagram,2026-05-28T12:50:28.000Z
+cust_5c0b38151f7c6f88d4b4,Nora,Allen,nora.allen.3370@example.com,Buffalo,NY,popup_event,2026-05-28T15:04:26.000Z
+cust_211b30ba54c0ae40454c,Miles,Hall,miles.hall.1886@example.com,Tacoma,WA,paid_search,2026-05-28T15:39:29.000Z
+cust_4c1c2324c08968d5dcb0,Maya,Allen,maya.allen.4721@example.com,Jacksonville,FL,referral,2026-05-28T17:43:16.000Z
+cust_7d9f7864b99ec09e50df,Cameron,Walker,cameron.walker.2578@example.com,Tempe,AZ,email,2026-05-29T08:13:11.000Z
+cust_cf6a01a8ec7d3cbba459,Morgan,Miller,morgan.miller.5824@example.com,Evanston,IL,instagram,2026-05-29T12:07:18.000Z
+cust_9d5ddfe78a50de15d8e3,Riley,Patel,riley.patel.2244@example.com,Raleigh,NC,referral,2026-05-29T13:22:54.000Z
+cust_6392e79796e8d4575eb5,Jordan,Patel,jordan.patel.5040@example.com,Tucson,AZ,organic_search,2026-05-29T14:28:01.000Z
+cust_96d46db85879af483cc9,Jamie,Lee,jamie.lee.4887@example.com,Raleigh,NC,referral,2026-05-29T14:43:36.000Z
+cust_e77e8f48f063f5472414,Evan,Garcia,evan.garcia.184@example.com,Chicago,IL,email,2026-05-29T14:58:04.000Z
+cust_fcf98b414d1d2b15055e,Noah,Martinez,noah.martinez.6928@example.com,Scottsdale,AZ,instagram,2026-05-29T15:38:20.000Z
+cust_f27471c41fd622488821,Maya,Wright,maya.wright.5873@example.com,Chicago,IL,referral,2026-05-29T16:30:54.000Z
+cust_c726c54210a49601836b,Alex,Davis,alex.davis.5585@example.com,Tucson,AZ,tiktok,2026-05-29T18:33:53.000Z
+cust_e5ba58cd67eb9e4e75a3,Taylor,Brown,taylor.brown.3447@example.com,Asheville,NC,instagram,2026-05-29T20:10:28.000Z
+cust_37b6a440910659c689f8,Alex,Smith,alex.smith.4906@example.com,Athens,GA,referral,2026-05-29T20:13:43.000Z
+cust_bbc79226c323c67402c2,Jordan,Lee,jordan.lee.7683@example.com,Seattle,WA,tiktok,2026-05-29T21:08:13.000Z
+cust_08c259811f37a55eefa4,Alex,Martinez,alex.martinez.870@example.com,Evanston,IL,email,2026-05-29T23:41:57.000Z
+cust_30c982ac11754e79f6f2,Nora,Johnson,nora.johnson.9641@example.com,Charlotte,NC,email,2026-05-30T06:57:06.000Z
+cust_d66ffdd94356de87977f,Lena,Smith,lena.smith.5430@example.com,Bellevue,WA,paid_search,2026-05-30T07:42:45.000Z
+cust_beda0e422bf54c854b11,Morgan,Wright,morgan.wright.821@example.com,Denver,CO,referral,2026-05-30T09:02:52.000Z
+cust_0fd3f85babf5f2ad8fc5,Jamie,Martinez,jamie.martinez.7861@example.com,Miami,FL,email,2026-05-30T10:14:59.000Z
+cust_cfb8572f804437b42df7,Sofia,Smith,sofia.smith.2913@example.com,Bellevue,WA,email,2026-05-30T10:49:44.000Z
+cust_64281f9370525143f279,Sofia,Miller,sofia.miller.7889@example.com,Newton,MA,referral,2026-05-30T12:10:24.000Z
+cust_80d0a85a11fc91150795,Evan,Young,evan.young.558@example.com,Tampa,FL,referral,2026-05-30T14:26:12.000Z
+cust_9a811c75221aaba53b12,Theo,Martinez,theo.martinez.1131@example.com,Jacksonville,FL,referral,2026-05-30T16:29:14.000Z
+cust_646eae1bd0a865664ac1,Lena,Wright,lena.wright.1622@example.com,Scottsdale,AZ,email,2026-05-30T16:42:22.000Z
+cust_331c03a0210ee5c76ee1,Maya,Young,maya.young.2590@example.com,Evanston,IL,tiktok,2026-05-30T17:56:31.000Z
+cust_559209aa746f7e25dc76,Lena,Smith,lena.smith.6437@example.com,Jacksonville,FL,paid_search,2026-05-30T19:14:49.000Z
+cust_3b3d799588741cb48b01,Miles,Smith,miles.smith.4847@example.com,Austin,TX,paid_search,2026-05-30T20:44:38.000Z
+cust_638029416ce66bb5b797,Alex,Kim,alex.kim.3614@example.com,Savannah,GA,popup_event,2026-05-30T21:56:30.000Z
+cust_e0a43e13291333dd02b4,Alex,Patel,alex.patel.9763@example.com,Durham,NC,paid_search,2026-05-30T22:30:41.000Z
+cust_946853da21eef7d825b7,Lena,Clark,lena.clark.8238@example.com,Brooklyn,NY,organic_search,2026-05-30T22:52:56.000Z
+cust_dfb1ae9e6ff79e54f242,Maya,Smith,maya.smith.395@example.com,Orlando,FL,email,2026-05-30T23:07:11.000Z
+cust_d9672cfb765d52be2e53,Evan,Walker,evan.walker.5675@example.com,Brooklyn,NY,organic_search,2026-05-30T23:53:24.000Z
+cust_62aeb3a8ce72ddf1e644,Theo,Wright,theo.wright.9341@example.com,Spokane,WA,organic_search,2026-05-31T06:57:36.000Z
+cust_2628cf8c5016aa0a53e3,Priya,Lewis,priya.lewis.503@example.com,Phoenix,AZ,email,2026-05-31T09:55:55.000Z
+cust_2ebbbaf3ed1695873a66,Priya,Lewis,priya.lewis.5010@example.com,Charlotte,NC,referral,2026-05-31T11:33:49.000Z
+cust_3161c693aab9c88880f2,Casey,Hall,casey.hall.5651@example.com,Somerville,MA,paid_search,2026-05-31T14:11:38.000Z
+cust_29aec309cf4bcfbaa212,Evan,Wright,evan.wright.9558@example.com,Tacoma,WA,paid_search,2026-05-31T14:12:56.000Z
+cust_69f4e810e3920bb342d3,Riley,Lee,riley.lee.5793@example.com,Miami,FL,organic_search,2026-05-31T14:54:35.000Z
+cust_94f72a65c9171c756fa5,Lena,Kim,lena.kim.2986@example.com,Eugene,OR,email,2026-05-31T16:30:49.000Z
+cust_a810413958d4039a27f9,Alex,Miller,alex.miller.4208@example.com,Eugene,OR,referral,2026-05-31T17:14:45.000Z
+cust_4c58d7a24dddf876554b,Nora,Kim,nora.kim.1868@example.com,Dallas,TX,tiktok,2026-05-31T18:17:52.000Z
+cust_8485420f331a8f8582cf,Nora,Davis,nora.davis.6648@example.com,Tacoma,WA,popup_event,2026-05-31T18:51:36.000Z
+cust_47ab4d59fa8d4b6554e8,Casey,Hall,casey.hall.3698@example.com,Eugene,OR,email,2026-05-31T20:35:04.000Z
+cust_41e4aae38842fb561219,Evan,Kim,evan.kim.8240@example.com,Boulder,CO,referral,2026-05-31T21:02:08.000Z
+cust_81777880e8a76e7c08f4,Riley,Allen,riley.allen.6053@example.com,Atlanta,GA,tiktok,2026-05-31T23:35:59.000Z
+cust_f0a3a44bc29e27edf864,Casey,Lee,casey.lee.7146@example.com,Spokane,WA,tiktok,2026-06-01T07:28:09.000Z
+cust_237d0a944bff6d4d1bc5,Theo,Lewis,theo.lewis.4435@example.com,Los Angeles,CA,organic_search,2026-06-01T09:35:58.000Z
+cust_630b43ad24a6b9487761,Morgan,Lee,morgan.lee.2740@example.com,Austin,TX,email,2026-06-01T10:04:25.000Z
+cust_c78989eb76ad38589d92,Maya,Wright,maya.wright.8738@example.com,Brooklyn,NY,tiktok,2026-06-01T13:45:09.000Z
+cust_4a7455c13e0f6c1e0896,Lena,Wright,lena.wright.3956@example.com,New York,NY,instagram,2026-06-01T16:56:12.000Z
+cust_d7f5dce6605b125252a6,Lena,Nguyen,lena.nguyen.7617@example.com,Chicago,IL,popup_event,2026-06-01T17:11:17.000Z
+cust_6bb25e49c71547f0dab7,Avery,Lewis,avery.lewis.8688@example.com,Athens,GA,email,2026-06-01T18:30:21.000Z
+cust_62581b8ddd7a645d6e0b,Cameron,Lewis,cameron.lewis.4512@example.com,Scottsdale,AZ,referral,2026-06-01T20:00:33.000Z
+cust_ac1f6ea4a05bb526f132,Iris,Martinez,iris.martinez.1825@example.com,Tacoma,WA,organic_search,2026-06-01T20:12:44.000Z
+cust_311dee578bfb147e8263,Jamie,Miller,jamie.miller.4611@example.com,Los Angeles,CA,tiktok,2026-06-01T21:26:33.000Z
+cust_9de4f41bf3b154eeebfe,Riley,Wright,riley.wright.7812@example.com,Sacramento,CA,instagram,2026-06-01T22:32:29.000Z
+cust_24f374328940dcd1b2c9,Casey,Lewis,casey.lewis.3392@example.com,Fort Worth,TX,referral,2026-06-01T23:06:15.000Z
+cust_bcb357907316b056cda5,Avery,Miller,avery.miller.7229@example.com,Eugene,OR,tiktok,2026-06-01T23:34:34.000Z
+cust_4dc71e8edee7a281afcc,Noah,Brown,noah.brown.3985@example.com,Charlotte,NC,referral,2026-06-02T07:09:57.000Z
+cust_ba50851d323faf79db0c,Avery,Brown,avery.brown.9622@example.com,Evanston,IL,referral,2026-06-02T07:25:07.000Z
+cust_09685370f522391a0ffb,Priya,Patel,priya.patel.8433@example.com,Denver,CO,popup_event,2026-06-02T10:32:21.000Z
+cust_e0d5413c73ad9f1eaf1b,Avery,Kim,avery.kim.7063@example.com,Oak Park,IL,referral,2026-06-02T10:57:11.000Z
+cust_c968e7d5727d712c9ade,Taylor,Hall,taylor.hall.6687@example.com,Orlando,FL,instagram,2026-06-02T16:35:30.000Z
+cust_e49c0fdc361408af0c23,Miles,Kim,miles.kim.3350@example.com,Bellevue,WA,email,2026-06-02T16:46:09.000Z
+cust_d191fd1d350928015de1,Cameron,Brown,cameron.brown.3556@example.com,Los Angeles,CA,tiktok,2026-06-02T16:58:59.000Z
+cust_b44deddcef2f3c2f7b27,Avery,Young,avery.young.1529@example.com,Salem,OR,tiktok,2026-06-02T19:19:02.000Z
+cust_4ea9d063e39a2e2a7aa4,Lena,Smith,lena.smith.2794@example.com,Somerville,MA,referral,2026-06-02T20:10:54.000Z
+cust_eff48001391bb38e5f80,Iris,Brown,iris.brown.8968@example.com,Los Angeles,CA,organic_search,2026-06-02T23:19:28.000Z
+cust_6c3522e34cacb01e33a5,Riley,Lee,riley.lee.3083@example.com,Fort Worth,TX,popup_event,2026-06-02T23:48:43.000Z
+cust_4bed2c1f15ec7a7fee00,Iris,Lee,iris.lee.8558@example.com,Boston,MA,organic_search,2026-06-03T06:10:00.000Z
+cust_477bd5288fa383e3f53f,Jamie,Allen,jamie.allen.8401@example.com,Scottsdale,AZ,tiktok,2026-06-03T06:17:05.000Z
+cust_8b2f49af782a4175cc73,Nora,Patel,nora.patel.9348@example.com,Portland,OR,popup_event,2026-06-03T07:25:57.000Z
+cust_52f15063746b48145449,Maya,Clark,maya.clark.5221@example.com,Tampa,FL,organic_search,2026-06-03T07:40:09.000Z
+cust_6b1c73afd93fced97cac,Lena,Smith,lena.smith.9353@example.com,Charlotte,NC,instagram,2026-06-03T08:05:35.000Z
+cust_5d486c60b99a4c9b778a,Avery,Hall,avery.hall.9369@example.com,Charlotte,NC,paid_search,2026-06-03T10:53:44.000Z
+cust_9a620cc86aed2a46b804,Taylor,Young,taylor.young.5291@example.com,Houston,TX,organic_search,2026-06-03T11:37:44.000Z
+cust_0241ba4555073ea7379b,Noah,Allen,noah.allen.3812@example.com,Seattle,WA,instagram,2026-06-03T12:07:06.000Z
+cust_8d0625ee1afa06f9055c,Noah,Smith,noah.smith.9938@example.com,San Francisco,CA,referral,2026-06-03T15:06:51.000Z
+cust_83175e1cbfd7bde27e93,Morgan,Anderson,morgan.anderson.4586@example.com,Colorado Springs,CO,referral,2026-06-03T15:33:08.000Z
+cust_81c83c6eaee18cc6c090,Theo,Brown,theo.brown.6409@example.com,Portland,OR,popup_event,2026-06-03T16:07:55.000Z
+cust_0f23d8919dd83a1d7d3f,Priya,Smith,priya.smith.186@example.com,Boston,MA,popup_event,2026-06-03T17:57:49.000Z
+cust_4b69ddc0cbe0b96058d8,Miles,Martinez,miles.martinez.5876@example.com,Eugene,OR,instagram,2026-06-03T18:36:16.000Z
+cust_141bafb707180c6b5bb7,Evan,Smith,evan.smith.892@example.com,Naperville,IL,referral,2026-06-03T20:49:18.000Z
+cust_75a8bb4899a93c7e3abb,Taylor,Martinez,taylor.martinez.1607@example.com,Savannah,GA,instagram,2026-06-03T22:09:53.000Z
+cust_9c599393062f8a3eb1fa,Lena,Allen,lena.allen.4893@example.com,Fort Collins,CO,popup_event,2026-06-04T07:13:16.000Z
+cust_53e2fa023b21040a7cfe,Miles,Patel,miles.patel.7610@example.com,Tucson,AZ,tiktok,2026-06-04T07:38:42.000Z
+cust_6b18caebc55d1d68157e,Cameron,Walker,cameron.walker.3249@example.com,Cambridge,MA,email,2026-06-04T07:53:20.000Z
+cust_97e042b75646b7251cb2,Noah,Allen,noah.allen.6963@example.com,Portland,OR,referral,2026-06-04T08:16:13.000Z
+cust_9ff1059eddfe5db86715,Jamie,Wilson,jamie.wilson.8536@example.com,Brooklyn,NY,organic_search,2026-06-04T08:20:03.000Z
+cust_20eb172e39e0234e06b7,Morgan,Hall,morgan.hall.1320@example.com,Rochester,NY,paid_search,2026-06-04T08:31:37.000Z
+cust_5273d6601a6689da7dbe,Maya,Nguyen,maya.nguyen.4872@example.com,Raleigh,NC,email,2026-06-04T09:48:55.000Z
+cust_a13d642274e5083cc647,Maya,Clark,maya.clark.4334@example.com,Colorado Springs,CO,paid_search,2026-06-04T09:52:34.000Z
+cust_0a104f93e4bb1f9b30b9,Priya,Wright,priya.wright.6354@example.com,Evanston,IL,organic_search,2026-06-04T11:27:11.000Z
+cust_f7b4de5b8125652ed14b,Drew,Anderson,drew.anderson.7858@example.com,Tampa,FL,popup_event,2026-06-04T11:39:18.000Z
+cust_54cf3d93646d1c089f14,Iris,Smith,iris.smith.4120@example.com,Atlanta,GA,referral,2026-06-04T12:04:21.000Z
+cust_64527ac411345fc4ac66,Iris,Nguyen,iris.nguyen.8580@example.com,Raleigh,NC,email,2026-06-04T12:50:57.000Z
+cust_4440bcf7726edb85de31,Jordan,Smith,jordan.smith.5436@example.com,Newton,MA,paid_search,2026-06-04T13:37:18.000Z
+cust_c342eb769ef39665060c,Taylor,Smith,taylor.smith.9701@example.com,Boston,MA,email,2026-06-04T13:40:09.000Z
+cust_b792d03e099632d82dc8,Taylor,Brown,taylor.brown.7260@example.com,Fort Collins,CO,email,2026-06-04T15:09:09.000Z
+cust_31901a34625dd53358f9,Maya,Kim,maya.kim.8879@example.com,Boulder,CO,paid_search,2026-06-04T15:54:22.000Z
+cust_bc2af849979b2ae31780,Alex,Walker,alex.walker.2938@example.com,New York,NY,email,2026-06-04T16:36:46.000Z
+cust_34e99f86581181bf7b91,Sofia,Martinez,sofia.martinez.320@example.com,Houston,TX,instagram,2026-06-04T16:52:05.000Z
+cust_1d7d775c0f1b49262aec,Lena,Kim,lena.kim.5389@example.com,Savannah,GA,tiktok,2026-06-04T21:22:49.000Z
+cust_b3f6f266715373d981c7,Miles,Miller,miles.miller.2643@example.com,Atlanta,GA,referral,2026-06-04T23:37:44.000Z
+cust_d67fd0ecaf34c303f879,Lena,Nguyen,lena.nguyen.6967@example.com,Fort Worth,TX,referral,2026-06-05T06:34:06.000Z
+cust_7e1ff68a8f5709029578,Taylor,Brown,taylor.brown.7095@example.com,Orlando,FL,popup_event,2026-06-05T08:36:41.000Z
+cust_e02760f904129f0ab671,Lena,Wright,lena.wright.4091@example.com,San Diego,CA,organic_search,2026-06-05T09:17:36.000Z
+cust_298ada68eccbc8f8b37f,Riley,Wilson,riley.wilson.2453@example.com,Asheville,NC,tiktok,2026-06-05T10:46:07.000Z
+cust_3392c05da120709de6b5,Morgan,Smith,morgan.smith.2945@example.com,Spokane,WA,paid_search,2026-06-05T10:50:51.000Z
+cust_46506d0864a35440b412,Jordan,Martinez,jordan.martinez.500@example.com,Brooklyn,NY,paid_search,2026-06-05T13:59:20.000Z
+cust_f01b00e77a6f959d7ff1,Theo,Lewis,theo.lewis.7139@example.com,Phoenix,AZ,popup_event,2026-06-05T15:20:01.000Z
+cust_871d7dff0c95f88b3889,Riley,Smith,riley.smith.671@example.com,New York,NY,organic_search,2026-06-05T16:02:51.000Z
+cust_081e66e35075de5fac77,Sofia,Young,sofia.young.2211@example.com,Portland,OR,paid_search,2026-06-05T16:15:42.000Z
+cust_ca9534183e4670ff0876,Nora,Lewis,nora.lewis.3535@example.com,Houston,TX,referral,2026-06-05T20:03:29.000Z
+cust_a6b1cefbb46da7014074,Miles,Clark,miles.clark.9814@example.com,Jacksonville,FL,popup_event,2026-06-05T20:24:57.000Z
+cust_7fb53e2f55e0438ec10c,Priya,Miller,priya.miller.5253@example.com,Decatur,GA,paid_search,2026-06-05T20:54:20.000Z
+cust_de0477a0f89d08f06dab,Jamie,Smith,jamie.smith.8274@example.com,Naperville,IL,tiktok,2026-06-05T21:28:53.000Z
+cust_13b8e04c345daa657257,Sofia,Wilson,sofia.wilson.959@example.com,Rochester,NY,paid_search,2026-06-05T22:14:44.000Z
+cust_4a99717af295093373e4,Drew,Davis,drew.davis.7826@example.com,Bellevue,WA,tiktok,2026-06-06T06:01:14.000Z
+cust_6157edf603ec4ca6c343,Cameron,Anderson,cameron.anderson.8650@example.com,Tampa,FL,instagram,2026-06-06T07:53:19.000Z
+cust_02b6827613cdc77924cb,Taylor,Young,taylor.young.4686@example.com,Somerville,MA,paid_search,2026-06-06T08:02:16.000Z
+cust_daa90b40011204c7cefa,Taylor,Wilson,taylor.wilson.1762@example.com,Miami,FL,email,2026-06-06T08:13:21.000Z
+cust_f1ea8b6e5bd481edd9c7,Jordan,Lewis,jordan.lewis.7982@example.com,Cambridge,MA,email,2026-06-06T09:03:36.000Z
+cust_97410efeb143b48974fd,Nora,Hall,nora.hall.9262@example.com,Durham,NC,tiktok,2026-06-06T13:22:11.000Z
+cust_1e6e9e071f3afa5d3276,Taylor,Miller,taylor.miller.9941@example.com,Houston,TX,popup_event,2026-06-06T15:02:18.000Z
+cust_f796c8359b2aa121217e,Casey,Martinez,casey.martinez.6670@example.com,Athens,GA,paid_search,2026-06-06T15:06:11.000Z
+cust_0cc3a3e70de28e1d93d6,Morgan,Lee,morgan.lee.8371@example.com,Brooklyn,NY,referral,2026-06-06T18:27:19.000Z
+cust_32e141f8fa76baba1098,Evan,Clark,evan.clark.252@example.com,Bend,OR,referral,2026-06-06T21:23:35.000Z
+cust_4767a86568166fbb17e4,Taylor,Johnson,taylor.johnson.5868@example.com,Sacramento,CA,referral,2026-06-06T21:56:56.000Z
+cust_753d3f114d031ac749bd,Sofia,Young,sofia.young.7079@example.com,San Francisco,CA,tiktok,2026-06-06T22:55:31.000Z
+cust_c69fd74979db2c5208f8,Priya,Patel,priya.patel.5416@example.com,Athens,GA,tiktok,2026-06-06T23:46:26.000Z
+cust_afa83981accc1b8f765c,Lena,Smith,lena.smith.939@example.com,Atlanta,GA,paid_search,2026-06-07T06:25:46.000Z
+cust_7129d07bc9be242aec04,Theo,Johnson,theo.johnson.2188@example.com,Sacramento,CA,email,2026-06-07T07:55:44.000Z
+cust_911fb27c8cecb384fe7e,Priya,Wilson,priya.wilson.1933@example.com,Fort Worth,TX,referral,2026-06-07T09:37:56.000Z
+cust_f7d5fcefe24d6895bc9f,Casey,Wright,casey.wright.6738@example.com,Scottsdale,AZ,popup_event,2026-06-07T12:16:08.000Z
+cust_8e059c79b6fba818d0cc,Taylor,Hall,taylor.hall.4570@example.com,Brooklyn,NY,organic_search,2026-06-07T13:03:01.000Z
+cust_07845a0ca8dd2710dc81,Casey,Lee,casey.lee.9417@example.com,Boston,MA,paid_search,2026-06-07T13:53:12.000Z
+cust_8454b9db8c501a44acfc,Alex,Nguyen,alex.nguyen.4537@example.com,Oak Park,IL,instagram,2026-06-07T13:55:15.000Z
+cust_80fd5b4ec40be3ee0b2a,Drew,Wilson,drew.wilson.792@example.com,Dallas,TX,referral,2026-06-07T14:35:49.000Z
+cust_cc8c00447b49cb60c673,Taylor,Johnson,taylor.johnson.9997@example.com,Raleigh,NC,organic_search,2026-06-07T15:19:14.000Z
+cust_64908ae053a56abfd857,Drew,Johnson,drew.johnson.562@example.com,Fort Worth,TX,tiktok,2026-06-07T18:48:09.000Z
+cust_91c2910380159a0629cc,Jordan,Kim,jordan.kim.9155@example.com,Atlanta,GA,paid_search,2026-06-07T20:01:05.000Z
+cust_edab0ce6c30531a441db,Alex,Patel,alex.patel.9340@example.com,Tampa,FL,instagram,2026-06-07T21:42:25.000Z
+cust_6b4853ccba04a6327cd4,Noah,Wilson,noah.wilson.288@example.com,Somerville,MA,paid_search,2026-06-07T21:59:31.000Z
+cust_939c9ec69ada12808179,Drew,Anderson,drew.anderson.7213@example.com,Naperville,IL,referral,2026-06-07T22:01:43.000Z
+cust_f4e0ff86961adf8c1415,Lena,Kim,lena.kim.7888@example.com,Athens,GA,email,2026-06-07T22:18:33.000Z
+cust_c0639ef0cfd16ae1f13f,Riley,Wright,riley.wright.1224@example.com,Phoenix,AZ,tiktok,2026-06-08T06:12:51.000Z
+cust_ee52959acee00c4075f4,Sofia,Davis,sofia.davis.7114@example.com,Austin,TX,instagram,2026-06-08T06:26:04.000Z
+cust_cc1d6c9ea2be92eef5eb,Jamie,Nguyen,jamie.nguyen.7779@example.com,Tucson,AZ,popup_event,2026-06-08T07:05:23.000Z
+cust_3c0c3dd87f6161e377c4,Jamie,Kim,jamie.kim.7993@example.com,Phoenix,AZ,email,2026-06-08T09:15:09.000Z
+cust_eea0a1e22d531d3b5ee1,Miles,Kim,miles.kim.9890@example.com,Oak Park,IL,popup_event,2026-06-08T10:13:31.000Z
+cust_8c1ed387470304818353,Iris,Kim,iris.kim.2681@example.com,Cambridge,MA,tiktok,2026-06-08T11:45:34.000Z
+cust_c4d1e68ddfa0cb58db1f,Morgan,Lewis,morgan.lewis.8957@example.com,Seattle,WA,popup_event,2026-06-08T13:01:32.000Z
+cust_0e20be641f8a23863101,Avery,Anderson,avery.anderson.6168@example.com,San Francisco,CA,tiktok,2026-06-08T13:40:37.000Z
+cust_0e75c87084bd00e65bfc,Avery,Wilson,avery.wilson.6624@example.com,Chicago,IL,paid_search,2026-06-08T15:03:52.000Z
+cust_14883ffb7d9464a812ba,Cameron,Hall,cameron.hall.1823@example.com,Savannah,GA,tiktok,2026-06-08T15:22:24.000Z
+cust_a5fd8f219dba08de5f10,Drew,Martinez,drew.martinez.1007@example.com,Denver,CO,tiktok,2026-06-08T15:45:00.000Z
+cust_1e7036f3347af257ceca,Evan,Young,evan.young.2354@example.com,Naperville,IL,popup_event,2026-06-08T16:00:13.000Z
+cust_1104d1190baffd97c2d3,Avery,Smith,avery.smith.9229@example.com,San Diego,CA,organic_search,2026-06-08T16:51:10.000Z
+cust_afc94eba67bcbdf2aa98,Jordan,Anderson,jordan.anderson.865@example.com,Decatur,GA,referral,2026-06-08T17:23:40.000Z
+cust_58c3e2c7529f8764f4f2,Priya,Nguyen,priya.nguyen.802@example.com,Colorado Springs,CO,organic_search,2026-06-08T17:30:33.000Z
+cust_43c3c1439a2960b4c7f6,Noah,Allen,noah.allen.5272@example.com,Oak Park,IL,instagram,2026-06-08T17:53:27.000Z
+cust_538138e2afe33826f23c,Jamie,Wright,jamie.wright.5587@example.com,Naperville,IL,popup_event,2026-06-08T18:07:41.000Z
+cust_71a5db010b960c5fa09d,Casey,Lee,casey.lee.7759@example.com,Dallas,TX,email,2026-06-08T18:53:41.000Z
+cust_780a6ea312a18de1f69c,Iris,Kim,iris.kim.4587@example.com,Spokane,WA,organic_search,2026-06-09T06:39:30.000Z
+cust_aaaa4cf69594a87d3e95,Theo,Miller,theo.miller.7226@example.com,Naperville,IL,paid_search,2026-06-09T09:51:17.000Z
+cust_31dce72b794bf014dc43,Riley,Allen,riley.allen.4963@example.com,Salem,OR,email,2026-06-09T10:19:12.000Z
+cust_a0fc35e2dc728a1808a7,Iris,Lewis,iris.lewis.470@example.com,Durham,NC,organic_search,2026-06-09T11:18:27.000Z
+cust_0e32d2ad70f17678f8cf,Lena,Martinez,lena.martinez.7716@example.com,New York,NY,tiktok,2026-06-09T15:14:14.000Z
+cust_0e99045b91cfcf2861fa,Morgan,Walker,morgan.walker.8861@example.com,Asheville,NC,tiktok,2026-06-09T16:12:01.000Z
+cust_a80eed90e2426f590acb,Casey,Lee,casey.lee.3544@example.com,Boston,MA,referral,2026-06-09T16:43:00.000Z
+cust_d631d19eec08518bb812,Noah,Young,noah.young.487@example.com,Austin,TX,referral,2026-06-09T17:23:59.000Z
+cust_8b5d3910dc61db903505,Sofia,Clark,sofia.clark.3319@example.com,Tucson,AZ,email,2026-06-09T17:58:45.000Z
+cust_2d7cffdd40a8b6514ff6,Jordan,Martinez,jordan.martinez.2760@example.com,Miami,FL,referral,2026-06-09T19:07:56.000Z
+cust_b7ccee1c18fb66a22ea2,Iris,Wright,iris.wright.1474@example.com,Durham,NC,organic_search,2026-06-09T20:10:47.000Z
+cust_a5a84ad0e27756fb19b9,Lena,Brown,lena.brown.4398@example.com,San Francisco,CA,tiktok,2026-06-09T20:17:31.000Z
+cust_720b69b93932a52db4d2,Jamie,Kim,jamie.kim.9686@example.com,New York,NY,popup_event,2026-06-09T21:31:38.000Z
+cust_94dd38afb8263c7c8025,Morgan,Lee,morgan.lee.8512@example.com,Cambridge,MA,paid_search,2026-06-09T21:38:29.000Z
+cust_aa1fa6ca06583775c3e0,Noah,Lee,noah.lee.862@example.com,Atlanta,GA,referral,2026-06-09T22:30:21.000Z
+cust_ee2483438d220d31a064,Drew,Young,drew.young.1921@example.com,Somerville,MA,email,2026-06-09T23:02:55.000Z
+cust_b69773ed5908416f0824,Evan,Brown,evan.brown.8347@example.com,Bellevue,WA,popup_event,2026-06-10T06:16:09.000Z
+cust_5f130cadb777f275f752,Maya,Patel,maya.patel.8713@example.com,Phoenix,AZ,organic_search,2026-06-10T06:53:49.000Z
+cust_80f7704f480d29204bea,Riley,Anderson,riley.anderson.9240@example.com,Portland,OR,email,2026-06-10T08:11:19.000Z
+cust_3239ab9733b426b5aad3,Morgan,Brown,morgan.brown.3120@example.com,Salem,OR,tiktok,2026-06-10T08:42:11.000Z
+cust_f97fbae6d965e8594cdf,Avery,Davis,avery.davis.1484@example.com,Salem,OR,organic_search,2026-06-10T11:01:58.000Z
+cust_5f7c6625789e091acd20,Priya,Lewis,priya.lewis.5275@example.com,Sacramento,CA,organic_search,2026-06-10T11:24:18.000Z
+cust_f7672c718a015ce1f5b0,Sofia,Miller,sofia.miller.6587@example.com,Dallas,TX,referral,2026-06-10T11:49:47.000Z
+cust_93b6c494ac0566c68d02,Morgan,Nguyen,morgan.nguyen.7178@example.com,Boulder,CO,referral,2026-06-10T12:25:39.000Z
+cust_1b5ea7500c55d799a56e,Iris,Allen,iris.allen.4378@example.com,Raleigh,NC,tiktok,2026-06-10T12:30:28.000Z
+cust_0dd7c9e8ccc691fe7ab5,Theo,Lee,theo.lee.9679@example.com,Tucson,AZ,referral,2026-06-10T13:28:27.000Z
+cust_eb340c08335b2edadc2f,Iris,Wright,iris.wright.6705@example.com,Seattle,WA,organic_search,2026-06-10T15:04:40.000Z
+cust_4eac2ee43663dd5a2d88,Miles,Lewis,miles.lewis.4506@example.com,Asheville,NC,paid_search,2026-06-10T15:25:31.000Z
+cust_9d372927af9d48c5c1c8,Jordan,Smith,jordan.smith.1301@example.com,Fort Worth,TX,tiktok,2026-06-10T15:36:53.000Z
+cust_b5f4daa557014da9c6c5,Casey,Brown,casey.brown.9693@example.com,Salem,OR,email,2026-06-10T15:45:51.000Z
+cust_9d14838493b8d660c5e9,Priya,Brown,priya.brown.8157@example.com,Newton,MA,popup_event,2026-06-10T16:06:33.000Z
+cust_63ec545a1553d6ec749c,Riley,Nguyen,riley.nguyen.6408@example.com,Charlotte,NC,referral,2026-06-10T16:55:30.000Z
+cust_62a22bf67d340c1ef7c3,Alex,Johnson,alex.johnson.4377@example.com,Oak Park,IL,popup_event,2026-06-10T18:33:47.000Z
+cust_a4e1e4bb62f5b0fc7e90,Jamie,Walker,jamie.walker.9392@example.com,Tampa,FL,instagram,2026-06-10T19:15:01.000Z
+cust_22d092574391c2fc5a72,Drew,Smith,drew.smith.2184@example.com,Bend,OR,paid_search,2026-06-10T20:18:42.000Z
+cust_30df3d9b62dbe8ce19fa,Sofia,Young,sofia.young.3937@example.com,Fort Collins,CO,paid_search,2026-06-10T22:23:05.000Z
+cust_236455a5cb0877cf52ac,Lena,Davis,lena.davis.6037@example.com,Savannah,GA,paid_search,2026-06-10T22:36:46.000Z
+cust_f1f2fb502a74cd5a8425,Sofia,Lee,sofia.lee.9875@example.com,Houston,TX,instagram,2026-06-10T23:25:15.000Z
+cust_ecfbb1b2e914d57d8391,Jamie,Johnson,jamie.johnson.8197@example.com,Buffalo,NY,instagram,2026-06-11T06:39:11.000Z
+cust_7140a088bd086e4f7559,Morgan,Miller,morgan.miller.3179@example.com,Tacoma,WA,email,2026-06-11T06:46:31.000Z
+cust_cac05b84ff4e91e10bd4,Jamie,Allen,jamie.allen.4982@example.com,Jacksonville,FL,tiktok,2026-06-11T06:51:25.000Z
+cust_d5c4febb33f371c839d5,Theo,Brown,theo.brown.7449@example.com,San Francisco,CA,email,2026-06-11T07:25:58.000Z
+cust_87326e1ff9382d574e9f,Alex,Hall,alex.hall.8170@example.com,Orlando,FL,tiktok,2026-06-11T09:10:00.000Z
+cust_ab1daa19c8b79b9e5a37,Cameron,Walker,cameron.walker.2979@example.com,Houston,TX,referral,2026-06-11T09:51:18.000Z
+cust_f08df53fc6122c2bb3f4,Maya,Nguyen,maya.nguyen.3959@example.com,Rochester,NY,tiktok,2026-06-11T10:27:41.000Z
+cust_3ae5e5ed2e8879b124f0,Jamie,Hall,jamie.hall.4823@example.com,Tacoma,WA,organic_search,2026-06-11T12:36:32.000Z
+cust_c3e445d2b9f21ef73bd8,Miles,Nguyen,miles.nguyen.4204@example.com,Tacoma,WA,referral,2026-06-11T14:31:36.000Z
+cust_29790c9cbf7a9c3beaed,Riley,Kim,riley.kim.3739@example.com,San Francisco,CA,paid_search,2026-06-11T18:20:35.000Z
+cust_0368b718e34cd31be848,Evan,Patel,evan.patel.2815@example.com,Cambridge,MA,referral,2026-06-11T23:19:52.000Z
+cust_4de90d495de774757fac,Riley,Anderson,riley.anderson.5672@example.com,Fort Collins,CO,instagram,2026-06-12T09:06:50.000Z
+cust_16f051e05c7bb4a6dc30,Miles,Anderson,miles.anderson.9472@example.com,Fort Collins,CO,tiktok,2026-06-12T10:58:35.000Z
+cust_c925ab80c42c5d145365,Nora,Walker,nora.walker.568@example.com,Athens,GA,organic_search,2026-06-12T12:40:49.000Z
+cust_c09304514ce37ff0061b,Priya,Lee,priya.lee.8199@example.com,Phoenix,AZ,email,2026-06-12T12:42:32.000Z
+cust_eb1e00810d95414a347b,Maya,Smith,maya.smith.2658@example.com,New York,NY,instagram,2026-06-12T15:12:42.000Z
+cust_a2b9d4d3a3ba53c98d8a,Cameron,Hall,cameron.hall.9083@example.com,Spokane,WA,popup_event,2026-06-12T15:59:41.000Z
+cust_9645f26e25cbba16f3a9,Casey,Garcia,casey.garcia.5954@example.com,Salem,OR,email,2026-06-12T19:56:11.000Z
+cust_89a080b680c23d250d67,Lena,Brown,lena.brown.8464@example.com,Brooklyn,NY,popup_event,2026-06-12T20:32:33.000Z
+cust_af2360e6e73e4a05e689,Cameron,Smith,cameron.smith.5088@example.com,Scottsdale,AZ,tiktok,2026-06-12T22:47:14.000Z
+cust_8cb650b0ceb422345eb5,Sofia,Lee,sofia.lee.1266@example.com,Cambridge,MA,email,2026-06-13T06:18:59.000Z
+cust_cb6c12b9fc6d9093bc2e,Evan,Johnson,evan.johnson.6691@example.com,Buffalo,NY,tiktok,2026-06-13T08:32:27.000Z
+cust_b8618d96fb8d7cf2d55d,Morgan,Johnson,morgan.johnson.9099@example.com,Dallas,TX,instagram,2026-06-13T09:27:41.000Z
+cust_0f459d6d3c72384af5bb,Jamie,Martinez,jamie.martinez.2956@example.com,Savannah,GA,email,2026-06-13T09:36:09.000Z
+cust_da92f7d0766f786d9bca,Theo,Hall,theo.hall.9770@example.com,Somerville,MA,organic_search,2026-06-13T11:46:46.000Z
+cust_819018c5c7d1a1af3ff7,Alex,Smith,alex.smith.2810@example.com,Jacksonville,FL,instagram,2026-06-13T12:05:10.000Z
+cust_6f501e4b5605f19d95b9,Drew,Kim,drew.kim.2820@example.com,Miami,FL,tiktok,2026-06-13T15:59:14.000Z
+cust_cc721656f9a4b02d14e2,Noah,Garcia,noah.garcia.9896@example.com,Cambridge,MA,popup_event,2026-06-13T16:42:54.000Z
+cust_cee142cb502801c29328,Miles,Kim,miles.kim.7001@example.com,Dallas,TX,referral,2026-06-13T17:05:56.000Z
+cust_1709c6ec0788a75a7e4f,Taylor,Lewis,taylor.lewis.8568@example.com,Tampa,FL,tiktok,2026-06-13T17:39:28.000Z
+cust_1b277d1a1f83cd4139c6,Lena,Kim,lena.kim.9282@example.com,Sacramento,CA,popup_event,2026-06-13T18:06:10.000Z
+cust_115838af00af752b20ae,Miles,Nguyen,miles.nguyen.2468@example.com,Decatur,GA,paid_search,2026-06-13T19:40:28.000Z
+cust_ee180ecf1b34d372cd33,Cameron,Walker,cameron.walker.2339@example.com,Houston,TX,instagram,2026-06-13T19:52:48.000Z
+cust_52b0c4832fd0291a13c1,Nora,Young,nora.young.3494@example.com,Tacoma,WA,organic_search,2026-06-13T20:39:56.000Z
+cust_a8957c37d92ea135566b,Casey,Garcia,casey.garcia.1922@example.com,Salem,OR,popup_event,2026-06-13T21:09:38.000Z
+cust_fd8098d6318bd1dce54e,Miles,Miller,miles.miller.3665@example.com,San Diego,CA,email,2026-06-13T21:20:17.000Z
+cust_aecbc5d19965bb8ecb71,Taylor,Wilson,taylor.wilson.7508@example.com,Buffalo,NY,paid_search,2026-06-13T21:49:35.000Z
+cust_9cb36bea2cc0b8838014,Iris,Miller,iris.miller.7436@example.com,Fort Worth,TX,email,2026-06-13T22:53:06.000Z
+cust_a0b8a87f849d2a900069,Taylor,Clark,taylor.clark.4173@example.com,Scottsdale,AZ,popup_event,2026-06-13T23:32:54.000Z
+cust_4cc1ebb35c175b4dad98,Maya,Davis,maya.davis.2915@example.com,Asheville,NC,popup_event,2026-06-13T23:33:14.000Z
+cust_0e21fdaf8cf51dab77f9,Miles,Smith,miles.smith.9486@example.com,Raleigh,NC,instagram,2026-06-13T23:36:45.000Z
+cust_713704b772a8ab6c05cf,Evan,Hall,evan.hall.5666@example.com,Austin,TX,email,2026-06-14T06:14:05.000Z
+cust_d73feb47af196fae1c6d,Cameron,Brown,cameron.brown.9897@example.com,Seattle,WA,organic_search,2026-06-14T08:24:11.000Z
+cust_4aae5f02a1bf9228b48b,Miles,Lee,miles.lee.3161@example.com,Athens,GA,email,2026-06-14T09:14:24.000Z
+cust_9c2ea729f26966d3f2e2,Noah,Patel,noah.patel.7734@example.com,Denver,CO,referral,2026-06-14T09:36:21.000Z
+cust_07b876c776d5ad393e3f,Iris,Smith,iris.smith.1343@example.com,Oak Park,IL,tiktok,2026-06-14T09:47:30.000Z
+cust_94bd376f773ff1e4555e,Theo,Allen,theo.allen.515@example.com,Tampa,FL,organic_search,2026-06-14T11:47:56.000Z
+cust_42adf5669c6e76ebc131,Jordan,Garcia,jordan.garcia.3436@example.com,Phoenix,AZ,tiktok,2026-06-14T11:52:02.000Z
+cust_fbe593c9e1e1cdce7f5b,Cameron,Young,cameron.young.9824@example.com,Somerville,MA,tiktok,2026-06-14T12:20:15.000Z
+cust_6ab1f7df969dcaa738be,Lena,Clark,lena.clark.2773@example.com,Tempe,AZ,tiktok,2026-06-14T13:03:19.000Z
+cust_604d47059b30d6cb4d9e,Cameron,Young,cameron.young.3255@example.com,Austin,TX,organic_search,2026-06-14T15:02:13.000Z
+cust_a7832aee4c2a83e5fcf7,Theo,Martinez,theo.martinez.995@example.com,Oak Park,IL,paid_search,2026-06-14T15:57:41.000Z
+cust_6cfb600a00d42c056b25,Iris,Kim,iris.kim.8954@example.com,Asheville,NC,popup_event,2026-06-14T18:35:48.000Z
+cust_51c2f03e9164054b8d85,Morgan,Clark,morgan.clark.7414@example.com,Evanston,IL,referral,2026-06-14T19:49:39.000Z
+cust_654ce610811946bf185a,Noah,Johnson,noah.johnson.1131@example.com,Los Angeles,CA,paid_search,2026-06-14T20:09:03.000Z
+cust_2d7011ced2e4822e3b30,Jamie,Smith,jamie.smith.2202@example.com,Athens,GA,popup_event,2026-06-14T22:45:17.000Z
+cust_78bf9092019ad4c6b9f3,Lena,Nguyen,lena.nguyen.5228@example.com,Seattle,WA,referral,2026-06-14T23:04:54.000Z
+cust_3726a1912a6971af5ac6,Lena,Smith,lena.smith.5614@example.com,Spokane,WA,organic_search,2026-06-14T23:16:37.000Z
+cust_af0ae753b6f9f7bd43ab,Alex,Kim,alex.kim.3551@example.com,Spokane,WA,instagram,2026-06-14T23:47:21.000Z
+cust_f6fcaef466d551f3104f,Taylor,Young,taylor.young.2276@example.com,Asheville,NC,popup_event,2026-06-15T08:56:44.000Z
+cust_477eebaa309a2b57ad9f,Iris,Young,iris.young.2303@example.com,Miami,FL,instagram,2026-06-15T10:03:12.000Z
+cust_9be265a0a222daebee3c,Casey,Miller,casey.miller.2713@example.com,Newton,MA,paid_search,2026-06-15T11:26:36.000Z
+cust_bc5304e4cab6afe7032d,Iris,Garcia,iris.garcia.5287@example.com,Buffalo,NY,email,2026-06-15T12:09:39.000Z
+cust_c652a4524eff8f203a40,Iris,Hall,iris.hall.5834@example.com,Brooklyn,NY,email,2026-06-15T12:14:38.000Z
+cust_5dd46372fa289882b5b8,Evan,Davis,evan.davis.2103@example.com,Atlanta,GA,popup_event,2026-06-15T12:26:33.000Z
+cust_0cc94fe8cf3f7e720833,Lena,Johnson,lena.johnson.273@example.com,Tucson,AZ,organic_search,2026-06-15T13:56:49.000Z
+cust_1cf114344a14c4a560fb,Casey,Kim,casey.kim.1892@example.com,Brooklyn,NY,popup_event,2026-06-15T14:53:21.000Z
+cust_2f533bb42d297f522acc,Morgan,Patel,morgan.patel.801@example.com,Boulder,CO,organic_search,2026-06-15T16:57:17.000Z
+cust_7303c6aa23e4b0baad42,Alex,Wilson,alex.wilson.4835@example.com,Spokane,WA,instagram,2026-06-15T17:09:35.000Z
+cust_a77723b0fef2eb319673,Jamie,Hall,jamie.hall.9745@example.com,Decatur,GA,tiktok,2026-06-15T17:14:30.000Z
+cust_d885b77af79dfb6b7015,Maya,Nguyen,maya.nguyen.2574@example.com,Austin,TX,tiktok,2026-06-15T18:25:02.000Z
+cust_b75aa2c22e6921484476,Miles,Wright,miles.wright.9507@example.com,Eugene,OR,organic_search,2026-06-15T20:09:20.000Z
+cust_5f285d35757a8e1cb4d9,Riley,Anderson,riley.anderson.8595@example.com,Evanston,IL,paid_search,2026-06-15T21:57:24.000Z
+cust_e837bc75966b25b51dd7,Sofia,Anderson,sofia.anderson.8560@example.com,Newton,MA,popup_event,2026-06-15T23:09:27.000Z
+cust_0e9c53ecd9af168000c7,Riley,Garcia,riley.garcia.5292@example.com,Tempe,AZ,tiktok,2026-06-16T06:43:18.000Z
+cust_1d949c1a930bd56b9bd6,Jamie,Johnson,jamie.johnson.5017@example.com,Buffalo,NY,referral,2026-06-16T06:55:01.000Z
+cust_3b3c307516812eff4142,Evan,Hall,evan.hall.3857@example.com,Durham,NC,popup_event,2026-06-16T07:33:30.000Z
+cust_a0793d1a917a76cb67ba,Evan,Lee,evan.lee.8224@example.com,Oak Park,IL,instagram,2026-06-16T07:40:36.000Z
+cust_e4e269df0b411ef8e3de,Riley,Lee,riley.lee.6437@example.com,Seattle,WA,popup_event,2026-06-16T08:35:02.000Z
+cust_2431af6a12e2755427d1,Casey,Young,casey.young.5601@example.com,Houston,TX,referral,2026-06-16T11:25:55.000Z
+cust_a69de4fda7c6ba065265,Sofia,Wright,sofia.wright.921@example.com,Sacramento,CA,email,2026-06-16T11:39:47.000Z
+cust_c7a75a9c8e576f53cfac,Jamie,Garcia,jamie.garcia.4990@example.com,Cambridge,MA,email,2026-06-16T12:12:59.000Z
+cust_c03d5667ede5c60471b0,Nora,Young,nora.young.9573@example.com,Fort Collins,CO,instagram,2026-06-16T12:13:18.000Z
+cust_1d892cb0f9fd24047975,Taylor,Brown,taylor.brown.767@example.com,Salem,OR,tiktok,2026-06-16T13:16:21.000Z
+cust_e491fb3034769a01cd2c,Sofia,Wright,sofia.wright.2991@example.com,Spokane,WA,email,2026-06-16T16:10:06.000Z
+cust_ec60cfc843eb27ea5a5d,Jamie,Davis,jamie.davis.6626@example.com,Bellevue,WA,tiktok,2026-06-16T20:45:35.000Z
+cust_cf1de14b4ae19e2ce8c8,Noah,Kim,noah.kim.2026@example.com,Newton,MA,organic_search,2026-06-16T21:20:54.000Z
+cust_b905109005fc05e8cce2,Maya,Allen,maya.allen.5463@example.com,Buffalo,NY,email,2026-06-17T08:32:52.000Z
+cust_cb9032ca4e8207407918,Lena,Wright,lena.wright.7042@example.com,Cambridge,MA,referral,2026-06-17T09:18:40.000Z
+cust_6ee127f086e9ae030fa7,Theo,Brown,theo.brown.6299@example.com,Portland,OR,instagram,2026-06-17T11:17:32.000Z
+cust_70346d0811427baf871e,Evan,Nguyen,evan.nguyen.9936@example.com,Phoenix,AZ,email,2026-06-17T11:30:30.000Z
+cust_7513474dc6182e66056c,Miles,Martinez,miles.martinez.3102@example.com,Colorado Springs,CO,email,2026-06-17T11:55:27.000Z
+cust_e4be51a816a40d2c9ad6,Nora,Martinez,nora.martinez.5623@example.com,Durham,NC,referral,2026-06-17T12:30:11.000Z
+cust_2d2aa09c561e68f4bd4b,Riley,Kim,riley.kim.7262@example.com,Newton,MA,instagram,2026-06-17T15:58:05.000Z
+cust_832c97e6e2981b071e1b,Alex,Martinez,alex.martinez.8211@example.com,Newton,MA,email,2026-06-17T17:04:04.000Z
+cust_d737245bc7a33db75836,Cameron,Kim,cameron.kim.6654@example.com,Somerville,MA,referral,2026-06-17T17:17:02.000Z
+cust_d03c900e9045268a2846,Morgan,Wright,morgan.wright.8770@example.com,Phoenix,AZ,popup_event,2026-06-17T17:24:14.000Z
+cust_d64bbeeac52a8d97a3bb,Maya,Brown,maya.brown.5481@example.com,Portland,OR,paid_search,2026-06-17T18:27:57.000Z
+cust_3b56a37328f814c1ff9a,Priya,Johnson,priya.johnson.575@example.com,Jacksonville,FL,organic_search,2026-06-17T19:44:29.000Z
+cust_24891dea2207bf638b37,Priya,Martinez,priya.martinez.400@example.com,Salem,OR,organic_search,2026-06-17T19:44:29.000Z
+cust_5877783ee11b495df82c,Morgan,Brown,morgan.brown.766@example.com,Tacoma,WA,popup_event,2026-06-17T21:30:26.000Z
+cust_da325d879bf0455ec0db,Iris,Allen,iris.allen.8370@example.com,San Diego,CA,email,2026-06-17T21:42:56.000Z
+cust_daeae93ab9dd51dfc4d1,Morgan,Anderson,morgan.anderson.9784@example.com,Spokane,WA,email,2026-06-17T21:50:57.000Z
+cust_28db3b3b6630728f8354,Evan,Clark,evan.clark.1515@example.com,Los Angeles,CA,email,2026-06-18T06:22:04.000Z
+cust_dfa77bd063559a7100df,Maya,Miller,maya.miller.3262@example.com,Tucson,AZ,paid_search,2026-06-18T07:23:24.000Z
+cust_2e24bfbdbf0486b9dfb3,Evan,Patel,evan.patel.2802@example.com,Brooklyn,NY,paid_search,2026-06-18T08:06:10.000Z
+cust_349cb2c4914b5619407e,Jamie,Lewis,jamie.lewis.5093@example.com,Salem,OR,tiktok,2026-06-18T08:09:06.000Z
+cust_7b9bd4455105e200a96d,Taylor,Lee,taylor.lee.1847@example.com,San Francisco,CA,referral,2026-06-18T11:24:28.000Z
+cust_eda188b303c8baceb01c,Sofia,Lewis,sofia.lewis.2033@example.com,Spokane,WA,instagram,2026-06-18T11:40:55.000Z
+cust_1c84a0161b0991e2aa05,Sofia,Hall,sofia.hall.5604@example.com,San Diego,CA,paid_search,2026-06-18T16:02:57.000Z
+cust_5848783ed399c3bb4743,Drew,Garcia,drew.garcia.8566@example.com,Fort Collins,CO,email,2026-06-18T18:31:36.000Z
+cust_f3adba59e5e84be798e8,Drew,Lee,drew.lee.9967@example.com,Scottsdale,AZ,referral,2026-06-18T18:36:32.000Z
+cust_a4a3fddaaab557d9948e,Taylor,Patel,taylor.patel.3819@example.com,Cambridge,MA,email,2026-06-18T20:37:06.000Z
+cust_b87e441f71689d89ecf0,Noah,Smith,noah.smith.6022@example.com,Cambridge,MA,paid_search,2026-06-18T23:19:07.000Z
+cust_c37eed88de034aa7da66,Taylor,Wright,taylor.wright.161@example.com,Atlanta,GA,paid_search,2026-06-18T23:39:04.000Z
+cust_d7ab511fca52dff5385f,Alex,Lee,alex.lee.3653@example.com,Somerville,MA,popup_event,2026-06-19T06:08:31.000Z
+cust_65582c972b6ce09bfccb,Taylor,Miller,taylor.miller.8258@example.com,Raleigh,NC,referral,2026-06-19T06:59:37.000Z
+cust_64b9acab2d370bc805ad,Avery,Wilson,avery.wilson.974@example.com,Buffalo,NY,tiktok,2026-06-19T13:21:03.000Z
+cust_aae9df57b9557abc865c,Evan,Johnson,evan.johnson.3295@example.com,Spokane,WA,paid_search,2026-06-19T14:50:19.000Z
+cust_2e791e172a9cc82595da,Miles,Lee,miles.lee.4630@example.com,Savannah,GA,paid_search,2026-06-19T14:55:25.000Z
+cust_473c0f10b9a0c63bef55,Taylor,Patel,taylor.patel.3793@example.com,Savannah,GA,referral,2026-06-19T15:19:21.000Z
+cust_b0982ab5af48a8a775cb,Priya,Walker,priya.walker.5184@example.com,Colorado Springs,CO,organic_search,2026-06-19T15:45:07.000Z
+cust_77ae48512a42a3dd71c6,Priya,Walker,priya.walker.3407@example.com,Asheville,NC,popup_event,2026-06-19T16:12:30.000Z
+cust_ee9bf6ce095f23c6ab01,Evan,Brown,evan.brown.4583@example.com,San Diego,CA,paid_search,2026-06-19T18:10:08.000Z
+cust_ea43dd4657533031855c,Drew,Brown,drew.brown.1061@example.com,Seattle,WA,email,2026-06-19T18:24:58.000Z
+cust_7ecf752c63211b7ad124,Riley,Wilson,riley.wilson.2297@example.com,New York,NY,instagram,2026-06-19T19:03:11.000Z
+cust_040052b5d0cafa7d0121,Priya,Wright,priya.wright.8580@example.com,Miami,FL,paid_search,2026-06-19T20:34:32.000Z
+cust_0cbc5ae9458e6d8d3f89,Nora,Garcia,nora.garcia.3717@example.com,Fort Collins,CO,email,2026-06-19T21:22:11.000Z
+cust_c1fa374d9c00d473c43a,Jamie,Smith,jamie.smith.6175@example.com,Asheville,NC,popup_event,2026-06-19T21:51:51.000Z
+cust_6a193ca60e25b9bbbbab,Cameron,Patel,cameron.patel.3953@example.com,Phoenix,AZ,paid_search,2026-06-20T06:07:55.000Z
+cust_b6e218681bd75c1573ea,Nora,Miller,nora.miller.1169@example.com,Charlotte,NC,popup_event,2026-06-20T06:08:44.000Z
+cust_b8c2c33ec8b5eb31d265,Lena,Garcia,lena.garcia.5026@example.com,Dallas,TX,organic_search,2026-06-20T07:36:36.000Z
+cust_24777ffdc32a10bdceae,Morgan,Garcia,morgan.garcia.3098@example.com,Seattle,WA,organic_search,2026-06-20T09:59:27.000Z
+cust_0206e1452445323b31d7,Iris,Brown,iris.brown.4844@example.com,Houston,TX,instagram,2026-06-20T10:09:48.000Z
+cust_f38fc019c3f7a6f2bf80,Jordan,Anderson,jordan.anderson.9044@example.com,Bend,OR,referral,2026-06-20T10:14:45.000Z
+cust_ea8f4c1aa51c521cebdc,Riley,Anderson,riley.anderson.2717@example.com,Naperville,IL,instagram,2026-06-20T11:23:41.000Z
+cust_1297f5accd8529d571ca,Iris,Smith,iris.smith.5356@example.com,Fort Worth,TX,instagram,2026-06-20T11:39:48.000Z
+cust_832c748c3ca488f57a2f,Jamie,Smith,jamie.smith.2942@example.com,Asheville,NC,instagram,2026-06-20T12:05:04.000Z
+cust_bcb8eec0f2962c6d38e8,Alex,Walker,alex.walker.1096@example.com,Eugene,OR,referral,2026-06-20T14:19:22.000Z
+cust_4299de93d5c6aab4c237,Noah,Kim,noah.kim.2498@example.com,Decatur,GA,paid_search,2026-06-20T18:23:39.000Z
+cust_99ac80590eff8593f281,Drew,Johnson,drew.johnson.2109@example.com,Durham,NC,tiktok,2026-06-20T21:27:46.000Z
+cust_cbafd4ac43463199a2c5,Avery,Walker,avery.walker.6208@example.com,Colorado Springs,CO,popup_event,2026-06-20T22:52:42.000Z
+cust_32ee45985255d1a22bc9,Jordan,Lewis,jordan.lewis.8204@example.com,Tempe,AZ,paid_search,2026-06-20T23:15:34.000Z
+cust_17fee0c66e3b9f101c90,Drew,Young,drew.young.8742@example.com,New York,NY,referral,2026-06-21T06:58:31.000Z
+cust_5649ed27ddf856f20049,Jordan,Wilson,jordan.wilson.2638@example.com,Boulder,CO,instagram,2026-06-21T08:36:40.000Z
+cust_46c55e70a21bd3b97520,Jamie,Patel,jamie.patel.3415@example.com,Brooklyn,NY,organic_search,2026-06-21T08:38:52.000Z
+cust_efdb7654837ce65b8a87,Avery,Anderson,avery.anderson.351@example.com,Boston,MA,popup_event,2026-06-21T11:31:58.000Z
+cust_e6ffea721253cf808634,Cameron,Allen,cameron.allen.5039@example.com,Boulder,CO,referral,2026-06-21T11:49:39.000Z
+cust_97a6a1b64911e544ef33,Alex,Brown,alex.brown.1438@example.com,Atlanta,GA,instagram,2026-06-21T12:02:53.000Z
+cust_d66486e9994cbb489bd0,Avery,Miller,avery.miller.6417@example.com,Rochester,NY,tiktok,2026-06-21T12:58:56.000Z
+cust_e88d6ada5b13d959e05e,Priya,Patel,priya.patel.7604@example.com,Tacoma,WA,organic_search,2026-06-21T14:02:47.000Z
+cust_745d671738e82bcb2b30,Casey,Lewis,casey.lewis.709@example.com,Tempe,AZ,referral,2026-06-21T14:27:44.000Z
+cust_6174df20146a5d4c8609,Maya,Davis,maya.davis.2966@example.com,Miami,FL,organic_search,2026-06-21T15:31:19.000Z
+cust_a4dec1ac54afc03acaa5,Jordan,Nguyen,jordan.nguyen.3740@example.com,Rochester,NY,organic_search,2026-06-21T15:51:08.000Z
+cust_056f6bbbf207d3927c63,Evan,Martinez,evan.martinez.2022@example.com,Fort Collins,CO,referral,2026-06-21T16:12:08.000Z
+cust_c29d26175cc7747b30c2,Drew,Hall,drew.hall.2981@example.com,Decatur,GA,organic_search,2026-06-21T16:56:21.000Z
+cust_39bfb6b476b12a1dce45,Jordan,Patel,jordan.patel.2868@example.com,Jacksonville,FL,paid_search,2026-06-21T18:17:50.000Z
+cust_c02456e69faaebb00e8d,Cameron,Hall,cameron.hall.392@example.com,San Francisco,CA,instagram,2026-06-21T18:53:32.000Z
+cust_6d5dbee16e5570f9250f,Avery,Clark,avery.clark.5534@example.com,Jacksonville,FL,organic_search,2026-06-21T20:34:13.000Z
+cust_0130d0d237a4f54a6ae3,Riley,Johnson,riley.johnson.2754@example.com,Boston,MA,organic_search,2026-06-21T20:49:16.000Z
+cust_870e285f9716be2ff1d3,Avery,Smith,avery.smith.7812@example.com,Evanston,IL,email,2026-06-21T21:26:27.000Z
+cust_8dee45b298b7f5418f8e,Iris,Hall,iris.hall.7378@example.com,Decatur,GA,popup_event,2026-06-21T23:11:02.000Z
+cust_66557cb45074991a8c16,Taylor,Brown,taylor.brown.4951@example.com,Decatur,GA,email,2026-06-21T23:18:35.000Z
+cust_f496c7ac6a7a00dc3bf1,Evan,Hall,evan.hall.6692@example.com,Fort Collins,CO,paid_search,2026-06-21T23:33:28.000Z
+cust_506e6fbff61ad629958c,Taylor,Smith,taylor.smith.6048@example.com,Denver,CO,email,2026-06-22T06:28:37.000Z
+cust_257892a6b9b64ca91cad,Avery,Hall,avery.hall.3866@example.com,Spokane,WA,referral,2026-06-22T06:38:32.000Z
+cust_1d466fb27e7a67f2698d,Priya,Garcia,priya.garcia.565@example.com,Portland,OR,referral,2026-06-22T06:52:55.000Z
+cust_790c93a888929a21d273,Noah,Lewis,noah.lewis.7976@example.com,Orlando,FL,organic_search,2026-06-22T08:07:05.000Z
+cust_aa8176f43d0998c8ca4e,Evan,Martinez,evan.martinez.8147@example.com,Jacksonville,FL,paid_search,2026-06-22T10:44:48.000Z
+cust_6baa9ca41c6f78fb1b3a,Evan,Wilson,evan.wilson.2366@example.com,Denver,CO,paid_search,2026-06-22T11:06:14.000Z
+cust_b57f5f5ae9fde8096239,Lena,Brown,lena.brown.7990@example.com,Phoenix,AZ,paid_search,2026-06-22T11:19:43.000Z
+cust_eb7276bbeb5653f9821b,Morgan,Patel,morgan.patel.9083@example.com,Cambridge,MA,organic_search,2026-06-22T14:46:16.000Z
+cust_ec78b15936ead3155ca0,Evan,Allen,evan.allen.5173@example.com,Scottsdale,AZ,organic_search,2026-06-22T21:48:32.000Z
+cust_ade484d0cd7e91417573,Lena,Davis,lena.davis.8906@example.com,Atlanta,GA,instagram,2026-06-22T21:51:43.000Z
+cust_18a719e32d8f9752a9d1,Avery,Smith,avery.smith.902@example.com,Portland,OR,tiktok,2026-06-22T22:36:36.000Z
+cust_420d45ba80312b550610,Alex,Wright,alex.wright.6219@example.com,Buffalo,NY,tiktok,2026-06-22T23:41:51.000Z
+cust_4d327a275afd37cd586c,Cameron,Miller,cameron.miller.694@example.com,Charlotte,NC,paid_search,2026-06-23T08:05:01.000Z
+cust_bb29044bb62e3b293699,Jamie,Allen,jamie.allen.9067@example.com,Houston,TX,organic_search,2026-06-23T08:36:19.000Z
+cust_2427b421fccc409a1bc5,Maya,Patel,maya.patel.8829@example.com,San Francisco,CA,organic_search,2026-06-23T09:19:49.000Z
+cust_1e039c7f75bc54a635de,Maya,Hall,maya.hall.2061@example.com,Bend,OR,email,2026-06-23T09:34:37.000Z
+cust_c3bdecd51a55638f4593,Noah,Johnson,noah.johnson.3002@example.com,Newton,MA,referral,2026-06-23T11:16:26.000Z
+cust_47f796e916e29cbcfc71,Morgan,Anderson,morgan.anderson.1921@example.com,Raleigh,NC,popup_event,2026-06-23T13:19:39.000Z
+cust_e9105a390f8534b7bdff,Sofia,Martinez,sofia.martinez.6045@example.com,Savannah,GA,referral,2026-06-23T15:38:52.000Z
+cust_199cd506d39158ce3aff,Miles,Wright,miles.wright.7207@example.com,Charlotte,NC,referral,2026-06-23T16:24:03.000Z
+cust_e181fd2e13bb0d4bc5c6,Jordan,Anderson,jordan.anderson.4169@example.com,Evanston,IL,referral,2026-06-23T16:45:00.000Z
+cust_3e2589b4e57a26ece8b7,Priya,Wilson,priya.wilson.8129@example.com,Portland,OR,tiktok,2026-06-23T16:57:54.000Z
+cust_0553970c4ef899ec16e3,Riley,Nguyen,riley.nguyen.3560@example.com,Durham,NC,tiktok,2026-06-23T17:22:30.000Z
+cust_e0dc24d2853e106a630f,Jamie,Walker,jamie.walker.4474@example.com,San Diego,CA,popup_event,2026-06-23T20:13:44.000Z
+cust_6159b75e800431cbcec9,Jordan,Anderson,jordan.anderson.7353@example.com,Buffalo,NY,paid_search,2026-06-23T22:26:27.000Z
+cust_ef8da44da0e7949aec07,Miles,Nguyen,miles.nguyen.6933@example.com,Orlando,FL,email,2026-06-23T23:06:38.000Z
+cust_4411f61335b782bacf54,Morgan,Anderson,morgan.anderson.5676@example.com,Raleigh,NC,popup_event,2026-06-23T23:15:04.000Z
+cust_70b8e79860258ca7d6f3,Morgan,Kim,morgan.kim.8932@example.com,Portland,OR,popup_event,2026-06-24T06:16:19.000Z
+cust_8acca70573f9e0e5d608,Noah,Martinez,noah.martinez.7764@example.com,Somerville,MA,organic_search,2026-06-24T11:38:13.000Z
+cust_4023d84132b83ada7bca,Sofia,Nguyen,sofia.nguyen.8226@example.com,Jacksonville,FL,organic_search,2026-06-24T12:58:19.000Z
+cust_7999274a49a0cf557dd7,Sofia,Anderson,sofia.anderson.4807@example.com,San Diego,CA,organic_search,2026-06-24T16:09:28.000Z
+cust_4fedfdf9600d6e503897,Evan,Davis,evan.davis.8574@example.com,Chicago,IL,referral,2026-06-24T16:46:10.000Z
+cust_a5e20b82cb647f1eefbd,Lena,Garcia,lena.garcia.6834@example.com,Sacramento,CA,referral,2026-06-24T17:25:13.000Z
+cust_679e79204424434fd54b,Casey,Lewis,casey.lewis.5830@example.com,Tempe,AZ,popup_event,2026-06-24T18:03:52.000Z
+cust_3e2fdc499a553881d087,Riley,Patel,riley.patel.133@example.com,Brooklyn,NY,paid_search,2026-06-24T19:09:03.000Z
+cust_aa8cbe35791fc9ea7819,Morgan,Kim,morgan.kim.4753@example.com,Tampa,FL,popup_event,2026-06-24T20:10:54.000Z
+cust_555377c422f51a68ad0c,Casey,Walker,casey.walker.3750@example.com,Buffalo,NY,paid_search,2026-06-24T20:42:32.000Z
+cust_f88ea1057288cb82a334,Sofia,Davis,sofia.davis.2911@example.com,Raleigh,NC,popup_event,2026-06-24T22:26:23.000Z
+cust_3a08abe6095354f25739,Morgan,Patel,morgan.patel.7378@example.com,Bellevue,WA,tiktok,2026-06-24T23:03:44.000Z
+cust_e2c466de3d5bf40a0163,Nora,Young,nora.young.9831@example.com,Seattle,WA,paid_search,2026-06-24T23:04:31.000Z
+cust_2c4368e6a06c12072aeb,Evan,Nguyen,evan.nguyen.4917@example.com,Charlotte,NC,popup_event,2026-06-25T08:58:33.000Z
+cust_f3b0db76326983a43544,Sofia,Kim,sofia.kim.9822@example.com,Fort Collins,CO,paid_search,2026-06-25T09:26:09.000Z
+cust_96395836a0402fee6c27,Drew,Nguyen,drew.nguyen.4371@example.com,Orlando,FL,referral,2026-06-25T10:48:25.000Z
+cust_d62efba05e148ea2f9b0,Drew,Walker,drew.walker.5637@example.com,Dallas,TX,instagram,2026-06-25T11:25:30.000Z
+cust_dde229eaab34e8b900af,Avery,Kim,avery.kim.4357@example.com,Portland,OR,referral,2026-06-25T12:58:10.000Z
+cust_9556a94ed9d98d424694,Miles,Lewis,miles.lewis.2261@example.com,Seattle,WA,instagram,2026-06-25T15:21:04.000Z
+cust_1e8d199654a52aa7b0a1,Taylor,Young,taylor.young.4470@example.com,Brooklyn,NY,instagram,2026-06-25T15:48:09.000Z
+cust_008c6eaaac1c7e1dcede,Noah,Walker,noah.walker.8894@example.com,Denver,CO,popup_event,2026-06-25T17:05:18.000Z
+cust_7e2994ca5c7924c9899e,Lena,Kim,lena.kim.7268@example.com,Athens,GA,referral,2026-06-25T18:21:29.000Z
+cust_e68cf89b04ca2668c1f6,Avery,Martinez,avery.martinez.2297@example.com,Boulder,CO,popup_event,2026-06-25T19:34:50.000Z
+cust_ddbdae6ea0f007beed08,Riley,Clark,riley.clark.558@example.com,Bellevue,WA,tiktok,2026-06-25T21:01:46.000Z
+cust_d42c6e396e78e3a013be,Lena,Wilson,lena.wilson.2652@example.com,Chicago,IL,tiktok,2026-06-25T21:11:36.000Z
+cust_45cdbc246334dc96fb42,Sofia,Martinez,sofia.martinez.6647@example.com,Houston,TX,tiktok,2026-06-25T22:22:57.000Z
+cust_6cadee334e3f3d05b618,Noah,Kim,noah.kim.4501@example.com,Oak Park,IL,email,2026-06-26T07:49:01.000Z
+cust_62ec171f682e30ab32f7,Jamie,Martinez,jamie.martinez.3234@example.com,Miami,FL,instagram,2026-06-26T08:28:06.000Z
+cust_63dfb316c2234f5d532b,Evan,Garcia,evan.garcia.6526@example.com,Colorado Springs,CO,referral,2026-06-26T09:06:06.000Z
+cust_bc86827afec01fbe9840,Morgan,Smith,morgan.smith.170@example.com,Charlotte,NC,referral,2026-06-26T09:07:19.000Z
+cust_7cfcac935ec975e92158,Taylor,Young,taylor.young.4184@example.com,Decatur,GA,tiktok,2026-06-26T11:50:21.000Z
+cust_c4caf16aba067794c40d,Noah,Kim,noah.kim.3241@example.com,Denver,CO,organic_search,2026-06-26T11:55:47.000Z
+cust_5a9acdf404046f494993,Iris,Lee,iris.lee.3542@example.com,Tacoma,WA,tiktok,2026-06-26T12:21:06.000Z
+cust_3be40d1207e45e6b54a4,Lena,Davis,lena.davis.1464@example.com,Salem,OR,referral,2026-06-26T13:32:44.000Z
+cust_6f42c1df1e9bf493fe7a,Alex,Lewis,alex.lewis.1940@example.com,Bellevue,WA,organic_search,2026-06-26T14:28:31.000Z
+cust_67942a6f632cb1f7b83a,Alex,Lee,alex.lee.9674@example.com,Tucson,AZ,organic_search,2026-06-26T15:09:16.000Z
+cust_2a46feff408f51f4daef,Cameron,Wright,cameron.wright.770@example.com,Portland,OR,paid_search,2026-06-26T15:52:11.000Z
+cust_2218e8a3398a98798847,Evan,Clark,evan.clark.8200@example.com,Tempe,AZ,popup_event,2026-06-26T17:18:20.000Z
+cust_6e821fa72e51043749db,Cameron,Nguyen,cameron.nguyen.2654@example.com,Scottsdale,AZ,email,2026-06-26T17:40:07.000Z
+cust_dc82a246c3e4e0017052,Lena,Davis,lena.davis.8201@example.com,San Diego,CA,instagram,2026-06-26T20:02:02.000Z
+cust_d42a194910d82503c9c1,Nora,Allen,nora.allen.2441@example.com,Orlando,FL,instagram,2026-06-26T22:41:11.000Z
+cust_46a99723782551881534,Cameron,Wright,cameron.wright.3747@example.com,Fort Worth,TX,popup_event,2026-06-26T23:22:40.000Z
+cust_f606308b22d5a76816de,Evan,Miller,evan.miller.5042@example.com,Fort Collins,CO,instagram,2026-06-26T23:46:49.000Z
+cust_94a374127e9236809a3a,Noah,Lewis,noah.lewis.8456@example.com,Asheville,NC,organic_search,2026-06-27T06:50:06.000Z
+cust_b04976343a3012d16e0d,Iris,Martinez,iris.martinez.4146@example.com,Bellevue,WA,paid_search,2026-06-27T07:36:48.000Z
+cust_f5daf15f9e773ccaed60,Priya,Smith,priya.smith.5981@example.com,New York,NY,instagram,2026-06-27T08:27:12.000Z
+cust_22a43e267f7ddc62d543,Riley,Clark,riley.clark.6464@example.com,Sacramento,CA,email,2026-06-27T12:46:47.000Z
+cust_4eb4231b25a69726657a,Priya,Patel,priya.patel.8279@example.com,Fort Collins,CO,popup_event,2026-06-27T13:29:37.000Z
+cust_98165564a8d530ef6b51,Avery,Wilson,avery.wilson.9749@example.com,Tampa,FL,tiktok,2026-06-27T15:29:26.000Z
+cust_b84ea1f04f9b1e22a218,Jamie,Davis,jamie.davis.7819@example.com,Sacramento,CA,instagram,2026-06-27T16:31:28.000Z
+cust_b39d4e6b3ffcd880ca8d,Iris,Kim,iris.kim.172@example.com,Miami,FL,referral,2026-06-27T16:53:00.000Z
+cust_ee5c8bbf11327b6c795c,Theo,Nguyen,theo.nguyen.7317@example.com,Naperville,IL,tiktok,2026-06-27T17:07:55.000Z
+cust_9759cfd8dbfdac999f75,Drew,Martinez,drew.martinez.978@example.com,Evanston,IL,email,2026-06-27T18:24:02.000Z
+cust_49093c16b49d320c4d7e,Cameron,Anderson,cameron.anderson.6119@example.com,Asheville,NC,tiktok,2026-06-27T19:33:54.000Z
+cust_a82b95dbaf86c4fb6df7,Alex,Davis,alex.davis.4634@example.com,Tacoma,WA,referral,2026-06-27T21:37:48.000Z
+cust_58c778d5e1d84ce5d3b0,Riley,Patel,riley.patel.1945@example.com,New York,NY,paid_search,2026-06-27T22:43:34.000Z
+cust_45a80d3be1d269e207b8,Taylor,Allen,taylor.allen.8276@example.com,Boston,MA,organic_search,2026-06-27T23:53:48.000Z
+cust_1dc2cd6a39fcfd6c001b,Drew,Davis,drew.davis.1848@example.com,Durham,NC,referral,2026-06-28T06:25:13.000Z
+cust_499d661ce54ad97f1fd0,Drew,Wilson,drew.wilson.6377@example.com,Boston,MA,referral,2026-06-28T07:12:45.000Z
+cust_92e9be1658842374510c,Casey,Nguyen,casey.nguyen.4393@example.com,Naperville,IL,popup_event,2026-06-28T10:18:32.000Z
+cust_0d577f06fa425835ab76,Cameron,Hall,cameron.hall.6451@example.com,Orlando,FL,email,2026-06-28T10:27:26.000Z
+cust_329fee885e7f50236dd4,Jamie,Smith,jamie.smith.9366@example.com,Boulder,CO,referral,2026-06-28T10:37:31.000Z
+cust_755e4503ae626effcedc,Taylor,Walker,taylor.walker.2224@example.com,Decatur,GA,instagram,2026-06-28T11:46:02.000Z
+cust_11c775eb5debed716b32,Taylor,Garcia,taylor.garcia.575@example.com,Bend,OR,popup_event,2026-06-28T12:39:56.000Z
+cust_c9396fa123b25af318ed,Alex,Wilson,alex.wilson.8762@example.com,Naperville,IL,referral,2026-06-28T13:26:19.000Z
+cust_355e072b118ccbd1cb4d,Maya,Johnson,maya.johnson.9440@example.com,San Francisco,CA,instagram,2026-06-28T14:45:42.000Z
+cust_54c52873c244e22dad5a,Priya,Wright,priya.wright.3848@example.com,Dallas,TX,popup_event,2026-06-28T15:39:44.000Z
+cust_2a974f87c3b814cd6b5c,Drew,Clark,drew.clark.6757@example.com,New York,NY,organic_search,2026-06-28T15:52:10.000Z
+cust_3374dc4c61e5dce3b9ce,Priya,Johnson,priya.johnson.8705@example.com,Houston,TX,instagram,2026-06-28T17:30:59.000Z
+cust_60318e73855bec9c7a40,Jamie,Lee,jamie.lee.3207@example.com,Decatur,GA,instagram,2026-06-28T19:19:10.000Z
+cust_117cf3efaef598788abf,Drew,Kim,drew.kim.6851@example.com,Dallas,TX,organic_search,2026-06-28T20:35:45.000Z
+cust_fdd7f8197ccbd35d04dd,Priya,Wright,priya.wright.5377@example.com,Eugene,OR,instagram,2026-06-28T21:25:44.000Z
+cust_06b0072a43e387c25cb5,Cameron,Garcia,cameron.garcia.9225@example.com,Cambridge,MA,email,2026-06-28T23:15:19.000Z
+cust_666a8ae8b107b86a41ea,Taylor,Kim,taylor.kim.3703@example.com,San Diego,CA,popup_event,2026-06-29T06:35:57.000Z
+cust_9d2242e20fa78ede15ed,Noah,Allen,noah.allen.1716@example.com,Dallas,TX,organic_search,2026-06-29T06:42:15.000Z
+cust_4e00da954ee8d5c97579,Jordan,Young,jordan.young.120@example.com,Somerville,MA,referral,2026-06-29T06:55:06.000Z
+cust_c4f715545e9affc1f46e,Iris,Lee,iris.lee.6143@example.com,Phoenix,AZ,organic_search,2026-06-29T07:42:22.000Z
+cust_429aec6a81e5a79f47cf,Iris,Patel,iris.patel.7999@example.com,Fort Worth,TX,tiktok,2026-06-29T08:50:06.000Z
+cust_c69da5b2845cd15c47d2,Morgan,Davis,morgan.davis.4906@example.com,Eugene,OR,referral,2026-06-29T09:15:05.000Z
+cust_0526d0d6241d45d0ddb3,Iris,Young,iris.young.6032@example.com,Rochester,NY,paid_search,2026-06-29T10:19:07.000Z
+cust_491556ddad87e3592905,Nora,Wright,nora.wright.986@example.com,Durham,NC,tiktok,2026-06-29T13:19:16.000Z
+cust_a78d3b4d04d81b71e39b,Casey,Smith,casey.smith.8338@example.com,Atlanta,GA,email,2026-06-29T16:31:20.000Z
+cust_baf0e6424407e9a1c1ff,Jordan,Wilson,jordan.wilson.1114@example.com,Dallas,TX,instagram,2026-06-29T16:46:20.000Z
+cust_de3c28704ce02d0f6af9,Drew,Hall,drew.hall.2845@example.com,Evanston,IL,email,2026-06-29T19:02:55.000Z
+cust_6a09d0105e6b78440842,Riley,Anderson,riley.anderson.4746@example.com,Savannah,GA,paid_search,2026-06-29T20:52:08.000Z
+cust_af3bedc20afc93b2e878,Taylor,Nguyen,taylor.nguyen.3041@example.com,Decatur,GA,referral,2026-06-29T21:01:21.000Z
+cust_de224b4def9994252c4b,Cameron,Lee,cameron.lee.4221@example.com,Miami,FL,tiktok,2026-06-29T23:21:14.000Z
+cust_f4a89153ba1f019cb571,Avery,Young,avery.young.8315@example.com,Durham,NC,tiktok,2026-06-30T06:04:11.000Z
+cust_65ca14a05cc2d2f9e772,Morgan,Lewis,morgan.lewis.5709@example.com,Eugene,OR,organic_search,2026-06-30T06:14:09.000Z
+cust_5baf5dc00cc23675b593,Drew,Brown,drew.brown.1352@example.com,Salem,OR,popup_event,2026-06-30T08:15:16.000Z
+cust_d4b52912e70004c36bec,Alex,Clark,alex.clark.2282@example.com,Tacoma,WA,email,2026-06-30T09:40:26.000Z
+cust_041494b6c5e4d49ec42e,Noah,Allen,noah.allen.7127@example.com,Charlotte,NC,organic_search,2026-06-30T12:31:16.000Z
+cust_574e0f7fc8f3c7a97acb,Casey,Walker,casey.walker.150@example.com,New York,NY,tiktok,2026-06-30T13:03:03.000Z
+cust_b54e8d84067383357821,Iris,Martinez,iris.martinez.2927@example.com,Savannah,GA,tiktok,2026-06-30T13:36:42.000Z
+cust_4fcfc4b6fbd69a298ad6,Jordan,Lee,jordan.lee.6199@example.com,Phoenix,AZ,referral,2026-06-30T13:49:08.000Z
+cust_911ba94748c11839c0bc,Alex,Clark,alex.clark.2212@example.com,Cambridge,MA,organic_search,2026-06-30T13:57:12.000Z
+cust_d2947b0322d4297fb048,Drew,Wilson,drew.wilson.5447@example.com,Denver,CO,organic_search,2026-06-30T15:20:03.000Z
+cust_b2902c1b6d856b589b9d,Jamie,Young,jamie.young.759@example.com,Eugene,OR,organic_search,2026-06-30T16:02:24.000Z
+cust_a14dea184ab008be42d5,Taylor,Smith,taylor.smith.1052@example.com,Oak Park,IL,tiktok,2026-06-30T19:08:25.000Z
+cust_3e0a91f12debf19be703,Avery,Wright,avery.wright.7862@example.com,Phoenix,AZ,tiktok,2026-06-30T19:15:51.000Z
+cust_2425a8d5376ae8115076,Priya,Johnson,priya.johnson.5383@example.com,Houston,TX,tiktok,2026-06-30T21:54:13.000Z
+cust_36194b70653bfba110ca,Taylor,Young,taylor.young.8049@example.com,Asheville,NC,tiktok,2026-06-30T22:11:41.000Z

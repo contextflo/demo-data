@@ -1,0 +1,225 @@
+{
+  "customers": {
+    "description": "Customer profiles, locations, and acquisition source.",
+    "columns": {
+      "id": "string",
+      "first_name": "string",
+      "last_name": "string",
+      "email": "string",
+      "city": "string",
+      "state": "string",
+      "acquisition_source": "string",
+      "created_at": "timestamp"
+    }
+  },
+  "products": {
+    "description": "Product catalog at the parent product level.",
+    "columns": {
+      "id": "string",
+      "name": "string",
+      "category": "string",
+      "sku": "string",
+      "price": "decimal",
+      "created_at": "timestamp"
+    }
+  },
+  "product_variants": {
+    "description": "Size, color, and gender variants for each product.",
+    "columns": {
+      "id": "string",
+      "product_id": "string",
+      "sku": "string",
+      "color": "string",
+      "size": "string",
+      "gender": "string",
+      "price": "decimal",
+      "created_at": "timestamp"
+    }
+  },
+  "membership_subscriptions": {
+    "description": "Annual membership lifecycle and churn. Active members get 10% off orders.",
+    "columns": {
+      "id": "string",
+      "customer_id": "string",
+      "plan_name": "string",
+      "status": "string",
+      "price": "decimal",
+      "started_at": "timestamp",
+      "cancelled_at": "timestamp"
+    }
+  },
+  "marketing_campaigns": {
+    "description": "Campaign metadata by channel and target category. ended_at is null while a campaign is still running.",
+    "columns": {
+      "id": "string",
+      "name": "string",
+      "channel": "string",
+      "target_category": "string",
+      "budget": "decimal",
+      "started_at": "timestamp",
+      "ended_at": "timestamp"
+    }
+  },
+  "discount_codes": {
+    "description": "Promo codes tied to campaigns.",
+    "columns": {
+      "id": "string",
+      "campaign_id": "string",
+      "code": "string",
+      "discount_type": "string",
+      "discount_value": "decimal",
+      "started_at": "timestamp",
+      "ended_at": "timestamp"
+    }
+  },
+  "orders": {
+    "description": "Order-level transactions. total_amount = subtotal_amount - discount_amount, before returns.",
+    "columns": {
+      "id": "string",
+      "order_number": "string",
+      "customer_id": "string",
+      "discount_code_id": "string",
+      "channel": "string",
+      "subtotal_amount": "decimal",
+      "discount_amount": "decimal",
+      "total_amount": "decimal",
+      "created_at": "timestamp"
+    }
+  },
+  "order_items": {
+    "description": "Line items. total_price = quantity * unit_price.",
+    "columns": {
+      "id": "string",
+      "order_id": "string",
+      "product_id": "string",
+      "product_variant_id": "string",
+      "quantity": "integer",
+      "unit_price": "decimal",
+      "total_price": "decimal"
+    }
+  },
+  "returns": {
+    "description": "Returned items, linked to the order and the specific order item, with refund amount and reason.",
+    "columns": {
+      "id": "string",
+      "order_id": "string",
+      "order_item_id": "string",
+      "product_id": "string",
+      "product_variant_id": "string",
+      "reason": "string",
+      "refund_amount": "decimal",
+      "created_at": "timestamp"
+    }
+  },
+  "inventory_snapshots": {
+    "description": "Point-in-time inventory on hand and reserved by variant, not every movement.",
+    "columns": {
+      "id": "string",
+      "product_id": "string",
+      "product_variant_id": "string",
+      "snapshot_date": "date",
+      "quantity_on_hand": "integer",
+      "quantity_reserved": "integer"
+    }
+  },
+  "product_reviews": {
+    "description": "Ratings, written reviews, sentiment, and fit feedback.",
+    "columns": {
+      "id": "string",
+      "product_id": "string",
+      "product_variant_id": "string",
+      "customer_id": "string",
+      "rating": "integer",
+      "review_text": "string",
+      "sentiment": "string",
+      "fit_feedback": "string",
+      "reviewed_at": "timestamp"
+    }
+  },
+  "daily_ad_spend": {
+    "description": "Daily campaign-level marketing spend, impressions, clicks, and conversions.",
+    "columns": {
+      "id": "string",
+      "campaign_id": "string",
+      "spend_date": "date",
+      "channel": "string",
+      "spend": "decimal",
+      "impressions": "integer",
+      "clicks": "integer",
+      "conversions": "integer"
+    }
+  },
+  "site_events": {
+    "description": "Funnel events: product_viewed, added_to_cart, checkout_started, purchase_completed.",
+    "columns": {
+      "id": "string",
+      "customer_id": "string",
+      "session_id": "string",
+      "event_name": "string",
+      "product_id": "string",
+      "product_variant_id": "string",
+      "channel": "string",
+      "created_at": "timestamp"
+    }
+  },
+  "shipments": {
+    "description": "Fulfillment carrier, status, cost, and delivery timestamps. delivered_at is null while in transit.",
+    "columns": {
+      "id": "string",
+      "order_id": "string",
+      "carrier": "string",
+      "status": "string",
+      "shipping_state": "string",
+      "shipping_cost": "decimal",
+      "shipped_at": "timestamp",
+      "delivered_at": "timestamp"
+    }
+  },
+  "klaviyo_profiles": {
+    "description": "Email subscribers synced from Klaviyo. customer_id is null for subscribers who never bought.",
+    "columns": {
+      "id": "string",
+      "customer_id": "string",
+      "email": "string",
+      "first_name": "string",
+      "last_name": "string",
+      "consent_status": "string",
+      "created_at": "timestamp"
+    }
+  },
+  "klaviyo_flows": {
+    "description": "Automated Klaviyo email flows.",
+    "columns": {
+      "id": "string",
+      "name": "string",
+      "trigger_type": "string",
+      "status": "string",
+      "created_at": "timestamp"
+    }
+  },
+  "klaviyo_campaigns": {
+    "description": "One-off Klaviyo email campaigns.",
+    "columns": {
+      "id": "string",
+      "name": "string",
+      "subject_line": "string",
+      "list_name": "string",
+      "status": "string",
+      "send_time": "timestamp",
+      "recipient_count": "integer"
+    }
+  },
+  "klaviyo_events": {
+    "description": "Email engagement events (received, opened, clicked, bounced, unsubscribed) for campaigns and flows.",
+    "columns": {
+      "id": "string",
+      "person_id": "string",
+      "customer_id": "string",
+      "campaign_id": "string",
+      "flow_id": "string",
+      "type": "string",
+      "occurred_at": "timestamp",
+      "revenue_attributed": "decimal"
+    }
+  }
+}

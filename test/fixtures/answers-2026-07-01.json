@@ -1,0 +1,331 @@
+[
+  {
+    "id": "revenue_yesterday",
+    "answer": [
+      {
+        "revenue": 14457.15,
+        "orders": 52
+      }
+    ]
+  },
+  {
+    "id": "orders_last_week",
+    "answer": [
+      {
+        "orders": 404
+      }
+    ]
+  },
+  {
+    "id": "week_over_week",
+    "answer": [
+      {
+        "week": "last_week",
+        "revenue": 111305.45,
+        "orders": 404
+      },
+      {
+        "week": "week_before",
+        "revenue": 112811.88,
+        "orders": 409
+      }
+    ]
+  },
+  {
+    "id": "net_revenue_last_week_by_channel",
+    "answer": [
+      {
+        "channel": "online",
+        "net_revenue": 76147.87
+      },
+      {
+        "channel": "retail_store",
+        "net_revenue": 21764.65
+      },
+      {
+        "channel": "popup",
+        "net_revenue": 13290.15
+      }
+    ]
+  },
+  {
+    "id": "top_channel_30d",
+    "answer": [
+      {
+        "channel": "online",
+        "revenue": 336789.45
+      },
+      {
+        "channel": "retail_store",
+        "revenue": 90606.82
+      },
+      {
+        "channel": "popup",
+        "revenue": 48925.97
+      }
+    ]
+  },
+  {
+    "id": "mtd_vs_last_month",
+    "answer": [
+      {
+        "month_to_date": 0,
+        "same_point_last_month": 0
+      }
+    ]
+  },
+  {
+    "id": "discounts_last_month",
+    "answer": [
+      {
+        "discounts": 14529.8,
+        "discounted_orders": 510
+      }
+    ]
+  },
+  {
+    "id": "members",
+    "answer": [
+      {
+        "active_members": 256,
+        "cancelled_last_month": 5
+      }
+    ]
+  },
+  {
+    "id": "member_vs_non_member_order_value",
+    "answer": [
+      {
+        "segment": "member",
+        "orders": 1489,
+        "avg_subtotal": 289.59,
+        "avg_total": 263.17
+      },
+      {
+        "segment": "non_member",
+        "orders": 8025,
+        "avg_subtotal": 288.29,
+        "avg_total": 283.31
+      }
+    ]
+  },
+  {
+    "id": "repeat_revenue_share",
+    "answer": [
+      {
+        "kind": "first_order",
+        "revenue": 368151.65,
+        "pct_of_revenue": 13.8
+      },
+      {
+        "kind": "repeat",
+        "revenue": 2297247.34,
+        "pct_of_revenue": 86.2
+      }
+    ]
+  },
+  {
+    "id": "return_reasons_90d",
+    "answer": [
+      {
+        "reason": "not_as_expected",
+        "returns": 102,
+        "refunded": 15175.86
+      },
+      {
+        "reason": "wrong_size",
+        "returns": 99,
+        "refunded": 15299.68
+      },
+      {
+        "reason": "arrived_late",
+        "returns": 80,
+        "refunded": 10005.02
+      },
+      {
+        "reason": "changed_mind",
+        "returns": 78,
+        "refunded": 9612.72
+      },
+      {
+        "reason": "quality_issue",
+        "returns": 64,
+        "refunded": 8851.13
+      }
+    ]
+  },
+  {
+    "id": "return_rate_by_category",
+    "answer": [
+      {
+        "category": "socks",
+        "items_sold": 1255,
+        "items_returned": 54,
+        "return_rate_pct": 4.3
+      },
+      {
+        "category": "hydration",
+        "items_sold": 139,
+        "items_returned": 5,
+        "return_rate_pct": 3.6
+      },
+      {
+        "category": "running_shoes",
+        "items_sold": 7459,
+        "items_returned": 253,
+        "return_rate_pct": 3.39
+      },
+      {
+        "category": "jackets",
+        "items_sold": 1686,
+        "items_returned": 57,
+        "return_rate_pct": 3.38
+      },
+      {
+        "category": "singlets",
+        "items_sold": 4200,
+        "items_returned": 139,
+        "return_rate_pct": 3.31
+      },
+      {
+        "category": "shorts",
+        "items_sold": 4146,
+        "items_returned": 129,
+        "return_rate_pct": 3.11
+      },
+      {
+        "category": "accessories",
+        "items_sold": 144,
+        "items_returned": 3,
+        "return_rate_pct": 2.08
+      }
+    ]
+  },
+  {
+    "id": "slowest_carrier",
+    "answer": [
+      {
+        "carrier": "FedEx",
+        "delivered_shipments": 2251,
+        "avg_days_to_deliver": 4.01
+      },
+      {
+        "carrier": "USPS",
+        "delivered_shipments": 2293,
+        "avg_days_to_deliver": 3.99
+      },
+      {
+        "carrier": "UPS",
+        "delivered_shipments": 2355,
+        "avg_days_to_deliver": 3.95
+      },
+      {
+        "carrier": "DHL",
+        "delivered_shipments": 2329,
+        "avg_days_to_deliver": 3.94
+      }
+    ]
+  },
+  {
+    "id": "worst_rated_products_90d",
+    "answer": [
+      {
+        "name": "RunGear Race Singlet",
+        "reviews": 164,
+        "avg_rating": 3.98
+      },
+      {
+        "name": "RunGear Tempo Trainer",
+        "reviews": 161,
+        "avg_rating": 4
+      },
+      {
+        "name": "RunGear Air Singlet",
+        "reviews": 140,
+        "avg_rating": 4.03
+      }
+    ]
+  },
+  {
+    "id": "funnel_30d",
+    "answer": [
+      {
+        "event_name": "added_to_cart",
+        "events": 3425
+      },
+      {
+        "event_name": "checkout_started",
+        "events": 3425
+      },
+      {
+        "event_name": "product_viewed",
+        "events": 3425
+      },
+      {
+        "event_name": "purchase_completed",
+        "events": 3425
+      }
+    ]
+  },
+  {
+    "id": "email_rates_last_month",
+    "answer": [
+      {
+        "received": 4598,
+        "open_rate_pct": 38.3,
+        "click_rate_pct": 5.55
+      }
+    ]
+  },
+  {
+    "id": "best_roas_campaign",
+    "answer": [
+      {
+        "name": "Member Early Access Apr 2026",
+        "spend": 2585.41,
+        "revenue": 44184.62,
+        "roas": 17.09
+      },
+      {
+        "name": "Trail Season Launch 2026",
+        "spend": 12307.83,
+        "revenue": 111639.69,
+        "roas": 9.07
+      },
+      {
+        "name": "Spring Marathon Push 2026",
+        "spend": 18326.78,
+        "revenue": 128599.27,
+        "roas": 7.02
+      },
+      {
+        "name": "New Year Reset 2026",
+        "spend": 2835.65,
+        "revenue": 17540.08,
+        "roas": 6.19
+      },
+      {
+        "name": "Summer Speed Series 2026",
+        "spend": 7108.98,
+        "revenue": 42533.33,
+        "roas": 5.98
+      },
+      {
+        "name": "Member Early Access Jan 2026",
+        "spend": 2493,
+        "revenue": 14033.68,
+        "roas": 5.63
+      },
+      {
+        "name": "Race Week Popups Apr 2026",
+        "spend": 8826.03,
+        "revenue": 21639.89,
+        "roas": 2.45
+      }
+    ]
+  },
+  {
+    "id": "net_promoter_score",
+    "answer": null
+  }
+]

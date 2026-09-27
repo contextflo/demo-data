@@ -1,0 +1,237 @@
+# Canonical questions for the RunGear dataset.
+#
+# Questions use relative dates ("yesterday", "last month"), so they work on any
+# load. `demo-data answers` computes each answer for a given anchor date by
+# running `sql` in DuckDB over the shifted data. {{anchor}} becomes the anchor
+# date, the day after the data ends, so {{anchor}} - 1 day is "yesterday".
+#
+# All dates are UTC days. Weeks run Monday to Sunday. "Last month" is the last
+# full calendar month.
+#
+# `definition` is the business rule the answer depends on: the thing a model
+# gets wrong without context.
+
+- id: revenue_yesterday
+  question: How much revenue did RunGear make yesterday?
+  definition: Revenue is orders.total_amount, which is after discounts and before returns. Yesterday is the UTC day before the anchor.
+  sql: |
+    SELECT round(sum(total_amount), 2) AS revenue, count(*) AS orders
+    FROM orders
+    WHERE created_at >= {{anchor}} - INTERVAL 1 DAY AND created_at < {{anchor}}
+
+- id: orders_last_week
+  question: How many orders came through last week?
+  definition: Last week is the last full Monday-to-Sunday week before the anchor.
+  sql: |
+    SELECT count(*) AS orders
+    FROM orders
+    WHERE created_at >= date_trunc('week', {{anchor}}) - INTERVAL 7 DAY
+      AND created_at < date_trunc('week', {{anchor}})
+
+- id: week_over_week
+  question: How did we do last week vs the week before? Revenue and orders.
+  definition: Revenue is orders.total_amount. Weeks run Monday to Sunday; last week is the last full week before the anchor.
+  sql: |
+    SELECT
+      CASE WHEN created_at >= date_trunc('week', {{anchor}}) - INTERVAL 7 DAY THEN 'last_week' ELSE 'week_before' END AS week,
+      round(sum(total_amount), 2) AS revenue,
+      count(*) AS orders
+    FROM orders
+    WHERE created_at >= date_trunc('week', {{anchor}}) - INTERVAL 14 DAY
+      AND created_at < date_trunc('week', {{anchor}})
+    GROUP BY 1
+    ORDER BY 1
+
+- id: net_revenue_last_week_by_channel
+  question: What was net revenue last week after returns, by channel?
+  definition: Net revenue is orders.total_amount minus refunds on those orders. Refunds count against the week the order was placed, not the week of the return.
+  sql: |
+    WITH refunds AS (
+      SELECT order_id, sum(refund_amount) AS refunded FROM returns GROUP BY order_id
+    )
+    SELECT o.channel, round(sum(o.total_amount) - coalesce(sum(r.refunded), 0), 2) AS net_revenue
+    FROM orders o
+    LEFT JOIN refunds r ON r.order_id = o.id
+    WHERE o.created_at >= date_trunc('week', {{anchor}}) - INTERVAL 7 DAY
+      AND o.created_at < date_trunc('week', {{anchor}})
+    GROUP BY o.channel
+    ORDER BY net_revenue DESC
+
+- id: top_channel_30d
+  question: Which sales channel brought in the most revenue in the last 30 days?
+  definition: Revenue is orders.total_amount. The last 30 days are the 30 UTC days before the anchor.
+  sql: |
+    SELECT channel, round(sum(total_amount), 2) AS revenue
+    FROM orders
+    WHERE created_at >= {{anchor}} - INTERVAL 30 DAY AND created_at < {{anchor}}
+    GROUP BY channel
+    ORDER BY revenue DESC
+
+- id: mtd_vs_last_month
+  question: What is month-to-date revenue vs the same point last month?
+  definition: Month to date runs from the first of the anchor's month to the day before the anchor. The comparison covers the same number of days from the first of the previous month.
+  sql: |
+    WITH bounds AS (
+      SELECT date_trunc('month', {{anchor}}) AS month_start,
+             {{anchor}} - date_trunc('month', {{anchor}}) AS elapsed
+    )
+    SELECT
+      coalesce(round(sum(total_amount) FILTER (WHERE created_at >= month_start AND created_at < {{anchor}}), 2), 0) AS month_to_date,
+      coalesce(round(sum(total_amount) FILTER (
+        WHERE created_at >= month_start - INTERVAL 1 MONTH
+          AND created_at < month_start - INTERVAL 1 MONTH + elapsed
+      ), 2), 0) AS same_point_last_month
+    FROM orders, bounds
+
+- id: discounts_last_month
+  question: How much did we give away in discounts last month?
+  definition: orders.discount_amount, which is the larger of the 10% member discount and any discount code, never both.
+  sql: |
+    SELECT round(sum(discount_amount), 2) AS discounts, count(*) FILTER (WHERE discount_amount > 0) AS discounted_orders
+    FROM orders
+    WHERE created_at >= date_trunc('month', {{anchor}}) - INTERVAL 1 MONTH
+      AND created_at < date_trunc('month', {{anchor}})
+
+- id: members
+  question: How many active members do we have, and how many cancelled last month?
+  definition: A membership is active when its status is 'active'. Cancellations are counted by cancelled_at in the last full month.
+  sql: |
+    SELECT
+      count(*) FILTER (WHERE status = 'active') AS active_members,
+      count(*) FILTER (
+        WHERE cancelled_at >= date_trunc('month', {{anchor}}) - INTERVAL 1 MONTH
+          AND cancelled_at < date_trunc('month', {{anchor}})
+      ) AS cancelled_last_month
+    FROM membership_subscriptions
+
+- id: member_vs_non_member_order_value
+  question: Do members spend more than non-members per order?
+  definition: An order is a member order when the customer had a membership that had started and not yet been cancelled at the time of the order. Compared before discount (subtotal) and after (total), since members get 10% off.
+  sql: |
+    WITH classified AS (
+      SELECT o.*, EXISTS (
+        SELECT 1 FROM membership_subscriptions m
+        WHERE m.customer_id = o.customer_id
+          AND m.started_at <= o.created_at
+          AND (m.cancelled_at IS NULL OR m.cancelled_at > o.created_at)
+      ) AS is_member
+      FROM orders o
+    )
+    SELECT CASE WHEN is_member THEN 'member' ELSE 'non_member' END AS segment,
+           count(*) AS orders,
+           round(avg(subtotal_amount), 2) AS avg_subtotal,
+           round(avg(total_amount), 2) AS avg_total
+    FROM classified
+    GROUP BY 1
+    ORDER BY 1
+
+- id: repeat_revenue_share
+  question: What share of revenue comes from repeat customers vs first-time buyers?
+  definition: A customer's earliest order in the data is their first-time order; every later order is repeat. Revenue is orders.total_amount.
+  sql: |
+    WITH ranked AS (
+      SELECT total_amount, row_number() OVER (PARTITION BY customer_id ORDER BY created_at, id) AS n
+      FROM orders
+    )
+    SELECT CASE WHEN n = 1 THEN 'first_order' ELSE 'repeat' END AS kind,
+           round(sum(total_amount), 2) AS revenue,
+           round(100.0 * sum(total_amount) / (SELECT sum(total_amount) FROM orders), 1) AS pct_of_revenue
+    FROM ranked
+    GROUP BY 1
+    ORDER BY 1
+
+- id: return_reasons_90d
+  question: What are people returning most, and why?
+  definition: Returns created in the last 90 days, counted by reason.
+  sql: |
+    SELECT reason, count(*) AS returns, round(sum(refund_amount), 2) AS refunded
+    FROM returns
+    WHERE created_at >= {{anchor}} - INTERVAL 90 DAY AND created_at < {{anchor}}
+    GROUP BY reason
+    ORDER BY returns DESC, reason
+
+- id: return_rate_by_category
+  question: Which product categories have the highest return rate?
+  definition: Return rate is returned line items divided by line items sold (order_items rows), per product category, across all the data.
+  sql: |
+    SELECT p.category,
+           count(DISTINCT oi.id) AS items_sold,
+           count(DISTINCT r.id) AS items_returned,
+           round(100.0 * count(DISTINCT r.id) / count(DISTINCT oi.id), 2) AS return_rate_pct
+    FROM order_items oi
+    JOIN products p ON p.id = oi.product_id
+    LEFT JOIN returns r ON r.order_item_id = oi.id
+    GROUP BY p.category
+    ORDER BY return_rate_pct DESC, p.category
+
+- id: slowest_carrier
+  question: Which carrier is slowest to deliver?
+  definition: Average days from shipped_at to delivered_at, over delivered shipments only. In-transit shipments have no delivered_at.
+  sql: |
+    SELECT carrier,
+           count(*) AS delivered_shipments,
+           round(avg(epoch(delivered_at - shipped_at)) / 86400, 2) AS avg_days_to_deliver
+    FROM shipments
+    WHERE status = 'delivered'
+    GROUP BY carrier
+    ORDER BY avg_days_to_deliver DESC
+
+- id: worst_rated_products_90d
+  question: Which products have the worst ratings in the last 90 days?
+  definition: Average product_reviews.rating for reviews in the last 90 days, for products with at least 10 reviews in that period. Lowest three.
+  sql: |
+    SELECT p.name, count(*) AS reviews, round(avg(r.rating), 2) AS avg_rating
+    FROM product_reviews r
+    JOIN products p ON p.id = r.product_id
+    WHERE r.reviewed_at >= {{anchor}} - INTERVAL 90 DAY AND r.reviewed_at < {{anchor}}
+    GROUP BY p.name
+    HAVING count(*) >= 10
+    ORDER BY avg_rating, p.name
+    LIMIT 3
+
+- id: funnel_30d
+  question: Where are people dropping off between viewing, cart, and checkout in the last 30 days?
+  definition: site_events only records sessions that ended in a purchase, so every step has the same count and the data shows no drop-off. The honest answer says the funnel cannot be measured from this table.
+  sql: |
+    SELECT event_name, count(*) AS events
+    FROM site_events
+    WHERE created_at >= {{anchor}} - INTERVAL 30 DAY AND created_at < {{anchor}}
+    GROUP BY event_name
+    ORDER BY events DESC, event_name
+
+- id: email_rates_last_month
+  question: What were our email open and click rates last month?
+  definition: Open rate is 'Opened Email' events divided by 'Received Email' events; click rate is 'Clicked Email' divided by 'Received Email'. Campaigns and flows together, by occurred_at in the last full month.
+  sql: |
+    SELECT
+      count(*) FILTER (WHERE type = 'Received Email') AS received,
+      round(100.0 * count(*) FILTER (WHERE type = 'Opened Email') / count(*) FILTER (WHERE type = 'Received Email'), 2) AS open_rate_pct,
+      round(100.0 * count(*) FILTER (WHERE type = 'Clicked Email') / count(*) FILTER (WHERE type = 'Received Email'), 2) AS click_rate_pct
+    FROM klaviyo_events
+    WHERE occurred_at >= date_trunc('month', {{anchor}}) - INTERVAL 1 MONTH
+      AND occurred_at < date_trunc('month', {{anchor}})
+
+- id: best_roas_campaign
+  question: Which campaign had the best return on ad spend?
+  definition: ROAS is revenue from orders that used one of the campaign's discount codes, divided by the campaign's total spend in daily_ad_spend. Across all the data, for campaigns with spend.
+  sql: |
+    WITH spend AS (
+      SELECT campaign_id, sum(spend) AS spend FROM daily_ad_spend GROUP BY campaign_id
+    ),
+    revenue AS (
+      SELECT d.campaign_id, sum(o.total_amount) AS revenue
+      FROM orders o
+      JOIN discount_codes d ON d.id = o.discount_code_id
+      GROUP BY d.campaign_id
+    )
+    SELECT c.name, round(s.spend, 2) AS spend, round(coalesce(r.revenue, 0), 2) AS revenue,
+           round(coalesce(r.revenue, 0) / s.spend, 2) AS roas
+    FROM marketing_campaigns c
+    JOIN spend s ON s.campaign_id = c.id
+    LEFT JOIN revenue r ON r.campaign_id = c.id
+    ORDER BY roas DESC, c.name
+
+- id: net_promoter_score
+  question: What is our net promoter score?
+  definition: Not answerable. There is no survey or NPS data; product review ratings are not NPS. The right answer says so.
+  sql: null

@@ -1,0 +1,6 @@
+id,name,trigger_type,status,created_at
+kflow_c86eabfeae996a251b08,Welcome Series,profile_created,live,2025-12-05T14:54:38.000Z
+kflow_1912e6ee36f57a5393eb,Abandoned Cart,checkout_started,live,2025-12-01T16:32:16.000Z
+kflow_22c2277404d58f76abd0,Browse Abandonment,product_viewed,live,2025-11-07T13:30:47.000Z
+kflow_2ff95d5cc02c5d930d60,Post-Purchase Thank You,order_placed,live,2025-11-02T10:33:33.000Z
+kflow_5f4853a23679cf240b17,Win-Back,lapsed_customer,live,2025-11-15T19:06:45.000Z

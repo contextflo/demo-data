@@ -1,0 +1,29 @@
+{
+  "name": "@contextflo/demo-data",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A canonical demo dataset (RunGear, a fictional running gear brand) that loads into Postgres, DuckDB, BigQuery, Snowflake, and MySQL, with dates that end yesterday and questions whose answers are computed at load time.",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "bin": {
+    "demo-data": "bin/demo-data.mjs"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contextflo/demo-data.git"
+  },
+  "dependencies": {
+    "@duckdb/node-api": "^1.5.5-r.5",
+    "csv-parse": "^7.0.3",
+    "csv-stringify": "^6.9.0",
+    "pg": "^8.23.0",
+    "pg-copy-streams": "^7.0.0",
+    "yaml": "^2.9.1"
+  }
+}

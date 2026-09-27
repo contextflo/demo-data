@@ -1,0 +1,29 @@
+{
+  "dataset": "rungear",
+  "generator": "demo/rungear/generate-data.mjs in the ContextFlo monorepo",
+  "seed": "rungear-v1",
+  "start": "2026-01-01",
+  "days": 181,
+  "window_start": "2026-01-01",
+  "window_end": "2026-06-30",
+  "row_counts": {
+    "customers": 1629,
+    "products": 12,
+    "product_variants": 274,
+    "membership_subscriptions": 276,
+    "marketing_campaigns": 7,
+    "discount_codes": 7,
+    "orders": 9514,
+    "order_items": 19029,
+    "returns": 640,
+    "inventory_snapshots": 1644,
+    "product_reviews": 1986,
+    "daily_ad_spend": 180,
+    "site_events": 76116,
+    "shipments": 9458,
+    "klaviyo_profiles": 2362,
+    "klaviyo_flows": 5,
+    "klaviyo_campaigns": 19,
+    "klaviyo_events": 26096
+  }
+}
