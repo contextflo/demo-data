@@ -1,6 +1,6 @@
 {
   "dataset": "rungear",
-  "generator": "demo/rungear/generate-data.mjs in the ContextFlo monorepo",
+  "generator": "demo/rungear/generate-data.mjs in the Contextflo monorepo",
   "seed": "rungear-v1",
   "start": "2026-01-01",
   "days": 181,

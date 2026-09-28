@@ -4,7 +4,7 @@
 //   node demo/rungear/generate-data.mjs --seed rungear-v1 --start 2026-01-01 --days 181 --out /tmp/rungear
 //   node scripts/build-snapshot.mjs /tmp/rungear --seed rungear-v1 --start 2026-01-01 --days 181
 //
-// The generator lives in the ContextFlo monorepo. With the same seed, start and
+// The generator lives in the Contextflo monorepo. With the same seed, start and
 // days it produces byte-identical output, so the snapshot can always be rebuilt.
 
 import fs from 'node:fs'
@@ -51,7 +51,7 @@ function main() {
 
   const manifest = {
     dataset: 'rungear',
-    generator: 'demo/rungear/generate-data.mjs in the ContextFlo monorepo',
+    generator: 'demo/rungear/generate-data.mjs in the Contextflo monorepo',
     seed: options.seed,
     start: options.start,
     days: Number(options.days),
